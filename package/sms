@@ -1,0 +1,18384 @@
+L]-Eu^
+'3tBF
+/@ykt
+#eG"
+{Jb2
+!/35
+;QT64
+i@*M
+Beijing1
+Beijing1
+Xiaomi1
+Xiaomi1
+Xiaomi Chain CA 10
+190115130057Z
+390110130057Z0
+SecTools Test User1
+	San Diego1
+SecTools1
+California1"0 
+01 0000000000000009 SW_ID1"0 
+02 009470E100000000 HW_ID1
+04 0000 OEM_ID1
+05 000000A8 SW_SIZE1
+06 0000 MODEL_ID1
+07 0001 SHA2561"0 
+03 0000000000000002 DEBUG0
+o=f7
+[jQ~
+P)%i^z
+2%zM@
+WPhK4
+8Okak
+>)#r
+"e 0
+Rhqk{2
+yo,-
+Beijing1
+Beijing1
+Xiaomi1
+Xiaomi1
+Xiaomi Root CA 10
+151029030100Z
+351024030100Z0o1
+Beijing1
+Beijing1
+Xiaomi1
+Xiaomi1
+Xiaomi Chain CA 10
+nVal<
+J&C.
+'L->
+p}u~S
+mS/[
+<0:0
+Yu@}t
+7JLY
+Beijing1
+Beijing1
+Xiaomi1
+Xiaomi1
+Xiaomi Root CA 10
+151029015139Z
+351024015139Z0n1
+Beijing1
+Beijing1
+Xiaomi1
+Xiaomi1
+Xiaomi Root CA 10
+OzD7
+8V\{
+z"cw
+<0:0
+<b|?'
+;|<+^
+/ua$-
+Mivp
+Cp5j
+@c h0
+H,.B
+D#.B
+Montgomery multiplication for ARMv4, CRYPTOGAMS by <appro@openssl.org>
+SHA1 block transform for ARMv4, CRYPTOGAMS by <appro@openssl.org>
+vRQ>
+8STs
+LwH'
+SHA256 block transform for ARMv4, CRYPTOGAMS by <appro@openssl.org>
+@ #!
+!1C "
+Failed to unload App for rpmb
+ASSERT FAILED at (%s:%d): %s
+target/msm8996/init.c
+RPMB uninit failed
+mmc init failed!
+Platform type: %u is not supported
+%x.%x.%x
+ERROR: unable to read shared memory for ddrinfo
+t_usb_iface
+Failed to initialize qseecom
+Failed to start qseecom
+RPMB init failed
+Failed to load App for verified
+ fpsimd.fpsimd_settings=0
+ app_setting.use_app_setting=0
+target/msm8996/meminfo.c
+smem_ram_ptable_init_v1()
+Failed to add secondary banks memory addresses
+Invalid input: register array is null
+Invalid I2C addr in array
+mipi_dsi reg writes failed
+Error in programming CEC DSI addr
+Invalid input: pinfo is null
+Error in programming cec dsi addr
+Error in writing adv7533 setup registers
+Error in writing adv7533 timing registers
+backlight structure is not available
+backlight type:%d not supported
+%s: DSI PLL lock failed
+PLL failed to lock!
+ mdss_mdp.panel=
+hdmi
+hdmi:
+command line argument is greater than buffer size
+none
+sim_video_panel
+sim_dualdsi_video_panel
+sim_cmd_panel
+sim_dualdsi_cmd_panel
+thulium_dsi_pll_enable_seq
+JDI J1 panel
+JDI D1 panel
+pin %d= %d
+pin %d= 2
+error reading Rev ID from bridge chip
+lcd 3state id = %d
+Not able to search the panel:%s
+JDI/Rsp63452 FHD panel detected
+Sharp/NT35695 FHD panel detected
+LGD/TD4322 FHD panel detected
+LGD/TD4722 FHD panel detected
+Sharp/TD4722 FHD panel detected
+Sharp/Fte716 FHD panel detected
+AUO/Fte716 FHD panel detected
+Defalut Sharp/Fte716 FHD panel
+Display not enabled for %d HW type
+Error in initializing bridge chip
+topology config%d not supported. fallback to default config0
+topology config%d not supported. fallback to default config2
+PMIC_8941
+qcom,mdss_dsi_sharp_fhd_td4722_xcmd
+dsi:0:
+qcom,mdss-dsi-panel
+DISPLAY_1
+qcom,mdss_dsi_jdi_fhd_r63452_xcmd
+qcom,mdss_dsi_sharp_fte716_1080p_video
+qcom,mdss_dsi_auo_fte716_1080p_video
+qcom,mdss_dsi_lgd_fhd_td4722_cmd
+qcom,mdss_dsi_lgd_fhd_td4322_cmd
+qcom,mdss_dsi_lgd_sw43101_p2_fhd_video
+qcom,mdss_dsi_lgd_sw43101_fhd_video
+config1
+config0
+qcom,mdss_dsi_samsung_youm_Qhd_command
+qcom,mdss_dsi_samsung_Qhd_command
+qcom,mdss_dsi_samsung_temp_wqhd_command
+qcom,mdss_dsi_truly_1080p_cmd
+qcom,mdss_dsi_truly_1080p_video
+qcom,mdss_dsi_hx8379a_truly_fwvga_video
+qcom,mdss_dsi_adv7533_720p
+NONE
+qcom,mdss_dsi_adv7533_1080p
+qcom,dsi_jdi_4k_nofbc_video
+qcom,mdss_dsi_r69007_wqxga_cmd
+qcom,mdss_dsi_jdi_qhd_dualmipi_cmd
+qcom,dsi_jdi_qhd_video
+qcom,mdss_dsi_jdi_fhd_r63452_j1_pro_cmd
+qcom,mdss_dsi_jdi_fhd_r63452_pro_cmd
+qcom,mdss_dsi_jdi_fhd_r63452_j1_cmd
+qcom,mdss_dsi_jdi_fhd_r63452_cmd
+qcom,mdss_dsi_sharp_fhd_nt35695_cmd
+qcom,mdss_dsi_sharp_fhd_nt35695_video
+qcom,mdss_dsi_sharp_wqxga_video
+config2
+qcom,mdss_dsi_nt35597_dsc_wqxga_cmd
+dsi:1:
+DISPLAY_2
+qcom,mdss_dsi_nt35597_dsc_wqxga_video
+qcom,mdss_dsi_nt35597_wqxga_cmd
+qcom,mdss_dsi_nt35597_wqxga_video
+Unsupported ddr
+platform/msm8996/platform.c
+sdc%u_iface_clk
+failed to set sdc%u_iface_clk ret = %d
+platform/msm8996/acpuclock.c
+sdc%u_core_clk
+sdc frequency (%u) is not supported
+failed to set sdc%u_core_clk ret = %d
+uart%u_iface_clk
+uart%u_core_clk
+failed to set uart%u_iface_clk ret = %d
+failed to set uart%u_core_clk ret = %d
+Unsupported CE instance: %u
+usb20_noc_usb20_clk
+failed to set usb20_noc_clk. ret = %d
+usb20_master_clk
+failed to set usb20_master_clk. ret = %d
+usb20_mock_utmi_clk
+failed to set usb20_mock_utmi_clk ret = %d
+usb20_sleep_clk
+failed to set usb2_sleep_clk ret = %d
+usb30_iface_clk
+failed to set usb30_iface_clk. ret = %d
+usb30_master_clk
+failed to set usb30_master_clk. ret = %d
+gcc_aggre2_usb3_axi_clk
+failed to set aggre2_usb3_axi_clk, ret = %d
+usb30_phy_aux_clk
+failed to set usb30_phy_aux_clk. ret = %d
+usb30_mock_utmi_clk
+failed to set usb30_mock_utmi_clk ret = %d
+usb30_sleep_clk
+failed to set usb30_sleep_clk ret = %d
+usb_phy_cfg_ahb2phy_clk
+failed to enable usb_phy_cfg_ahb2phy_clk = %d
+usb30_pipe_clk
+failed to set usb30_pipe_clk. ret = %d
+master_clk
+usb30_phy_reset
+phy_reset_clk
+pipe_reset_clk
+Failed to assert usb30_master_reset clk
+Failed to assert usb30_phy_reset clk
+Failed to assert usb30_pipe_clk
+Failed to deassert usb_pipe_clk
+Failed to deassert usb30_phy_com_reset clk
+Failed to deassert usb30_master clk
+mmss_mmagic_ahb_clk
+failed to set mmagic_ahb_clk ret = %d
+smmu_mdp_ahb_clk
+failed to set smmu_mdp_ahb_clk ret = %d
+mdp_ahb_clk
+failed to set mdp_ahb_clk ret = %d
+mdss_mdp_clk
+failed to set mdp_clk_src ret = %d
+mdss_vsync_clk
+failed to set mdss vsync clk ret = %d
+mmss_mmagic_axi_clk
+failed to set mmss_mmagic_axi_clk ret = %d
+mmagic_bimc_axi_clk
+failed to set mmss_s0_axi_clk ret = %d
+mmss_s0_axi_clk
+mmagic_mdss_axi_clk
+smmu_mdp_axi_clk
+failed to set smmu_mdp_axi_clk ret = %d
+mdss_axi_clk
+failed to set mdss_axi_clk ret = %d
+mdss_esc0_clk
+failed to set esc0_clk ret = %d
+mdss_esc1_clk
+failed to set esc1_clk ret = %d
+Incorrect BLSP-%d or QUP-%d configuration
+blsp2_qup2_ahb_iface_clk
+Failed to enable %s clock
+blsp1_qup4_ahb_iface_clk
+gcc_blsp2_qup2_i2c_apps_clk
+gcc_blsp1_qup4_i2c_apps_clk
+Failed to get %s
+Failed to enable %s
+hdmi_ahb_clk
+failed to set hdmi_ahb_clk ret = %d
+hdmi_core_clk
+failed to set hdmi_core_clk ret = %d
+hdmi_extp_clk
+failed to set hdmi_extp_clk ret = %d
+sdc1_iface_clk
+sdc1_core_clk
+sdc2_iface_clk
+sdc2_core_clk
+uart8_iface_clk
+uart8_core_clk
+gcc_blsp2_qup2_i2c_apps_clk_src
+mdss_extpclk_clk
+extpclk_clk_src
+mdss_hdmi_clk
+hdmi_clk_src
+mdss_hdmi_ahb_clk
+mdss_mdp_clk_src
+axi_clk_src
+vsync_clk_src
+dsi_esc1_clk_src
+dsi_esc0_clk_src
+ahb_clk_src
+usb30_phy_aux_clk_src
+usb20_mock_utmi_clk_src
+usb30_mock_utmi_clk_src
+usb20_master_clk_src
+usb30_master_clk_src
+periph_noc_usb20_ahb_clk
+sys_noc_usb30_axi_clk
+gcc_sdcc2_ahb_clk
+gcc_sdcc2_apps_clk
+sdc2_clk
+gcc_sdcc1_ahb_clk
+gcc_sdcc1_apps_clk
+sdc1_clk
+gcc_blsp2_ahb_clk
+gcc_blsp2_uart2_apps_clk
+mmpll0_clk_src
+gpll4_clk_src
+gpll0_clk_src
+cxo_clk_src
+Incorrect QUP id %d
+platform/msm8996/gpio.c
+Incorrect BLSP id %d
+HALT: reboot into dload mode...
+HALT: spinning forever...
+ERROR: buf is NULL
+Unknown
+Surf
+Fluid
+SVLTE
+MDM_MTP_NO_DISPLAY
+Liquid
+Dragon
+A4_P1
+ERROR: Unknown smem ram ptable version: %u
+platform/msm_shared/smem_ptable.c
+Failed to read ptable hdr (%d)
+smem_ptable.len <= SMEM_PTABLE_MAX_PARTS
+Unknown ptable version (%d)
+Failed to read ptable (%d)
+0:APPS
+ERROR: Wrong smem_ram_ptable version: %u
+(ptn_entry.start & (MB-1)) == 0
+sbl1
+sbl2
+sbl3
+aboot
+modem_st1
+modem_st2
+efs2
+recovery
+misc
+GPT Header size is too small
+GPT Header size is too large
+Header crc mismatch crc_val = %u with crc_val_org = %u
+GPT first usable LBA mismatch
+Invalid first_usable_lba
+Invalid last_usable_lba
+Invalid parition entry size
+Invalid maximum partition count
+Failed to Allocate memory to read partition table
+Starting LBA mismatch
+GPT: Could not read primary gpt from mmc
+Partition entires crc mismatch crc_val= %u with crc_val_org= %u
+GPT: FAILED to write the partition entry array
+MBR signature does not match.
+Error allocating memory while reading partition table
+Could not read partition from mmc
+platform/msm_shared/partition_parser.c
+partition_entries
+MMC Boot: MBR read failed!
+card_size_sec > 0
+GPT: Could not read backup gpt from mmc
+GPT: Primary and backup signatures invalid
+partition_count < NUM_PARTITIONS
+GPT: mmc read card failed reading partition entries.
+MMC Boot: GPT read failed!
+Error reading the partition table info
+NULL partition
+Failed to erase the eMMC card
+Failed to write mbr partition
+Failed to write EBR block to sector 0x%X
+Failed to re-read mbr partition.
+GPT: Primary signature invalid cannot write GPT
+GPT: Backup signature invalid cannot write GPT
+Failed to write Protective MBR
+Failed to write GPT header
+Failed to write GPT backup header
+GPT: Could not write GPT Partition entries array
+GPT: Partition Table written
+Re-Flash all the partitions
+Failed to write MBR block to mmc.
+Invalid partition name passed
+Error unable to find partition : [%s]
+modemst1
+modemst2
+persist
+modem
+system
+userdata
+cache
+tombstones
+update_gpt: Failed at memory allocation
+Failed to read GPT
+Failed to write gpt
+ERROR: partition_count more than supported.
+Failed to update Primary GPT
+Failed to update Secondary GPT
+ERROR: Unable to find any bootable slot
+ Yes
+ERROR: Not able to parse all partitions
+Invalid parameters for descriptor allocation
+platform/msm_shared/hsusb.c
+desc
+epts
+only one gadget supported
+udc_start()
+udc cannot start before init
+udc has no gadget registered
+Failed to allocate device descriptor
+bad bs id: %u, max: %u
+platform/msm_shared/boot_stats.c
+gic_platform_fiq
+%s unimplemented
+platform/msm_shared/qgic_common.c
+vector < NR_IRQS
+Invalid interrupt type change requested
+ n;^
+Qkkbal
+i]Wb
+9a&g
+MGiI
+wn>Jj
+#.zf
++o*7
+:suV
+qe-h
+oJ[!qr9
+California1
+Mountain View1
+Android1
+Android1
+Android1"0 
+android@android.com0
+151013033156Z
+430228033156Z0
+California1
+Mountain View1
+Android1
+Android1
+Android1"0 
+android@android.com0
+om&Kcse
+P0N0
+Gl|r
+p;L+C
+&_;w
+keystore
+u]\kAY
+n`hc
+:Sr?
+@J5r
+ bVz
+Token RSA keystore length invalid
+ERROR: Token Verification Error, RSA_KEY is NULL!
+Token Decryptiton Failed
+Token Verification Failed
+SN Decryptiton Failed
+SN Verification Failed
+RTC %llx
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+keymaster
+Failure to load TZ app: lksecapp, error: %d
+Failed to send delete keys command: Error: %x
+Failed to send milestone end command: Error: %x
+Failed to wake redistributor for CPU0
+platform/msm_shared/qgic_v3.c
+Failed to set SRE for NS world
+Error: sdhci reset failed for: %x
+Error: Invalid UHS mode: %x
+platform/msm_shared/sdhci.c
+Bus width is invalid: %u
+cmd->data.data_ptr
+IS_CACHE_LINE_ALIGNED(cmd->data.data_ptr)
+Error: CMD or DAT lines were never freed
+Invalid response type for the command
+Error allocating memory
+Error: Command never completed
+Error: Transfer never completed
+Error: Command timeout error
+Error: Command CRC error
+Error: CMD end bit error
+Error: Command Index error
+Error: DATA time out error
+Error: DATA CRC error
+Error: DATA end bit error
+Error: Current limit error
+Error: Auto CMD12 error
+Error: ADMA error
+sdhci_msm_init_dll
+%s: clk_out_en timed out: %08x
+%s: Failed to get DLL lock: 0x%08x
+platform/msm_shared/sdhci_msm.c
+tuning_data
+Error: Calibration done in CDC status not set
+CDC error set during calibration: %x
+Error: DLL lock for hs400 operation is not set
+WARNING: All phase passed.The selected phase may not be optimal
+Failed in selecting the tuning phase
+Failed to get tuned phase
+sdhci_msm_config_dll
+mmc_put_card_to_sleep
+CMD6 send failed
+Get card status failed
+Switch cmd failed. Card not in tran state %x
+Switch cmd failed. Switch Error.
+Switch cmd failed
+Failed to switch partition to type: %u
+Failed Sending CMD55
+Attempting to read or write beyond the Device capacity
+The misaligned address did not match the block length used
+The transferred bytes does not match the block length
+Attempt to program a write protected block
+Device error occurred, which is not related to the host command
+A generic Device error
+MMC card is not in TRAN state
+Failed to send stop command
+Switch cmd returned failure %d
+Failure to set DDR mode for Card(RCA:%x)
+platform/msm_shared/mmc_sdhci.c
+card->ext_csd
+Failure to set wide bus for Card(RCA:%x)
+Tuning for hs200 failed
+Bus width is not 8-bit, cannot switch to hs400: %u
+Failure Setting HS200 mode %s	%d
+Error adjusting interface speed!:%s	%d
+Failure setting DDR mode:%s	%d
+Switch cmd returned failure %s	%d
+Tuning for hs400 failed
+The response for CMD8 does not match the supplied value
+Error: CMD8 response timed out
+Failed sending App command
+Failure sending ACMD41
+Error: ACMD41 response timed out
+Error allocating mmc device
+Error Initializing MMC host : %u
+Failure resetting MMC cards!
+Failed to initialize SD card
+Failed to set HS for SD card
+Error adjusting interface speed!
+Failure getting card's ExtCSD information!
+Failed to set bus width for host controller
+Failure to set HS400 mode for Card(RCA:%x)
+Failure to set HS200 mode for Card(RCA:%x)
+Failure to enalbe HS mode for Card(RCA:%x)
+Failed to set bus width for the card
+Failed to enable RST_n_FUNCTION
+Failed detecting MMC/SDC @ slot%d
+Failure getting OCR response from MMC Card
+MMC card failed to respond, try for SD card
+Failure getting card's CID number!
+Failure getting card's RCA!
+Failure getting card's CSD information!
+Failure selecting the Card with RCA: %x
+Failure getting card's SCR register
+Failed to get SSR from the card
+Card has busy status set. Init did not complete
+Requested length is less than min erase group size
+The erase group overlaps the max requested for erase
+Address for CMD35 is out of range
+Address for CMD36 is out of range
+Failed to get card status after erase
+Write Protect set for the region, only partial space was erased
+Card status check timed out after sending erase command
+Failed to send erase grp start address
+Failed to send erase grp end address
+Failed to erase the specified partition
+Failed to get status of write protect bits
+Failed to Disable PERM WP
+Failed to read ext csd for the card
+Power on protection is disabled, cannot be set
+Length is less than min WP size, WP was not set
+Failed to set power on WP for user
+Address for CMD28/29 is out of range
+Failed to get card status afterapplying write protect
+Card status timed out after sending write protect command
+card deselect error: %s
+card sleep error: %s
+Set block count failed: %s
+Failed to get card status after rpmb operations
+Card status check timed out after rpmb operations
+mmc_sdhci_set_blk_cnt
+mmc_set_hs400_mode
+platform/msm_shared/mmc_wrapper.c
+!(data_addr % block_size)
+Failed Writing block @ %x
+Error: UFS write failed writing to block: %llu
+!(data_len % block_size)
+Failed Reading block @ %x
+Error: UFS read failed writing to block: %llu
+Erase Fail: Erase size: %u is bigger than scratch region
+failed to erase the partition: %x
+!(addr % block_size)
+!(len % block_size)
+MMC erase failed
+mmc_erase_card: UFS erase failed
+max_luns
+Error reading the partition table info for lun %d
+Failure to WP UFS partition
+w1BU&
+California1
+San Narciso1
+Yoyodyne, Inc.1
+Yoyodyne Mobility1
+Yoyodyne1#0!
+yoyodyne@example.com0
+150922092921Z
+430207092921Z0
+California1
+San Narciso1
+Yoyodyne, Inc.1
+Yoyodyne Mobility1
+Yoyodyne1#0!
+yoyodyne@example.com0
+w1BU&
+P0N0
+p<J{
+}(xk
+Y.<K<
+*r^S
+$tZ}
+keystore
+Kl&?}
+$[P>bZ	
+Error: Length exceeding max size of uintmax
+Error: Pos index exceeding the input buffer size
+Error: Len overflows UINT_MAX value
+boot_verifier: Calloc failed during verification
+boot_verifier: Signature decrypt failed! Signature invalid = %d
+Invalid n value from key_material
+platform/msm_shared/boot_verifier.c
+Invalid e value from key_material
+Failed to allocate memory for ROT structure
+RSA is null from the embedded certificate
+Invalid n value from rsa_from_cert
+Invalid e value from rsa_from_cert
+QSEEcom command for Sending Root of Trust returned error: %d
+QSEEcom command for getting keymaster version returned error: %d
+bs_req
+QSEEcom command for Sending boot state returned error: %d
+boot_verifier: Error while reading signature length.
+boot_verifier: Signature length exceeds size signature buffer
+boot_verifier: verification failure due to target name mismatch
+keystore
+boot_verifier: image length is different. (%d vs %d)
+Interger overflow detected
+%s:%d: Keystore is null
+Failed to verify signature by OEM_KEYSTORE
+Unable to extract public key from certificate
+Security Error:  This phone has been flashed with unauthorized software & is locked. Call your mobile operator for additional support.Please note that				repair/return for this issue may have additional cost.
+boot_verifier: keystore length is invalid.
+Image address should not be NULL
+KEYSTORE
+version
+mykeybag
+KEYSTORE_INNER
+KEYBAG
+mykey
+algorithm_id
+key_material
+VERIFIED_BOOT_SIG
+certificate
+algor
+auth_attr
+AUTH_ATTR
+target
+verify_image_with_sig
+platform/msm_shared/glink/glink_api.c
+xport_ctx != NULL
+handle && handle->if_ptr && handle->if_ptr->wait_link_down
+platform/msm_shared/glink/glink_core_if.c
+GLINK_STATUS_SUCCESS == status
+open_ch_ctx->local_state == GLINK_LOCAL_CH_OPENING
+open_ch_ctx->local_state == GLINK_LOCAL_CH_CLOSING
+open_ch_ctx->remote_state == GLINK_REMOTE_CH_OPENED
+intent_ptr
+platform/msm_shared/glink/glink_core_internal.c
+link_notif_data_param && if_ptr->glink_core_priv
+best_xport && priority_param
+cs_created
+open_ch_ctx != NULL
+valid_open_call != NULL
+remote_host < GLINK_NUM_HOSTS
+link_notif_data
+apss
+mpss
+lpass
+dsps
+wcnss
+platform/msm_shared/glink/glink_rpmcore_setup.c
+xport_rpm_tx_cmd_ch_remote_close_ack
+%s:%d: Write Index is not aligned: %u
+platform/msm_shared/glink/xport_rpm.c
+%s:%d: Invalid name length: %u
+%s:%d: Invalid packet length: %u
+%s:%d: Invalid Command: %u
+%s:%d: Send Version Failed
+%s:%d: Send Version ACK Failed
+%s:%d: Send Clock ACK failed
+%s:%d: RPM Transport Failure: Invalid ToC cookie
+xport_rpm_tx_cmd_version
+xport_rpm_init
+xport_rpm_tx_cmd_version_ack
+xport_rpm_isr
+r2papa2r
+platform/msm_shared/rpm-glink.c
+rpm_requests
+Opening RPM Glink Port failure %d
+glink_ssr
+Opening SSR Glink Port failure %d
+rpm_data
+%s:%d, Glink tx error: 0x%x
+Invalid RPM Request
+Invalid pointer to data received from RPM
+Received ERROR ACK 
+Invalid size of RPM response
+Need larger RPM rx buffer. Size of Local Buffer: %u	Size of RX Buffer: %u
+Return value from recv_data: %x
+RPM Glink Init Failure 0x%x
+Glink SSR Channel: Tx for link tear down request failure with error code: 0x%x
+rpm_glink_send_data
+platform/msm_shared/rpm-ipc.c
+*kdata
+Clock enable failure
+Alert!! clock list not defined!
+Alert!! Requested clock "%s" is not supported!
+Can't find clock with id: %s
+Clock set rate failed.
+Clock enable failed.
+alpha_pll: Call clk_set_rate with rounded rates!
+alpha pll: VCO not valid
+%s didn't lock after enabling it!
+platform/msm_shared/clock_lib2.c
+rclk->set_rate
+Android Bootloader - UART_DM Initialized!!!
+platform/msm_shared/uart_dm.c
+port < ARRAY_SIZE(port_lookup)
+Error reading the smem board info address
+platform/msm_shared/board.c
+Invalid SMEM board info
+Error allocating memory for pmic info array
+Unsupported board info format %u.%u
+platform/msm_shared/spmi.c
+chnl_tbl
+PMIC arbiter error, no command provided
+SPMI write command failure: 			cmd_id = %u, error = %u
+SPMI read command failure: 			cmd_id = %u, error = %u
+Unexpected interrupt : val %u
+Size exceeds max size for a descriptor(0x7FFF)
+platform/msm_shared/bam.c
+!((uint32_t)PA((addr_t)bam->pipe[pipe_num].fifo.head & 0x7))
+ispow2(bam->pipe[pipe_num].fifo.size)
+Max allowed desc is one less than the fifo length
+Wrong params for BAM transfer 
+Please allocate the FIFO for the BAM pipe %d
+Can't lock and unlock in the same desc
+EOT flag set on the CMD desc
+len of the desc exceeds max length %d > %d
+Data transfer exceeds desc fifo length.
+Nand Flash error. Status = %d
+Could not read bad block value
+platform/msm_shared/qpic_nand.c
+ecc_buf
+Failed to write CW %d for page: %d
+NAND Erase error: Block address belongs to bad block: %d
+QPIC:NANDc BAM Read FIFO init error
+QPIC: NANDc: BAM Write FIFO init error
+QPIC:NANDc BAM CMD FIFO init error
+Read ID cmd status failed
+flash->block_size
+flash->page_size
+flash->cws_per_page <= QPIC_NAND_MAX_CWS_IN_PAGE
+Failed to allocate memory for spare bytes
+Failed to allocate memory for bad block table
+Failed to allocate memory for page reads or writes
+NAND device is not supported: nandid: 0x%xmaker=0x%02x device=0x%02x
+flash_ptable == NULL && new_ptable != NULL
+qpic_nand_read: buffer = null
+qpic_nand_read: reading page %d failed with %d err
+qpic_nand_write: buffer = null
+flash_write: write failure @ page %d, block %d
+Read request start not at page boundary: %d
+flash_read_image: failed (%d errors)
+Erase operation failed @ page #%d
+flash_write_image: out of space
+flash_write_image: image undersized (%d < %d)
+ERROR: Unsupported version (%d) in dt node check 
+platform/msm_shared/dev_tree.c
+dt_node_member
+dt_node_member->dt_entry_m
+ERROR: Couldn't find the suitable DTB!
+Integer over in fdt header %s	%d
+Out of memory
+model
+qcom,pmic-id
+qcom,board-id
+qcom,pmic-id(%d) or qcom,board-id(%d) in device tree is not a multiple of (%d %d)
+qcom,board-id in device tree is (%d) not a multiple of (%d)
+qcom,msm-id
+board_data
+platform_data
+pmic_data
+dt_entry_array
+Tags addresses overlap with aboot addresses.
+DTB offset is incorrect, kernel image does not have appended DTB
+ERROR: Bad magic in device tree table 
+ERROR: Unsupported version (%d) in DT table 
+ERROR: Bad parameter passed to %s 
+ERROR: Unable to find suitable device tree for device (%u/0x%08x/0x%08x/%u)
+Failed to add the memory information addr: %d
+Failed to add the memory information size: %d
+Could not find memory node.
+#address-cells
+Using default #addr_cell_size: %u
+Error finding the #address-cells property
+#size-cells
+Using default #size_cell_size: %u
+Error finding the #size-cells property
+Could not find #address-cells and #size-cells properties: ret %d
+ERROR: Could not set prop reg for memory node
+ERROR: Could not append prop reg for memory node
+Error: Fdt addresses overlap with aboot addresses.
+Failed to move/resize dtb buffer: %d
+/memory
+ERROR: Cannot update memory node
+/chosen
+Could not find chosen node.
+bootargs
+ERROR: Cannot update chosen node [bootargs]
+linux,initrd-start
+ERROR: Cannot update chosen node [linux,initrd-start]
+linux,initrd-end
+ERROR: Cannot update chosen node [linux,initrd-end]
+/firmware/android/fstab
+Failed to get parent node: fstab error: %d
+Failed to allocate memory for boot device
+Failed to allocate memory for node property string
+Property:%s is not found for sub node:%s
+Property:%s found for sub node:%s	property:%s
+Property string length is greater than node property max length
+/soc/
+Property is not proper to update
+Property length is not proper to update
+Property length  is not proper to update
+Failed to update the node with new property
+Updated %s with new property %s
+ERROR: Cannot update fstab node
+pureason
+ERROR: Cannot update chosen node [pureason]
+pureason: 0x%x
+hwversion
+ERROR: Cannot update chosen node [hwversion]
+smeminfo
+Invalid device tree header 
+fdt_check_header_ext
+ASSERT FAILED at (%s:%d): %s
+platform/msm_shared/scm.c
+indir_arg
+SCM call: 0x%x failed with :%x
+Failed to initialize SCM
+Secure Config failed
+ssd_image_is_encrypted call failed
+ret == 0
+decrypt_scm_v2: failed status %d
+decrypt_scm_v2: case default: failed status %d
+Failed to Save kernel hash
+in_buf != NULL
+out_buf != NULL
+Failed to call Cipher DIP SCM
+Failed in Cipher DIP SCM call
+Failed to call SCM_SVC_FUSE.SCM_QFPROM_READ_ROW_ID SCM
+Failed to jump to kernel
+r_len is larger than sizeof(randbuf).
+Secure canary SCM failed: %x
+scm_call for random failed !!!
+Failed to set XPU violations as fatal errors: %u
+resp
+scm call to check secure boot fuses failed
+Failed to disable secure wdog debug: %d
+Failed to write to boot misc: %d
+SCM call to check dload mode failed: %x
+__qseecom_check_listener_exists
+qseecom_start_app
+__qseecom_check_handle_exists
+__qseecom_load_app
+%s: Invalid input
+%s: Invalid Input
+qseos_cmd_id 0x%d is not supported by armv8 scm_call2.
+Failed to alloc buffer to print TZ Log:%u
+ERROR: scm_call to load failed : ret %d
+ERROR: Resp type %d or Resp Data %d incorrect
+scm call failed w/response result%d
+Listener service incorrect resp->result:%d resp->resp_type:%d
+scm call return unknown response %d
+%s: Input error
+%s qseecom_init not done
+cmnlib
+Integer overflow detected in rounding up the partition size!
+%s: Aloc failed for %s image
+ERROR: No %s found
+ERROR: Cannot read %s image
+%s qseecom_load_commonlib_image failed with status:%d
+Loading cmnlib done
+%s: __qseecom_load_app failed with err:%d for app:%s
+malloc for app entry failed
+%s: __qseecom_add_app_entry failed
+%s: Invalid Handle %d
+%s: Shutdown on an app that was never loaded handle:%d
+%s: qseecom_unload_app failed with err:%d for handle:%d
+%s Handle is Invalid
+%s: Input Buffers invalid
+%s: Send cmd on an app that was never loaded handle:%d
+%s:Integer overflow
+req->cmd_req_len: %u
+req->resp_len: %u
+%s:Cmd + Rsp len greater than TA buf
+%s __qseecom_send_cmd failed with err:%d for handle:%d
+%s Invalid Input listnr
+%s Invalid Input listnr_id:%d sb_size:%d
+Service is not unique and is already registered
+%s new_entry malloc failed for size:%d
+%s virt_sb_base malloc failed for size:%d
+qseecom_scm_call failed with err: %d
+Service not present
+scm_call() failed with err: %d (lstnr id=%d)
+secure app region addr=0x%x size=0x%x
+TZ App region notif returned with status:%d addr:%x size:%d
+TZ App log region register returned with status:%d addr:%x size:%d
+Qseecom TZ Init Done in Appsbl
+Qseecom Init Done in Appsbl
+Qseecom De-Init Done in Appsbl
+qseecom_register_listener
+allocate_extra_arg_buffer
+qseecom_load_commonlib_image
+qseecom_send_command
+qseecom_deregister_listener
+__qseecom_send_cmd
+QMP phy initialization failed, fallback to HighSpeed only mode
+QUSB2PHY failed to lock: %d
+ERROR: Boot Invalid, RSA_KEY is NULL!
+ERROR: Calloc failed during verification
+ERROR: Image Invalid, X509_Certificate is NULL!
+ERROR: Boot Invalid, PUB_KEY is NULL!
+ERROR: VB: Image Invalid! signature check failed! ret %d
+ERROR: VB: Hash identifier is wrong!
+ERROR: VB: Image Invalid! Please use another image!
+ERROR: Image Invalid! signature check failed! ret %d
+ERROR: Image Invalid! Please use another image!
+[do_sha_update returns error from crypto_send_data
+do_sha_update returns error from crypto_get_digest
+do_sha_update returns error %d
+crypto_sha256 returns error %d
+Could not allocate fifo buffer
+CRYPTO_WRITE_REG: Reg write failed. reg addr = %x
+Could not allocate output dump buffer
+Could not allocate ce array buffer
+CRYPTO: BAM Read FIFO init error
+CRYPTO: BAM Write FIFO init error
+CRYPTO: BAM init error
+crypto_set_sha_ctx invalid auth algorithm
+Authentication alg config failed.
+Data start not aligned at burst length.
+CRYPTO_ADD_DESC: Adding desc failed
+Crypto send data failed
+crypto_get_digest status error
+status = %x status2 = %x
+mdss_smp_setup
+Invalid PPB0_CONFIG offset
+ERROR: %s: Out of SMP's, cnt=%d! 
+platform/msm_shared/mdp5.c
+Panel CMD: Did not recieve video mode done interrupt
+Panel CMD: command mode dma test failed
+dsi host init error
+pre_init_func error
+DEBUG: panel ID is 0x%x
+dsi panel init error
+Panel ID read error
+unsupported dst format
+Video lane test failed
+DSI1 PHY REGULATOR NOT READY,exceeded polling TIMEOUT!
+dev_addr is NULL, that means i2c_qup_init failed...
+QUP: I2C status flags :0x%x 
+QUP: QUP status flags :0x%x
+I2C slave addr:0x%x not connected
+Read reg %x failed
+Write reg %x failed
+mipi_dsi_i2c_device_init() failed
+mdss_hdmi_audio_acr_setup
+mdss_hdmi_ddc_clear_irq
+mdss_hdmi_ddc_read_retry
+mdss_hdmi_video_setup
+hdmi regulator control enable failed
+hdmi gpio control enable failed
+%s: %s: timed out
+%s: Timeout reading EDID
+%s: NACK reading EDID
+%s: invalid input
+%s: %s: invalid buf
+%s: invalid no. of retries %d
+Unsupported data type
+TMDS CONFIG
+scdc read failed
+Cannot write to read only reg (%d)
+DDC Read failed for %s
+%s: Error audio buffer alloc
+%s: video format %d not supported
+%s: total v=%d or h=%d is larger than supported
+%s: end_h=%d or start_h=%d is larger than supported
+%s: end_v=%d or start_v=%d is larger than supported
+%s: TMDS CLK RATIO ERR
+%s: failed to enable scrambling
+%s: err in timeout hsync calc
+scrambler
+ddc aborted
+NACK0
+NACK1
+scrambling ddc error %d
+%s: pixel clk %d not supported
+SCDC_SCRAMBLING_STATUS
+SCDC_SCRAMBLING_ENABLE
+SCDC_TMDS_BIT_CLOCK_RATIO_UPDATE
+SCDC_CLOCK_DET_STATUS
+SCDC_CH0_LOCK_STATUS
+SCDC_CH1_LOCK_STATUS
+SCDC_CH2_LOCK_STATUS
+SCDC_CH0_ERROR_COUNT
+SCDC_CH1_ERROR_COUNT
+SCDC_CH2_ERROR_COUNT
+SCDC_READ_ENABLE
+mdss_hdmi_read_edid
+mdss_hdmi_setup_scrambler
+mdss_hdmi_audio_playback
+hdmi_pll_config
+%s: Unsupported clock rate %u
+UFS dme_read_unit_desc failed for RPMB Partition
+UFS dme_read_geo_desc failed for RPMB Partition
+UFS erase failed 
+UFS_IS 0x%x
+------Host controller register dump ---------
+UFS_UECPA 0x%x
+UFS_UECDL 0x%x
+UFS_UECN 0x%x
+UFS_UECT 0x%x
+UFS_UECDME 0x%x
+UFS_HCS 0x%x
+-----------End--------------------------------
+UFS read failed.
+UFS write failed.
+UFS get serial number failed.
+enter ufs_ffu:%d
+ufs_ffu : ucs_scsi_send_inquiry_revision failed
+match vendor:%s, product id:%s
+match product revision from:%s
+start write buffer
+write buffer success 
+ffu status %d, check revision is updated after reboot
+write buffer fail. check sense data
+FFU is successful to %s
+ufs_ffu do not match the rev:%s
+UFS uic_init failed
+UFS dme_send_nop_query failed
+UFS dme_set_fdeviceinit failed
+UFS ucs_scsi_send_inquiry failed
+dme_read_dev_desc read failed
+UFS dme_read_unit_desc failed
+UFS dev_init failed
+UFS init success
+utp_fill_req_upiu
+utp_enqueue_utrd
+utp_poll_utrd_complete
+utp_enqueue_upiu
+%s:%d UTRD/ UTMRD processed signalled and the wait queue is empty
+platform/msm_shared/utp.c
+%s:%d Event signal failed.
+%s:%d UTP command never completed.
+%s:%d Data length exceeds for a single upiu transfer.
+%s:%d Unable to allocate request upiu
+%s:%d Alignment and length check failed for data tranfer command.
+%s:%d Transaction timeout after polling %d times
+%s:%d Command failed. command type = %x
+%s:%d Command failed. command = %x
+%s:%d Unable to find a free slot for transaction.
+utp_process_req_completion
+utp_get_door_bell_bit
+utp_get_prdt_len
+Mutex acquire failed.
+Check UCRDY failed.
+Failed to send the UIC cmd.
+UFS link is not initialized.
+Sense Key: 0x%x
+ucs_do_scsi_cmd: enqueue failed
+Data segment length: %x
+SCSI Request failed and we have sense data
+Sense Data Length/Response Code: 0x%x/0x%x
+Sense Buffer (HEX): 0x%x 0x%x 0x%x 0x%x
+ucs_do_scsi_cmd failed status = %x
+platform/msm_shared/ucs.c
+req_buf
+resp_buf
+resp_len
+RPMB request transfer size %llu greater than max transfer size %llu
+%s:%d ucs_do_scsi_rpmb_read: failed
+ucs_do_scsi_read: failed
+ucs_do_scsi_write: failed
+Failed to send SCSI unmap command 
+Failed to send SCSI inquiry
+----Sense buffer----
+----end of buffer---
+buf[%d] = %x
+ucs_do_request_sense: failed
+utp_enqueue_upiu failed
+sense data 0x%08x, 0x%08x, 0x%08x, 0x%08x
+response %u, trans_type %u, status %u
+dump resopnse UPIU
+%02x %02x %02x %02x
+UFS error: System Bus Fatal Error
+platform/msm_shared/ufs_hci.c
+UFS error: UTP Error
+UFS error: HCFES:0x%x DFES:0x%x
+UFS error: UE.
+UIC non-fatal error. IS: 0x%x UECPA: 0x%x UECDL: 0x%x
+UIC non-fatal error handled. Pending interrupt mask: 0x%x
+UIC fatal error.
+Unknown irq.
+Failed to allocate utrd list.
+Failed to allocate memory for Task mamagement request list.
+Failed to enable UFS host controller.
+dme_get_query_resp
+dme_read_geo_desc
+dme_send_nop_query
+dme_set_fdeviceinit
+dme_get_ffu_status
+dme_read_unit_desc
+dme_read_string_desc
+%s:%d Opcode from respose does not match with Opcode from request
+%s:%d UPIU Response is not SUCCESS, response code: 0x%x
+%s:%d Insufficient buffer space.
+%s:%d UPIU query opcode not supported.
+%s:%d DME_LINKSTARTUP command failed.
+%s:%d DME_GET command failed.
+%s:%d DME Set Boot Lun Query failed. Value 0x%x
+%s:%d DME Set Boot Lun Query failed
+%s:%d DME get FFUStatus  Query failed
+%s:%d DME Purge Enable failed
+%s:%d DME Purge Status Read failed
+%s:%d Purge operation stopped prematurely
+%s:%d Purge operation failed due to logical unit queue not empty
+%s:%d Purge operation general failure
+%s:%d Purge operation timed out after checking status %d times
+%s:%d DME Power On Write Read Request failed
+Power on Write Protect request failed. Retrying again.
+%s:%d DME Power On Write Set Request failed
+%s:%d DME Device Init Read request failed
+%s:%d DME Device Init Set request failed
+%s:%d DME Read String Descriptor request failed
+%s:%d DME Read String Descriptor is length 0
+%s:%d DME Read Device Descriptor request failed
+%s:%d Invalid string descriptor length
+%s:%d DME Read Geometry Descriptor request failed
+%s:%d DME Read Unit Descriptor request failed
+%s:%d DME Read Config Descriptor request failed
+%s:%d Sending nop out failed.
+%s:%d Command failed. command = %x. Invalid response.
+dme_read_device_desc
+dme_get_bbootlunen
+utp_build_query_req_upiu
+dme_parse_serial_no
+dme_set_bbootlunen
+%x.sdhci
+%x.ufshc
+ERROR: Unexpected boot_device val=%x
+platform/msm_shared/boot_device.c
+platform/msm_shared/usb30_dwc.c
+DWC_EP_PHY_TO_INDEX(ep_phy_num) < DWC_MAX_NUM_OF_EP
+ep != NULL
+dwc core = 0x%x
+ctrl_state = %d, %s
+EP ( index = %d) status: 
+phy_num      = %d 
+usb ep num   = %d 
+dir          = %d 
+type         = %d 
+resource_idx = %d 
+trb_queued   = %d 
+bytes_queued = %d 
+state        = %d, %s 
+ep req len   = %d trbctl = %d
+ep->trb_queued == 0
+ ERROR: Enough TRBs are not available to setup transfer
+ ERROR: Increase TRB chain for the ep.
+ ERROR: phy_ep_num = %d xfer len = %d
+ Attempting START_TRANSFER in invalid state: %s. .......
+index < DWC_MAX_NUM_OF_EP
+EP event (0x%x) details
+event_id         = %d, %s
+ep_phy_num       = %d
+event_ctrl_stage = %d, %s
+event_status     = %d
+xfer_res_idx     = %d
+event_param      = %d
+event_cmd_type   = %d, %s
+DWC_EVENT_EP_CMD_COMPLETE    
+DWC_EVENT_EP_XFER_NOT_READY  
+DWC_EVENT_EP_XFER_IN_PROGRESS
+DWC_EVENT_EP_XFER_COMPLETE   
+DWC_EVENT_DEVICE_EVENT_ID_VENDOR_DEVICE_TEST_LMP
+DWC_EVENT_DEVICE_EVENT_ID_BUFFER_OVERFLOW       
+DWC_EVENT_DEVICE_EVENT_ID_GENERIC_CMD_COMPLETE  
+DWC_EVENT_DEVICE_EVENT_ID_ERRATIC_ERROR         
+DWC_EVENT_DEVICE_EVENT_ID_SOF                   
+DWC_EVENT_DEVICE_EVENT_ID_SUSPEND_ENTRY         
+DWC_EVENT_DEVICE_EVENT_ID_HIBER                 
+DWC_EVENT_DEVICE_EVENT_ID_WAKEUP                
+DWC_EVENT_DEVICE_EVENT_ID_USB_LINK_STATUS_CHANGE
+DWC_EVENT_DEVICE_EVENT_ID_CONNECT_DONE          
+DWC_EVENT_DEVICE_EVENT_ID_USB_RESET             
+DWC_EVENT_DEVICE_EVENT_ID_DISCONNECT            
+EP_FSM_INIT           
+EP_FSM_SETUP          
+EP_FSM_CTRL_DATA      
+EP_FSM_WAIT_FOR_HOST_2
+EP_FSM_WAIT_FOR_HOST_3
+EP_FSM_STATUS_2       
+EP_FSM_STATUS_3       
+EP_FSM_STALL          
+EP_STATE_INIT
+EP_STATE_INACTIVE
+EP_STATE_START_TRANSFER
+EP_STATE_XFER_IN_PROG
+ON           
+L1           
+L2           
+DISCONNECTED 
+EARLY_SUSPEND
+RESET        
+RESUME       
+U0          
+U1          
+U2          
+U3          
+SS_DIS      
+RX_DET      
+SS_INACT    
+POLL        
+RECOV       
+HRESET      
+CMPLY       
+LPBK        
+RESUME_RESET
+DSTS_CONNECTSPD_HS 
+DSTS_CONNECTSPD_FS1
+DSTS_CONNECTSPD_LS 
+DSTS_CONNECTSPD_SS 
+DEPCMD_CMD_SET_EP_CONF    
+DEPCMD_CMD_SET_TR_CONF    
+DEPCMD_CMD_GET_EP_STATE   
+DEPCMD_CMD_SET_STALL      
+DEPCMD_CMD_CLEAR_STALL    
+DEPCMD_CMD_START_TRANSFER 
+DEPCMD_CMD_UPDATE_TRANSFER
+DEPCMD_CMD_END_TRANSFER   
+DEPCMD_CMD_START_NEW_CONF 
+dev->setup_pkt
+num_of_trb
+Unhandled DEVICE_EVENT: %s in %s 
+ep->state == EP_STATE_START_TRANSFER
+event_status == 0
+ep_phy_num == 0
+ep->state == EP_STATE_XFER_IN_PROG
+ Ignore the unexpected EP event: %s
+event_ctrl_stage == CONTROL_DATA_REQUEST
+ep_phy_num == 1
+Invalid ctrl_state = %d
+ EP state is invalid. Asserting...
+dev->ep[index].trb
+ep->trb
+platform/msm_shared/usb30_dwc_hw.c
+(td_addr_low & 0xF) == 0
+ device command failed. 
+count >= 4
+ Event buffer is full. Need to increase size.
+platform/msm_shared/usb30_udc.c
+gadget
+*UNKNOWN*
+udc_handle_setup: DEVICE_WRITE : SET_CONFIGURATION malloc failed for ep
+STALL. Unsupported setup req: %s %d %d %d %d %d
+udc_dev
+udc_dev->ctrl_rx_buf
+udc_dev->ctrl_tx_buf
+wrapper
+dwc_config.event_buf
+only one gadget supported
+dwc_dev
+ept->trb
+GET_STATUS
+CLEAR_FEATURE
+SET_FEATURE
+SET_ADDRESS
+GET_DESCRIPTOR
+SET_DESCRIPTOR
+GET_CONFIGURATION
+SET_CONFIGURATION
+GET_INTERFACE
+SET_INTERFACE
+SET_SEL
+platform/msm_shared/usb30_wrapper.c
+dsbl
+platform/msm_shared/partial_goods.c
+Failed to get parent node: %s	errno:%d
+Failed to get subnode: %s	errno:%d
+Failed to get property: %s	errno: %d
+device_type
+%s: Property type is not supported
+Property value length: %u is invalid for property: %s
+Failed to update property: %s: error no: %d
+/cpus
+cpu@100
+cpu@101
+cpu@1
+/soc
+qcom,mss
+qcom,kgsl-3d0
+qcom,vidc
+qcom,msm-adsp-loader
+pureason: 0x%x hard_restart_reason: 0x%x
+HALT: set_download_mode not supported
+reboot_device: reboot_reason: 0x%x  value: 0x%x  set_value: 0x%x
+Failed to halt pmic arbiter: %d
+Rebooting failed
+Going down for shutdown.
+Shutdown failed
+platform/msm_shared/reboot.c
+Error registering the handler
+Reading device info failed: Error: %d
+Writing device info failed: Error: %d
+platform/msm_shared/rpmb/rpmb.c
+Setting secure write protect configuration failed
+Failed to stop Qseecom Listener
+Failed to exit qseecom 
+platform/msm_shared/rpmb/rpmb_listener.c
+Unsupported Request from qseecom: %d
+RPMB system services
+Failed to register rpmb listener
+Failed to unregister rpmb listener
+Failed to Send the RPMB write sequnce of commands
+Max write counter reached: 
+Failed to Send the RPMB read sequence of commands
+Operation Ok
+General failure
+Authentication error (MAC comparison not matching, MAC calculation failure)
+Counter failure (counters not matching in comparison, counter incrementing failure)
+Address failure (address out of range, wrong address alignment)
+Write failure (data/counter/result write failure)
+Read failure (data/counter/result read failure)
+Authentication Key not yet programmed
+rpmb_write_ufs
+platform/msm_shared/rpmb/rpmb_ufs.c
+UFS RPMB write error: %s
+rpmb_read_ufs
+r0  0x%08x r1  0x%08x r2  0x%08x r3  0x%08x
+r4  0x%08x r5  0x%08x r6  0x%08x r7  0x%08x
+r8  0x%08x r9  0x%08x r10 0x%08x r11 0x%08x
+r12 0x%08x usp 0x%08x ulr 0x%08x pc  0x%08x
+spsr 0x%08x
+%c%s r13 0x%08x r14 0x%08x
+bottom of stack at 0x%08x:
+unhandled syscall, halting
+undefined abort, halting
+data abort, halting
+prefetch abort, halting
+arch/arm/mmu_lpae.c
+entry
+avail_l2_pt
+Invalid mapping type in the mmu table: %d
+The address %llx is not mapped
+QC_REFERENCE_PHONE
+Unsupported platform id
+Unsupported hardware id
+ERROR: Couldn't get the pmic type
+ERROR: Get battery voltage failed!!!
+failed to create dpc thread
+bootstrap2
+failed to create thread bootstrap2
+mutex_acquire: thread %p (%s) tried to acquire mutex %p it already owns.
+mutex_acquire_timeout: thread %p (%s) tried to acquire mutex %p it already owns.
+mutex_release: thread %p (%s) tried to release mutex %p it doesn't own. owned by %p (%s)
+somehow fell through thread_exit()
+bootstrap
+idle
+timer %p already in list
+starting app %s
+ n;^
+Qkkbal
+i]Wb
+9a&g
+MGiI
+wn>Jj
+#.zf
++o*7
+-true
+false
+	Device tampered: %s
+	Device unlocked: %s
+	Device critical unlocked: %s
+	Charger screen enabled: %s
+	Display panel: %s
+has-slot:%s
+slot-unbootable:%s
+slot-active:%s
+slot-success:%s
+slot-retry-count:%s
+current-slot
+slot-count
+INVALID
+Command not supported
+Invalid slot suffix.
+Slot already set active
+Invalid persistent ram signature
+/recovery
+/boot
+Your device has failed verification and may not work properly.
+Wait for 5 seconds before proceeding
+Your device has loaded a different operating system.
+Wait for 5 seconds before proceeding
+Partition flashing is not allowed
+Critical partition flashing is not allowed
+Need to unlock the device to use this command
+dload mode not supported by target
+Failed to reboot into dload mode
+CRC-LIST
+CRC: 0x%x (crc.list) vs 0x%x
+recoveryfs
+  root=/dev/mmcblk0p
+ androidboot.bootdevice=
+app/aboot/aboot.c
+boot_dev_buf
+ androidboot.serialno=
+ androidboot.secureboot=
+ androidboot.hwversion=
+ androidboot.verifiedbootstate=
+Devinfo paritition possibly corrupted!!!. Please erase devinfo partition to continue booting
+ androidboot.veritymode=
+ androidboot.keymaster=1
+ gpt
+ androidboot.mode=
+ quiet
+ androidboot.alarmboot=true
+ androidboot.mode=charger
+ androidboot.authorized_kernel=true
+ androidboot.baseband=apq
+ androidboot.baseband=msm
+ androidboot.baseband=csfb
+ androidboot.baseband=svlte2a
+ androidboot.baseband=mdm
+ androidboot.baseband=mdm2
+ androidboot.baseband=sglte
+ androidboot.baseband=sglte2
+ androidboot.baseband=dsda
+ androidboot.baseband=dsda2
+ androidboot.baseband=baseband_apq_nowgr
+mdss_mdp
+ qpnp-power-on.warm_boot=1
+ androidboot.slot_suffix=
+ root=/dev/mmcblk0p%d
+ root=/dev/sd%c%d
+ rootwait ro init=/init
+ skip_initramfs
+target_cmdline_buf
+cmdline_final != NULL
+Crossing ATAGs Max size allowed
+ERROR: Updating Device Tree Failed 
+The dm-verity is not started in enforcing mode.
+Wait for 5 seconds before proceeding
+Device is unlocked! Skipping verification...
+Keystore verification failed! Continuing anyways...
+bootselect
+Signature: 0x%08x or version: 0x%08x mismatched of /bootselect
+failed to get ffbm cookie
+ANDROID!
+ERROR: No %s partition found
+ERROR: Cannot read boot image header
+ERROR: Invalid boot image header
+ERROR: Invalid page size
+Integer overflow detected in bootimage header fields at %u in %s
+booimage  size is greater than DDR can hold
+ERROR: Cannot read boot image
+ERROR: Cannot read boot image signature
+Your device has been unlocked and can't be trusted.
+decompressing kernel image failed!!!
+UNCOMPRESSED_IMG
+kernel/ramdisk addresses are not valid.
+Device tree addresses are not valid.
+ERROR: Appended Device Tree Blob not found
+Boot image buffer address overlaps with aboot addresses.
+Signature read buffer address overlaps with aboot addresses.
+devinfo
+ERROR: Cannot write device info
+ERROR: Cannot read device info
+Failed to allocate memory for device info struct
+ERROR: Partition table not found
+ERROR: No devinfo partition found
+ERROR: No boot partition found
+ERROR: No recovery partition found
+ERROR: Invalid boot image pagesize. Device pagesize: %d, Image pagesize: %d
+Integer overflow detected in bootimage header fields
+Integer overflow detected in bootimage header fields %u %s
+bootimage  size is greater than DDR can hold
+ERROR: Integer overflow in boot image header %s	%d
+ERROR: Cannot read kernel image
+ERROR: Cannot read ramdisk image
+ANDROID-BOOT!
+reset_device_info called.
+set_device_root called.
+Token verification failed, reboot the device
+unlocked!
+locked!
+	Device already : %s
+Need wipe userdata. Do 'fastboot oem unlock-go'
+invalid bootimage header
+bootimage header fields are invalid
+booimage: size is greater than boot image buffer can hold
+decompressing image failed!!!
+Tags addresses are not valid.
+dtb not found
+unlock device to use this command
+partition table doesn't exist
+unknown partition name
+failed to erase partition
+unlock device to erase keystore
+Partition table doesn't exist
+partition write protected
+failed to erase partition
+failed to erase userdata footer
+device is locked. Cannot erase
+frp-unlock
+Secret key is invalid, please update the bootloader with secret key
+partition-erase
+failed to write partition
+unlock device to flash keystore
+image is not a keystore file
+image is not a boot image
+size too large
+flash write failure
+Cannot  flash: image header corrupt
+Device is locked, meta image flashing is not allowed
+Device is critical locked, Meta image flashing is not allowed
+Integer overflow detected in start_offset of img
+Integer overflow detected in size of img
+Cannot  flash: image size mismatch
+size too low
+Invalid block size
+buffer overreads occured due to invalid sparse header
+chunk header size mismatch
+Chunk data size exceeds partition size
+sparse header size mismatch
+Bogus chunk size for chunk type Raw
+Bogus size for RAW chunk type
+Bogus chunk size for chunk type FILL
+Invalid block size
+Malloc failed for: CHUNK_TYPE_FILL
+Chunk data size for fill type exceeds partition size
+bogus size for chunk FILL type
+bogus size for chunk DONT CARE type
+total_sz is %d, chunk_hdr_sz is %d
+Bogus chunk size for chunk type CRC
+bogus size for chunk CRC type
+integer overflow occured
+failed to check crc
+Unkown chunk type: %x
+Unknown chunk type
+sparse image write failure
+crclist
+update crc list failed
+check  crc failed
+CRC verification pass
+system partition not found
+update_ubi_vol failed
+Cannot flash: image header corrupt
+Image is not a boot image
+Integer overflow detected
+Buffer size is not aligned to page_size
+Image size too large
+UBI#
+	get_unlock_ability: %d
+	lock critical is not supported
+unlock critical is not supported
+SPLASH!!
+ERROR: magic error
+ERROR: width=%d or height=%d error
+splash
+ERROR: splash Partition not found
+ERROR: Boot image header invalid
+ERROR: Cannot read splash image from partition
+Logo config greater than fb config. Fall back default logo
+ERROR: Splash image size invalid
+logo
+ERROR: logo Partition table not found
+ERROR: logo Partition invalid
+blocksize = %d
+ERROR:splash Partition invalid blocksize
+ERROR: fb config is not allocated
+ERROR: Cannot read splash image header
+ERROR: Splash image header invalid
+Logo config doesn't match with fb config. Fall back default logo
+logo index is LOGO_FASTBOOT
+logo index is LOGO_CHARGE
+logo index is LOGO_SECURITY_UNLOCK
+logo index is LOGO_SECURITY_DESTROY
+logo index is LOGO_WHITEMI
+eMMC
+product
+MSM8996_A4
+MSM8996_A7
+MSM8996_A8
+MSM8996_B7
+MSM8996
+kernel
+serialno
+%04x
+platform
+platform_version
+platform_hw
+platform_subtype
+%d.%d.%d
+board_version
+partition-size:
+partition-type:
+Invalid partition index
+Invalid partition name %s
+	 0x%llx
+partition size name truncated
+partition type name truncated
+	0x%x
+max-download-size
+charger-screen-enabled
+display-panel
+version-bootloader
+version-baseband
+secure
+unlocked
+%s %s
+variant
+battery-voltage
+battery-soc-ok
+RAND Bytes generation failed
+token
+Neither '%s' nor '%s' partition found
+Reading MMC failed
+hw version: %s
+error in emmc_recovery_init
+ERROR: Could not do normal boot. Reverting to fastboot mode.
+flash:
+erase:
+continue
+reboot
+reboot-bootloader
+oem unlock
+oem lock
+oem poweroff
+oem edl
+flashing unlock
+flashing lock
+oem device-info
+preflash
+oem enable-charger-screen
+oem disable-charger-screen
+oem off-mode-charge
+oem select-display-panel
+set_active
+oem lkmsg
+oem run-tests
+pmic
+green
+orange
+yellow
+enforcing
+boot_linux_from_flash
+app/aboot/fastboot.c
+usb_write() queue failed. r = %d
+usb_write() transaction failed. txn_status = %d
+usb_write(): DONE: ERROR: len = %d
+usb_read() queue failed. r = %d
+usb_read() transaction failed. txn_status = %d
+usb_read(): DONE: ERROR: len = %d
+%s%s
+Could not allocate memory for fastboot buffer
+getvar:partition-type
+erase
+flash
+FAIL
+Warning: battery's capacity is very low
+unknown reason
+unknown command
+data too large
+DATA%08x
+OKAY
+INFO%s
+Upload fail, only %d bytes are transfered
+getvar:
+download:
+fastboot
+Google
+Android
+ERROR: No misc partition found
+ERROR: Cannot read recovery_header
+ERROR: flash write fail!
+ERROR: unable to read shared memory for apps boot info %d
+boot-recovery
+RADIO
+failed-update
+update-radio
+FOTA
+ERROR: Memory allocation failure
+app/aboot/recovery.c
+%s: Partition not found
+partition %s doesn't exist
+mmc read failure %s %d
+reset-device-info
+root-detect
+memory allocation error 
+mmc write failure %s %d
+No '%s' partition found
+Write request out of '%s' boundaries
+Writing MMC failed
+Writing flash failed
+Invalid size argument passed to get_ffbm
+Failed to alloc buffer for ffbm cookie
+Read request out of '%s' boundaries
+Misc partition not supported for NAND targets.
+Invalid string in misc partition
+Error reading MISC partition
+ffbm-
+Physical to virtual conversion TEST PASS
+hello
+LAPE TEST PASS for addr: 0x%llx
+atomic_tester
+%p: in this thread. rq %d
+sleeper %p
+mutex_zerotimeout_thread acquiring mutex %p with zero second timeout
+mutex_acquire_timeout returns %d
+mutex_timeout_thread acquiring mutex %p with 1 second timeout
+%s:%d: 
+add %d
+exiting, old count %d
+mutex tester thread %p starting up, will go for %d iterations
+someone else has messed with the shared data
+event waiter starting
+%p: waiting on event...
+%p: event_wait() returned error
+%p: done waiting on event...
+event signaller pausing
+signalling event
+done signalling event
+took %u cycles to yield %d times, %u per yield, %u per yield per thread
+sleeper
+mutex tester
+done with simple mutex tests
+testing mutex timeout
+mutex timeout tester
+done with mutex tests
+event signaller
+event waiter 0
+event waiter 1
+event waiter 2
+event waiter 3
+quantum tester 0
+quantum tester 1
+quantum tester 2
+quantum tester 3
+context switch idle
+context switch 2a
+context switch 2b
+context switch 4a
+context switch 4b
+context switch 4c
+context switch 4d
+atomic tester 1
+atomic tester 2
+atomic count == %d (should be zero)
+printf tests
+numbers:
+int8:  %hhd %hhd %hhd
+uint8: %hhu %hhu %hhu
+int16: %hd %hd %hd
+uint16:%hu %hu %hu
+int:   %d %d %d
+uint:  %u %u %u
+long:  %ld %ld %ld
+ulong: %lu %lu %lu
+long:  %D %D %D
+ulong: %U %U %U
+longlong: %lli %lli %lli
+ulonglong: %llu %llu %llu
+size_t: %zd %zd %zd
+usize_t: %zu %zu %zu
+hex:
+uint8: %hhx %hhx %hhx
+uint16:%hx %hx %hx
+uint:  %x %x %x
+ulong: %lx %lx %lx
+ulong: %X %X %X
+ulonglong: %llx %llx %llx
+usize_t: %zx %zx %zx
+alt/sign:
+uint: %#x %#X
+int: %+d %+d
+formatting
+int: a%8da
+int: a%9da
+int: a%-9da
+int: a%10da
+int: a%-10da
+int: a%09da
+int: a%010da
+int: a%6da
+a%1sa
+a%9sa
+a%-9sa
+a%5sa
+thisisatest
+ returned %d
+abcd
+abcde
+abcdef
+Test Input File
+correct_signature_signature
+missing_first_byte_signature
+incorrect_first_byte_signature
+missing_second_byte_signature
+incorrect_second_byte_signature
+incorrect_ff_padding_signature
+missing_delimiter_signature
+incorrect_delimiter_signature
+bad_oid_signature
+bad_hash_value_signature
+Bleichenbacher_at_start_signature
+Bleichenbacher_at_end_signature
+dev/fbcon/fbcon.c
+_config
+unknown framebuffer pixel format
+NULL configuration, image cannot be displayed
+mdss_edp_panel_power
+LDO control enable failed
+%s: panel enable failed
+%s: panel disable failed
+%s: ldo control disable failed
+panel reset failed
+panel reset disable failed
+Clock calculation failed
+ERROR: splash Partition invalid offset
+ERROR:splash Partition invalid memory
+mmc read splash failure%d
+chip serial splash =%d
+chip serial pinfo =%d
+Found stored PLL codes!
+frame_rate=%d failed!
+Cannot cal pll codes!
+mmc write failed!
+Calculate PLL codes!
+Cannot store pll codes!
+enable
+disable
+Backlight %s failed
+DUAL_PIPE_FLAG and DST_SPLIT_FLAG cannot be selected togather
+DSI swap invalid for split DSI panel!
+Dual DSI config detected!Use default PLL
+Split DSI on 28nm/20nm!Use DSI PLL0
+Single DSI with DSI-0 on 28nm/20nm!Use DSI PLL0
+DSI panel init failed!
+Target panel init not found!
+Sim_mode not found in lookup table
+prim:
+sec:
+:cfg
+:skip
+:disable
+:swap
+:pll0
+:pll1
+#sim-hwte
+#sim-swte
+#sim
+qcom,mdss_dsi_dual_sim_cmd
+qcom,mdss_dsi_sim_cmd
+qcom,mdss_dsi_dual_sim_video
+qcom,mdss_dsi_sim_video
+Panel_name:%s not found in lookup table
+panel node or dsi ctrl not present
+display command line buffer is small
+slave node not present in split-dsi case
+Invalid config: Primary panel issplit DSI and still secondary panel passed
+Sec. panel not found. Continue with primary panel
+Invalid config: Secondary panel cantbe split DSI. Continue with primary panel
+split_dsi
+dual_dsi
+single_dsi
+Dual DSI config detected! Use default PLL
+SIM string NULL but mode is not NONE
+:config%d
+:cfg:
+#override:
+dsi_panel_ctl_base_setup
+%s: Invalid combination: DSI0 controller + DSI1 PLL, using DSI0 PLL
+%s: Unkown panel destination: %d
+ERROR: DSC cannot be used without topology_config
+ERROR: DSC params are NULL
+Invalid panel name
+%s: bit clock is 0, divider calculation failed
+%s: n1div is out of ranget:%d
+%s: n2div is out of ranget:%d
+Not able to calculate posdiv1
+calculate_vco_thulium
+LDO pointer is invalid: %p
+dev/pmic/pm8x41/pm8x41.c
+Error: requested channel is not supported: %u
+Error: Current value for USB are not in permissible range
+Error: Current value for BAT are not in permissible range
+Error: Voltage values are not in permissible range
+Error getting battery Voltage
+Error getting hardware version voltage
+Error getting device id voltage
+Error: Getting battery voltage based Soc
+Cutoff is greater than VDD max, Voltage based soc can't be calculated
+Error: The MPP pin number is unavailable
+Error in duty cycle and period
+display_logo_charger
+Error: IACS not ready, shutting down
+dev/pmic/pmi8994/pm_app_smbchg.c
+chg_param_ptr
+Booting up to HLOS: Charger is Connected and NO battery
+ima_err_sts: %x	ima_exception_sts:%x	ima_hw_sts:%x
+Failed to Read the Voltage from IMA, shutting down
+Error: Failed to read from Fuel Guage, Shutting down
+ERROR:  ADC Reading is NOT Ready
+display_charger_screen
+Error: Could not create display charger screen thread
+ERROR: Charging is NOT in progress: Shutting Down
+%s: wled is not initialized yet
+wled %sable failed
+Invalid string number
+qpnp_lab_regulator_set_voltage failed, min_uV %d is less than init volt %d
+qpnp_ibb_regulator_set_voltage unable to set voltage (%d %d)
+qpnp_ibb_regulator_set_voltage failed, min_uV %d is less than init volt %d
+qpnp_ibb_regulator_set_voltage unable to set voltage %d %d
+Invalid avdd target voltage specified 
+wled config failed
+qpnp_wled_enable_backlight
+qpnp_ibb_enable
+vibrator already turn on
+[%u] 
+panic (frame %p): 
+panic (caller %p): 
+stack smashing detected.
+0x%08lx: 
+%08x %08x %08x %08x |
+0x%02hhx 
+invalid input size
+invalid input alignment
+0123456789ABCDEF<null>
+0123456789abcdefphandle
+linux,phandle
+/aliases
+compatible
+lib/openssl/crypto/bio/b_print.c
+*sbuffer != ((void *)0) || buffer != ((void *)0)
+*currlen <= *maxlen
+*sbuffer != ((void *)0)
+0123456789ABCDEF
+0123456789abcdef
+<NULL>
+0123456789
+doapr()
+lib/openssl/crypto/cryptlib.c
+dynamic
+ERROR
+%s(%d): OpenSSL internal error, assertion failed: %s
+pointer != NULL
+<<ERROR>>
+ex_data
+x509
+x509_info
+x509_pkey
+x509_crl
+x509_req
+evp_pkey
+x509_store
+ssl_ctx
+ssl_cert
+ssl_session
+ssl_sess_cert
+ssl_method
+rand
+rand2
+debug_malloc
+gethostbyname
+getservbyname
+readdir
+RSA_blinding
+debug_malloc2
+dynlock
+engine
+ecdsa
+ecdh
+ec_pre_comp
+store
+comp
+fips
+fips2
+lib/openssl/crypto/mem_dbg.c
+%ld bytes leaked in %d chunks
+lib/openssl/crypto/ex_data.c
+lib/openssl/crypto/asn1/a_bitstr.c
+lib/openssl/crypto/asn1/a_int.c
+'()+,-./:=?
+lib/openssl/crypto/asn1/a_mbstr.c
+minsize=
+maxsize=
+lib/openssl/crypto/asn1/a_object.c
+NULL
+<INVALID>
+ASN1_TIME
+Openssl LK: Removed qsort dependency in ameth_lib.c
+lib/openssl/crypto/asn1/ameth_lib.c
+lib/openssl/crypto/asn1/asn1_lib.c
+address=
+ offset=
+lib/openssl/crypto/asn1/tasn_enc.c
+Openssl LK: removing qsort dependency in tasn_enc
+lib/openssl/crypto/asn1/tasn_dec.c
+Field=
+, Type=
+Type=
+lib/openssl/crypto/asn1/tasn_new.c
+ASN1_SET_ANY
+ASN1_SEQUENCE_ANY
+ASN1_OCTET_STRING_NDEF
+ASN1_FBOOLEAN
+ASN1_TBOOLEAN
+ASN1_BOOLEAN
+DIRECTORYSTRING
+DISPLAYTEXT
+ASN1_PRINTABLE
+ASN1_SEQUENCE
+ASN1_ANY
+ASN1_BMPSTRING
+ASN1_UNIVERSALSTRING
+ASN1_VISIBLESTRING
+ASN1_GENERALIZEDTIME
+ASN1_UTCTIME
+ASN1_GENERALSTRING
+ASN1_IA5STRING
+ASN1_T61STRING
+ASN1_PRINTABLESTRING
+ASN1_UTF8STRING
+ASN1_OBJECT
+ASN1_NULL
+ASN1_OCTET_STRING
+ASN1_BIT_STRING
+ASN1_ENUMERATED
+ASN1_INTEGER
+lib/openssl/crypto/asn1/tasn_utl.c
+X509_ALGORS
+X509_ALGOR
+algorithm
+parameter
+X509_ATTRIBUTE
+object
+value.set
+value.single
+BIGNUM
+X509_EXTENSIONS
+Extension
+X509_EXTENSION
+critical
+value
+lib/openssl/crypto/asn1/x_long.c
+ZLONG
+LONG
+lib/openssl/crypto/asn1/x_name.c
+X509_NAME
+X509_NAME_INTERNAL
+X509_NAME_ENTRIES
+RDNS
+X509_NAME_ENTRY
+lib/openssl/crypto/asn1/x_pubkey.c
+X509_PUBKEY
+public_key
+X509_SIG
+digest
+X509_VAL
+notBefore
+notAfter
+X509
+cert_info
+sig_alg
+X509_CINF
+serialNumber
+issuer
+validity
+subject
+issuerUID
+subjectUID
+X509_CERT_PAIR
+forward
+reverse
+X509_CERT_AUX
+trust
+reject
+alias
+keyid
+other
+lib/openssl/crypto/bn/bn_add.c
+lib/openssl/crypto/bn/bn_asm.c
+num >= 0
+n >= 0
+(i == 32) || (h <= (unsigned int)1<<i)
+lib/openssl/crypto/bn/bn_ctx.c
+lib/openssl/crypto/bn/bn_div.c
+lib/openssl/crypto/bn/bn_exp.c
+lib/openssl/crypto/bn/bn_gcd.c
+lib/openssl/crypto/bn/bn_lib.c
+bn(%d,%d)
+lib/openssl/crypto/bn/bn_mont.c
+lib/openssl/crypto/bn/bn_mul.c
+cl >= 0
+j <= al || j <= bl
+lib/openssl/crypto/bn/bn_print.c
+%09u
+lib/openssl/crypto/buffer/buffer.c
+lib/openssl/crypto/err/err.c
+int_thread_get (err.c)
+int_err_get (err.c)
+unknown
+lib(%lu)
+func(%lu)
+reason(%lu)
+error:%08lX:%s:%s:%s
+system lib
+BN lib
+RSA lib
+DH lib
+EVP lib
+BUF lib
+OBJ lib
+PEM lib
+DSA lib
+X509 lib
+ASN1 lib
+CONF lib
+CRYPTO lib
+EC lib
+SSL lib
+BIO lib
+PKCS7 lib
+X509V3 lib
+PKCS12 lib
+RAND lib
+DSO lib
+ENGINE lib
+OCSP lib
+TS lib
+nested asn1 error
+bad asn1 object header
+bad get asn1 object call
+expecting an asn1 sequence
+asn1 length mismatch
+missing asn1 eos
+fatal
+malloc failure
+called a function you should not call
+passed a null parameter
+internal error
+called a function that was disabled at compile-time
+fopen
+connect
+socket
+ioctlsocket
+bind
+listen
+accept
+opendir
+fread
+unknown library
+system library
+bignum routines
+rsa routines
+Diffie-Hellman routines
+digital envelope routines
+memory buffer routines
+object identifier routines
+PEM routines
+dsa routines
+x509 certificate routines
+asn1 encoding routines
+configuration file routines
+common libcrypto routines
+elliptic curve routines
+SSL routines
+BIO routines
+PKCS7 routines
+X509 V3 routines
+PKCS12 routines
+random number generator
+DSO support routines
+time stamp routines
+engine routines
+OCSP routines
+FIPS routines
+CMS routines
+HMAC routines
+lib/openssl/crypto/evp/digest.c
+ctx->digest->md_size <= EVP_MAX_MD_SIZE
+lib/openssl/crypto/evp/evp_lib.c
+l <= sizeof(c->iv)
+j <= sizeof(c->iv)
+lib/openssl/crypto/evp/p_lib.c
+%s algorithm "%s" unsupported
+Public Key
+Private Key
+Parameters
+lib/openssl/crypto/evp/pmeth_lib.c
+lib/openssl/crypto/lhash/lhash.c
+	(**
+Ag*g*
+g+g+
+lib/openssl/crypto/objects/obj_dat.c
+.%lu
+UNDEF
+undefined
+rsadsi
+RSA Data Security, Inc.
+pkcs
+RSA Data Security, Inc. PKCS
+rsaEncryption
+RSA-MD2
+md2WithRSAEncryption
+RSA-MD5
+md5WithRSAEncryption
+PBE-MD2-DES
+pbeWithMD2AndDES-CBC
+PBE-MD5-DES
+pbeWithMD5AndDES-CBC
+X500
+directory services (X.500)
+commonName
+countryName
+localityName
+stateOrProvinceName
+organizationName
+organizationalUnitName
+pkcs7
+pkcs7-data
+pkcs7-signedData
+pkcs7-envelopedData
+pkcs7-signedAndEnvelopedData
+pkcs7-digestData
+pkcs7-encryptedData
+pkcs3
+dhKeyAgreement
+DES-ECB
+des-ecb
+DES-CFB
+des-cfb
+DES-CBC
+des-cbc
+DES-EDE
+des-ede
+DES-EDE3
+des-ede3
+IDEA-CBC
+idea-cbc
+IDEA-CFB
+idea-cfb
+IDEA-ECB
+idea-ecb
+rc2-cbc
+RC2-ECB
+rc2-ecb
+RC2-CFB
+rc2-cfb
+RC2-OFB
+rc2-ofb
+RSA-SHA
+shaWithRSAEncryption
+DES-EDE-CBC
+des-ede-cbc
+DES-EDE3-CBC
+des-ede3-cbc
+DES-OFB
+des-ofb
+IDEA-OFB
+idea-ofb
+pkcs9
+emailAddress
+unstructuredName
+contentType
+messageDigest
+signingTime
+countersignature
+challengePassword
+unstructuredAddress
+extendedCertificateAttributes
+Netscape
+Netscape Communications Corp.
+nsCertExt
+Netscape Certificate Extension
+nsDataType
+Netscape Data Type
+DES-EDE-CFB
+des-ede-cfb
+DES-EDE3-CFB
+des-ede3-cfb
+DES-EDE-OFB
+des-ede-ofb
+DES-EDE3-OFB
+des-ede3-ofb
+RSA-SHA1
+sha1WithRSAEncryption
+DSA-SHA
+dsaWithSHA
+DSA-old
+dsaEncryption-old
+PBE-SHA1-RC2-64
+pbeWithSHA1AndRC2-CBC
+PBKDF2
+DSA-SHA1-old
+dsaWithSHA1-old
+nsCertType
+Netscape Cert Type
+nsBaseUrl
+Netscape Base Url
+nsRevocationUrl
+Netscape Revocation Url
+nsCaRevocationUrl
+Netscape CA Revocation Url
+nsRenewalUrl
+Netscape Renewal Url
+nsCaPolicyUrl
+Netscape CA Policy Url
+nsSslServerName
+Netscape SSL Server Name
+nsComment
+Netscape Comment
+nsCertSequence
+Netscape Certificate Sequence
+DESX-CBC
+desx-cbc
+id-ce
+subjectKeyIdentifier
+X509v3 Subject Key Identifier
+keyUsage
+X509v3 Key Usage
+privateKeyUsagePeriod
+X509v3 Private Key Usage Period
+subjectAltName
+X509v3 Subject Alternative Name
+issuerAltName
+X509v3 Issuer Alternative Name
+basicConstraints
+X509v3 Basic Constraints
+crlNumber
+X509v3 CRL Number
+certificatePolicies
+X509v3 Certificate Policies
+authorityKeyIdentifier
+X509v3 Authority Key Identifier
+BF-CBC
+bf-cbc
+BF-ECB
+bf-ecb
+BF-CFB
+bf-cfb
+BF-OFB
+bf-ofb
+mdc2
+RSA-MDC2
+mdc2WithRSA
+RC4-40
+rc4-40
+RC2-40-CBC
+rc2-40-cbc
+givenName
+surname
+initials
+crlDistributionPoints
+X509v3 CRL Distribution Points
+RSA-NP-MD5
+md5WithRSA
+title
+description
+CAST5-CBC
+cast5-cbc
+CAST5-ECB
+cast5-ecb
+CAST5-CFB
+cast5-cfb
+CAST5-OFB
+cast5-ofb
+pbeWithMD5AndCast5CBC
+DSA-SHA1
+dsaWithSHA1
+MD5-SHA1
+md5-sha1
+RSA-SHA1-2
+sha1WithRSA
+dsaEncryption
+ripemd160
+RSA-RIPEMD160
+ripemd160WithRSA
+RC5-CBC
+rc5-cbc
+RC5-ECB
+rc5-ecb
+RC5-CFB
+rc5-cfb
+RC5-OFB
+rc5-ofb
+run length compression
+ZLIB
+zlib compression
+extendedKeyUsage
+X509v3 Extended Key Usage
+PKIX
+id-kp
+serverAuth
+TLS Web Server Authentication
+clientAuth
+TLS Web Client Authentication
+codeSigning
+Code Signing
+emailProtection
+E-mail Protection
+timeStamping
+Time Stamping
+msCodeInd
+Microsoft Individual Code Signing
+msCodeCom
+Microsoft Commercial Code Signing
+msCTLSign
+Microsoft Trust List Signing
+msSGC
+Microsoft Server Gated Crypto
+msEFS
+Microsoft Encrypted File System
+nsSGC
+Netscape Server Gated Crypto
+deltaCRL
+X509v3 Delta CRL Indicator
+CRLReason
+X509v3 CRL Reason Code
+invalidityDate
+Invalidity Date
+SXNetID
+Strong Extranet ID
+PBE-SHA1-RC4-128
+pbeWithSHA1And128BitRC4
+PBE-SHA1-RC4-40
+pbeWithSHA1And40BitRC4
+PBE-SHA1-3DES
+pbeWithSHA1And3-KeyTripleDES-CBC
+PBE-SHA1-2DES
+pbeWithSHA1And2-KeyTripleDES-CBC
+PBE-SHA1-RC2-128
+pbeWithSHA1And128BitRC2-CBC
+PBE-SHA1-RC2-40
+pbeWithSHA1And40BitRC2-CBC
+keyBag
+pkcs8ShroudedKeyBag
+certBag
+crlBag
+secretBag
+safeContentsBag
+friendlyName
+localKeyID
+x509Certificate
+sdsiCertificate
+x509Crl
+PBES2
+PBMAC1
+hmacWithSHA1
+id-qt-cps
+Policy Qualifier CPS
+id-qt-unotice
+Policy Qualifier User Notice
+RC2-64-CBC
+rc2-64-cbc
+SMIME-CAPS
+S/MIME Capabilities
+PBE-MD2-RC2-64
+pbeWithMD2AndRC2-CBC
+PBE-MD5-RC2-64
+pbeWithMD5AndRC2-CBC
+PBE-SHA1-DES
+pbeWithSHA1AndDES-CBC
+msExtReq
+Microsoft Extension Request
+extReq
+Extension Request
+dnQualifier
+id-pe
+id-ad
+authorityInfoAccess
+Authority Information Access
+OCSP
+caIssuers
+CA Issuers
+OCSPSigning
+OCSP Signing
+member-body
+ISO Member Body
+ISO-US
+ISO US Member Body
+X9-57
+X9.57
+X9cm
+X9.57 CM ?
+pkcs1
+pkcs5
+SMIME
+S/MIME
+id-smime-mod
+id-smime-ct
+id-smime-aa
+id-smime-alg
+id-smime-cd
+id-smime-spq
+id-smime-cti
+id-smime-mod-cms
+id-smime-mod-ess
+id-smime-mod-oid
+id-smime-mod-msg-v3
+id-smime-mod-ets-eSignature-88
+id-smime-mod-ets-eSignature-97
+id-smime-mod-ets-eSigPolicy-88
+id-smime-mod-ets-eSigPolicy-97
+id-smime-ct-receipt
+id-smime-ct-authData
+id-smime-ct-publishCert
+id-smime-ct-TSTInfo
+id-smime-ct-TDTInfo
+id-smime-ct-contentInfo
+id-smime-ct-DVCSRequestData
+id-smime-ct-DVCSResponseData
+id-smime-aa-receiptRequest
+id-smime-aa-securityLabel
+id-smime-aa-mlExpandHistory
+id-smime-aa-contentHint
+id-smime-aa-msgSigDigest
+id-smime-aa-encapContentType
+id-smime-aa-contentIdentifier
+id-smime-aa-macValue
+id-smime-aa-equivalentLabels
+id-smime-aa-contentReference
+id-smime-aa-encrypKeyPref
+id-smime-aa-signingCertificate
+id-smime-aa-smimeEncryptCerts
+id-smime-aa-timeStampToken
+id-smime-aa-ets-sigPolicyId
+id-smime-aa-ets-commitmentType
+id-smime-aa-ets-signerLocation
+id-smime-aa-ets-signerAttr
+id-smime-aa-ets-otherSigCert
+id-smime-aa-ets-contentTimestamp
+id-smime-aa-ets-CertificateRefs
+id-smime-aa-ets-RevocationRefs
+id-smime-aa-ets-certValues
+id-smime-aa-ets-revocationValues
+id-smime-aa-ets-escTimeStamp
+id-smime-aa-ets-certCRLTimestamp
+id-smime-aa-ets-archiveTimeStamp
+id-smime-aa-signatureType
+id-smime-aa-dvcs-dvc
+id-smime-alg-ESDHwith3DES
+id-smime-alg-ESDHwithRC2
+id-smime-alg-3DESwrap
+id-smime-alg-RC2wrap
+id-smime-alg-ESDH
+id-smime-alg-CMS3DESwrap
+id-smime-alg-CMSRC2wrap
+id-smime-cd-ldap
+id-smime-spq-ets-sqt-uri
+id-smime-spq-ets-sqt-unotice
+id-smime-cti-ets-proofOfOrigin
+id-smime-cti-ets-proofOfReceipt
+id-smime-cti-ets-proofOfDelivery
+id-smime-cti-ets-proofOfSender
+id-smime-cti-ets-proofOfApproval
+id-smime-cti-ets-proofOfCreation
+id-pkix-mod
+id-qt
+id-it
+id-pkip
+id-alg
+id-cmc
+id-on
+id-pda
+id-aca
+id-qcs
+id-cct
+id-pkix1-explicit-88
+id-pkix1-implicit-88
+id-pkix1-explicit-93
+id-pkix1-implicit-93
+id-mod-crmf
+id-mod-cmc
+id-mod-kea-profile-88
+id-mod-kea-profile-93
+id-mod-cmp
+id-mod-qualified-cert-88
+id-mod-qualified-cert-93
+id-mod-attribute-cert
+id-mod-timestamp-protocol
+id-mod-ocsp
+id-mod-dvcs
+id-mod-cmp2000
+biometricInfo
+Biometric Info
+qcStatements
+ac-auditEntity
+ac-targeting
+aaControls
+sbgp-ipAddrBlock
+sbgp-autonomousSysNum
+sbgp-routerIdentifier
+textNotice
+ipsecEndSystem
+IPSec End System
+ipsecTunnel
+IPSec Tunnel
+ipsecUser
+IPSec User
+DVCS
+dvcs
+id-it-caProtEncCert
+id-it-signKeyPairTypes
+id-it-encKeyPairTypes
+id-it-preferredSymmAlg
+id-it-caKeyUpdateInfo
+id-it-currentCRL
+id-it-unsupportedOIDs
+id-it-subscriptionRequest
+id-it-subscriptionResponse
+id-it-keyPairParamReq
+id-it-keyPairParamRep
+id-it-revPassphrase
+id-it-implicitConfirm
+id-it-confirmWaitTime
+id-it-origPKIMessage
+id-regCtrl
+id-regInfo
+id-regCtrl-regToken
+id-regCtrl-authenticator
+id-regCtrl-pkiPublicationInfo
+id-regCtrl-pkiArchiveOptions
+id-regCtrl-oldCertID
+id-regCtrl-protocolEncrKey
+id-regInfo-utf8Pairs
+id-regInfo-certReq
+id-alg-des40
+id-alg-noSignature
+id-alg-dh-sig-hmac-sha1
+id-alg-dh-pop
+id-cmc-statusInfo
+id-cmc-identification
+id-cmc-identityProof
+id-cmc-dataReturn
+id-cmc-transactionId
+id-cmc-senderNonce
+id-cmc-recipientNonce
+id-cmc-addExtensions
+id-cmc-encryptedPOP
+id-cmc-decryptedPOP
+id-cmc-lraPOPWitness
+id-cmc-getCert
+id-cmc-getCRL
+id-cmc-revokeRequest
+id-cmc-regInfo
+id-cmc-responseInfo
+id-cmc-queryPending
+id-cmc-popLinkRandom
+id-cmc-popLinkWitness
+id-cmc-confirmCertAcceptance
+id-on-personalData
+id-pda-dateOfBirth
+id-pda-placeOfBirth
+id-pda-gender
+id-pda-countryOfCitizenship
+id-pda-countryOfResidence
+id-aca-authenticationInfo
+id-aca-accessIdentity
+id-aca-chargingIdentity
+id-aca-group
+id-aca-role
+id-qcs-pkixQCSyntax-v1
+id-cct-crs
+id-cct-PKIData
+id-cct-PKIResponse
+ad_timestamping
+AD Time Stamping
+AD_DVCS
+ad dvcs
+basicOCSPResponse
+Basic OCSP Response
+OCSP Nonce
+CrlID
+OCSP CRL ID
+acceptableResponses
+Acceptable OCSP Responses
+noCheck
+OCSP No Check
+archiveCutoff
+OCSP Archive Cutoff
+serviceLocator
+OCSP Service Locator
+extendedStatus
+Extended OCSP Status
+valid
+path
+trustRoot
+Trust Root
+rsaSignature
+X500algorithms
+directory services - algorithms
+IANA
+iana
+directory
+Directory
+mgmt
+Management
+experimental
+Experimental
+private
+Private
+security
+Security
+snmpv2
+SNMPv2
+Mail
+enterprises
+Enterprises
+dcobject
+dcObject
+domainComponent
+domain
+Domain
+selected-attribute-types
+Selected Attribute Types
+clearance
+RSA-MD4
+md4WithRSAEncryption
+ac-proxying
+subjectInfoAccess
+Subject Information Access
+id-aca-encAttrs
+role
+policyConstraints
+X509v3 Policy Constraints
+targetInformation
+X509v3 AC Targeting
+noRevAvail
+X509v3 No Revocation Available
+ansi-X9-62
+ANSI X9.62
+prime-field
+characteristic-two-field
+id-ecPublicKey
+prime192v1
+prime192v2
+prime192v3
+prime239v1
+prime239v2
+prime239v3
+prime256v1
+ecdsa-with-SHA1
+CSPName
+Microsoft CSP Name
+AES-128-ECB
+aes-128-ecb
+AES-128-CBC
+aes-128-cbc
+AES-128-OFB
+aes-128-ofb
+AES-128-CFB
+aes-128-cfb
+AES-192-ECB
+aes-192-ecb
+AES-192-CBC
+aes-192-cbc
+AES-192-OFB
+aes-192-ofb
+AES-192-CFB
+aes-192-cfb
+AES-256-ECB
+aes-256-ecb
+AES-256-CBC
+aes-256-cbc
+AES-256-OFB
+aes-256-ofb
+AES-256-CFB
+aes-256-cfb
+holdInstructionCode
+Hold Instruction Code
+holdInstructionNone
+Hold Instruction None
+holdInstructionCallIssuer
+Hold Instruction Call Issuer
+holdInstructionReject
+Hold Instruction Reject
+pilot
+pilotAttributeType
+pilotAttributeSyntax
+pilotObjectClass
+pilotGroups
+iA5StringSyntax
+caseIgnoreIA5StringSyntax
+pilotObject
+pilotPerson
+account
+document
+room
+documentSeries
+rFC822localPart
+dNSDomain
+domainRelatedObject
+friendlyCountry
+simpleSecurityObject
+pilotOrganization
+pilotDSA
+qualityLabelledData
+userId
+textEncodedORAddress
+mail
+rfc822Mailbox
+favouriteDrink
+roomNumber
+photo
+userClass
+host
+manager
+documentIdentifier
+documentTitle
+documentVersion
+documentAuthor
+documentLocation
+homeTelephoneNumber
+secretary
+otherMailbox
+lastModifiedTime
+lastModifiedBy
+aRecord
+pilotAttributeType27
+mXRecord
+nSRecord
+sOARecord
+cNAMERecord
+associatedDomain
+associatedName
+homePostalAddress
+personalTitle
+mobileTelephoneNumber
+pagerTelephoneNumber
+friendlyCountryName
+organizationalStatus
+janetMailbox
+mailPreferenceOption
+buildingName
+dSAQuality
+singleLevelQuality
+subtreeMinimumQuality
+subtreeMaximumQuality
+personalSignature
+dITRedirect
+audio
+documentPublisher
+x500UniqueIdentifier
+mime-mhs
+MIME MHS
+mime-mhs-headings
+mime-mhs-bodies
+id-hex-partial-message
+id-hex-multipart-message
+generationQualifier
+pseudonym
+id-set
+Secure Electronic Transactions
+set-ctype
+content types
+set-msgExt
+message extensions
+set-attr
+set-policy
+set-certExt
+certificate extensions
+set-brand
+setct-PANData
+setct-PANToken
+setct-PANOnly
+setct-OIData
+setct-PI
+setct-PIData
+setct-PIDataUnsigned
+setct-HODInput
+setct-AuthResBaggage
+setct-AuthRevReqBaggage
+setct-AuthRevResBaggage
+setct-CapTokenSeq
+setct-PInitResData
+setct-PI-TBS
+setct-PResData
+setct-AuthReqTBS
+setct-AuthResTBS
+setct-AuthResTBSX
+setct-AuthTokenTBS
+setct-CapTokenData
+setct-CapTokenTBS
+setct-AcqCardCodeMsg
+setct-AuthRevReqTBS
+setct-AuthRevResData
+setct-AuthRevResTBS
+setct-CapReqTBS
+setct-CapReqTBSX
+setct-CapResData
+setct-CapRevReqTBS
+setct-CapRevReqTBSX
+setct-CapRevResData
+setct-CredReqTBS
+setct-CredReqTBSX
+setct-CredResData
+setct-CredRevReqTBS
+setct-CredRevReqTBSX
+setct-CredRevResData
+setct-PCertReqData
+setct-PCertResTBS
+setct-BatchAdminReqData
+setct-BatchAdminResData
+setct-CardCInitResTBS
+setct-MeAqCInitResTBS
+setct-RegFormResTBS
+setct-CertReqData
+setct-CertReqTBS
+setct-CertResData
+setct-CertInqReqTBS
+setct-ErrorTBS
+setct-PIDualSignedTBE
+setct-PIUnsignedTBE
+setct-AuthReqTBE
+setct-AuthResTBE
+setct-AuthResTBEX
+setct-AuthTokenTBE
+setct-CapTokenTBE
+setct-CapTokenTBEX
+setct-AcqCardCodeMsgTBE
+setct-AuthRevReqTBE
+setct-AuthRevResTBE
+setct-AuthRevResTBEB
+setct-CapReqTBE
+setct-CapReqTBEX
+setct-CapResTBE
+setct-CapRevReqTBE
+setct-CapRevReqTBEX
+setct-CapRevResTBE
+setct-CredReqTBE
+setct-CredReqTBEX
+setct-CredResTBE
+setct-CredRevReqTBE
+setct-CredRevReqTBEX
+setct-CredRevResTBE
+setct-BatchAdminReqTBE
+setct-BatchAdminResTBE
+setct-RegFormReqTBE
+setct-CertReqTBE
+setct-CertReqTBEX
+setct-CertResTBE
+setct-CRLNotificationTBS
+setct-CRLNotificationResTBS
+setct-BCIDistributionTBS
+setext-genCrypt
+generic cryptogram
+setext-miAuth
+merchant initiated auth
+setext-pinSecure
+setext-pinAny
+setext-track2
+setext-cv
+additional verification
+set-policy-root
+setCext-hashedRoot
+setCext-certType
+setCext-merchData
+setCext-cCertRequired
+setCext-tunneling
+setCext-setExt
+setCext-setQualf
+setCext-PGWYcapabilities
+setCext-TokenIdentifier
+setCext-Track2Data
+setCext-TokenType
+setCext-IssuerCapabilities
+setAttr-Cert
+setAttr-PGWYcap
+payment gateway capabilities
+setAttr-TokenType
+setAttr-IssCap
+issuer capabilities
+set-rootKeyThumb
+set-addPolicy
+setAttr-Token-EMV
+setAttr-Token-B0Prime
+setAttr-IssCap-CVM
+setAttr-IssCap-T2
+setAttr-IssCap-Sig
+setAttr-GenCryptgrm
+generate cryptogram
+setAttr-T2Enc
+encrypted track 2
+setAttr-T2cleartxt
+cleartext track 2
+setAttr-TokICCsig
+ICC or token signature
+setAttr-SecDevSig
+secure device signature
+set-brand-IATA-ATA
+set-brand-Diners
+set-brand-AmericanExpress
+set-brand-JCB
+set-brand-Visa
+set-brand-MasterCard
+set-brand-Novus
+DES-CDMF
+des-cdmf
+rsaOAEPEncryptionSET
+ITU-T
+itu-t
+JOINT-ISO-ITU-T
+joint-iso-itu-t
+international-organizations
+International Organizations
+msSmartcardLogin
+Microsoft Smartcardlogin
+msUPN
+Microsoft Universal Principal Name
+AES-128-CFB1
+aes-128-cfb1
+AES-192-CFB1
+aes-192-cfb1
+AES-256-CFB1
+aes-256-cfb1
+AES-128-CFB8
+aes-128-cfb8
+AES-192-CFB8
+aes-192-cfb8
+AES-256-CFB8
+aes-256-cfb8
+DES-CFB1
+des-cfb1
+DES-CFB8
+des-cfb8
+DES-EDE3-CFB1
+des-ede3-cfb1
+DES-EDE3-CFB8
+des-ede3-cfb8
+street
+streetAddress
+postalCode
+id-ppl
+proxyCertInfo
+Proxy Certificate Information
+id-ppl-anyLanguage
+Any language
+id-ppl-inheritAll
+Inherit all
+nameConstraints
+X509v3 Name Constraints
+id-ppl-independent
+Independent
+RSA-SHA256
+sha256WithRSAEncryption
+RSA-SHA384
+sha384WithRSAEncryption
+RSA-SHA512
+sha512WithRSAEncryption
+RSA-SHA224
+sha224WithRSAEncryption
+sha256
+sha384
+sha512
+sha224
+identified-organization
+certicom-arc
+wap-wsg
+id-characteristic-two-basis
+onBasis
+tpBasis
+ppBasis
+c2pnb163v1
+c2pnb163v2
+c2pnb163v3
+c2pnb176v1
+c2tnb191v1
+c2tnb191v2
+c2tnb191v3
+c2onb191v4
+c2onb191v5
+c2pnb208w1
+c2tnb239v1
+c2tnb239v2
+c2tnb239v3
+c2onb239v4
+c2onb239v5
+c2pnb272w1
+c2pnb304w1
+c2tnb359v1
+c2pnb368w1
+c2tnb431r1
+secp112r1
+secp112r2
+secp128r1
+secp128r2
+secp160k1
+secp160r1
+secp160r2
+secp192k1
+secp224k1
+secp224r1
+secp256k1
+secp384r1
+secp521r1
+sect113r1
+sect113r2
+sect131r1
+sect131r2
+sect163k1
+sect163r1
+sect163r2
+sect193r1
+sect193r2
+sect233k1
+sect233r1
+sect239k1
+sect283k1
+sect283r1
+sect409k1
+sect409r1
+sect571k1
+sect571r1
+wap-wsg-idm-ecid-wtls1
+wap-wsg-idm-ecid-wtls3
+wap-wsg-idm-ecid-wtls4
+wap-wsg-idm-ecid-wtls5
+wap-wsg-idm-ecid-wtls6
+wap-wsg-idm-ecid-wtls7
+wap-wsg-idm-ecid-wtls8
+wap-wsg-idm-ecid-wtls9
+wap-wsg-idm-ecid-wtls10
+wap-wsg-idm-ecid-wtls11
+wap-wsg-idm-ecid-wtls12
+anyPolicy
+X509v3 Any Policy
+policyMappings
+X509v3 Policy Mappings
+inhibitAnyPolicy
+X509v3 Inhibit Any Policy
+Oakley-EC2N-3
+ipsec3
+Oakley-EC2N-4
+ipsec4
+CAMELLIA-128-CBC
+camellia-128-cbc
+CAMELLIA-192-CBC
+camellia-192-cbc
+CAMELLIA-256-CBC
+camellia-256-cbc
+CAMELLIA-128-ECB
+camellia-128-ecb
+CAMELLIA-192-ECB
+camellia-192-ecb
+CAMELLIA-256-ECB
+camellia-256-ecb
+CAMELLIA-128-CFB
+camellia-128-cfb
+CAMELLIA-192-CFB
+camellia-192-cfb
+CAMELLIA-256-CFB
+camellia-256-cfb
+CAMELLIA-128-CFB1
+camellia-128-cfb1
+CAMELLIA-192-CFB1
+camellia-192-cfb1
+CAMELLIA-256-CFB1
+camellia-256-cfb1
+CAMELLIA-128-CFB8
+camellia-128-cfb8
+CAMELLIA-192-CFB8
+camellia-192-cfb8
+CAMELLIA-256-CFB8
+camellia-256-cfb8
+CAMELLIA-128-OFB
+camellia-128-ofb
+CAMELLIA-192-OFB
+camellia-192-ofb
+CAMELLIA-256-OFB
+camellia-256-ofb
+subjectDirectoryAttributes
+X509v3 Subject Directory Attributes
+issuingDistributionPoint
+X509v3 Issuing Distrubution Point
+certificateIssuer
+X509v3 Certificate Issuer
+KISA
+kisa
+SEED-ECB
+seed-ecb
+SEED-CBC
+seed-cbc
+SEED-OFB
+seed-ofb
+SEED-CFB
+seed-cfb
+HMAC-MD5
+hmac-md5
+HMAC-SHA1
+hmac-sha1
+id-PasswordBasedMAC
+password based MAC
+id-DHBasedMac
+Diffie-Hellman based MAC
+id-it-suppLangTags
+caRepository
+CA Repository
+id-smime-ct-compressedData
+id-ct-asciiTextWithCRLF
+id-aes128-wrap
+id-aes192-wrap
+id-aes256-wrap
+ecdsa-with-Recommended
+ecdsa-with-Specified
+ecdsa-with-SHA224
+ecdsa-with-SHA256
+ecdsa-with-SHA384
+ecdsa-with-SHA512
+hmacWithMD5
+hmacWithSHA224
+hmacWithSHA256
+hmacWithSHA384
+hmacWithSHA512
+dsa_with_SHA224
+dsa_with_SHA256
+whirlpool
+cryptopro
+cryptocom
+id-GostR3411-94-with-GostR3410-2001
+GOST R 34.11-94 with GOST R 34.10-2001
+id-GostR3411-94-with-GostR3410-94
+GOST R 34.11-94 with GOST R 34.10-94
+md_gost94
+GOST R 34.11-94
+id-HMACGostR3411-94
+HMAC GOST 34.11-94
+gost2001
+GOST R 34.10-2001
+gost94
+GOST R 34.10-94
+gost89
+GOST 28147-89
+gost89-cnt
+gost-mac
+GOST 28147-89 MAC
+prf-gostr3411-94
+GOST R 34.11-94 PRF
+id-GostR3410-2001DH
+GOST R 34.10-2001 DH
+id-GostR3410-94DH
+GOST R 34.10-94 DH
+id-Gost28147-89-CryptoPro-KeyMeshing
+id-Gost28147-89-None-KeyMeshing
+id-GostR3411-94-TestParamSet
+id-GostR3411-94-CryptoProParamSet
+id-Gost28147-89-TestParamSet
+id-Gost28147-89-CryptoPro-A-ParamSet
+id-Gost28147-89-CryptoPro-B-ParamSet
+id-Gost28147-89-CryptoPro-C-ParamSet
+id-Gost28147-89-CryptoPro-D-ParamSet
+id-Gost28147-89-CryptoPro-Oscar-1-1-ParamSet
+id-Gost28147-89-CryptoPro-Oscar-1-0-ParamSet
+id-Gost28147-89-CryptoPro-RIC-1-ParamSet
+id-GostR3410-94-TestParamSet
+id-GostR3410-94-CryptoPro-A-ParamSet
+id-GostR3410-94-CryptoPro-B-ParamSet
+id-GostR3410-94-CryptoPro-C-ParamSet
+id-GostR3410-94-CryptoPro-D-ParamSet
+id-GostR3410-94-CryptoPro-XchA-ParamSet
+id-GostR3410-94-CryptoPro-XchB-ParamSet
+id-GostR3410-94-CryptoPro-XchC-ParamSet
+id-GostR3410-2001-TestParamSet
+id-GostR3410-2001-CryptoPro-A-ParamSet
+id-GostR3410-2001-CryptoPro-B-ParamSet
+id-GostR3410-2001-CryptoPro-C-ParamSet
+id-GostR3410-2001-CryptoPro-XchA-ParamSet
+id-GostR3410-2001-CryptoPro-XchB-ParamSet
+id-GostR3410-94-a
+id-GostR3410-94-aBis
+id-GostR3410-94-b
+id-GostR3410-94-bBis
+id-Gost28147-89-cc
+GOST 28147-89 Cryptocom ParamSet
+gost94cc
+GOST 34.10-94 Cryptocom
+gost2001cc
+GOST 34.10-2001 Cryptocom
+id-GostR3411-94-with-GostR3410-94-cc
+GOST R 34.11-94 with GOST R 34.10-94 Cryptocom
+id-GostR3411-94-with-GostR3410-2001-cc
+GOST R 34.11-94 with GOST R 34.10-2001 Cryptocom
+id-GostR3410-2001-ParamSet-cc
+GOST R 3410-2001 Parameter Set Cryptocom
+HMAC
+hmac
+LocalKeySet
+Microsoft Local Key set
+freshestCRL
+X509v3 Freshest CRL
+id-on-permanentIdentifier
+Permanent Identifier
+searchGuide
+businessCategory
+postalAddress
+postOfficeBox
+physicalDeliveryOfficeName
+telephoneNumber
+telexNumber
+teletexTerminalIdentifier
+facsimileTelephoneNumber
+x121Address
+internationaliSDNNumber
+registeredAddress
+destinationIndicator
+preferredDeliveryMethod
+presentationAddress
+supportedApplicationContext
+owner
+roleOccupant
+seeAlso
+userPassword
+userCertificate
+cACertificate
+authorityRevocationList
+certificateRevocationList
+crossCertificatePair
+enhancedSearchGuide
+protocolInformation
+distinguishedName
+uniqueMember
+houseIdentifier
+supportedAlgorithms
+deltaRevocationList
+dmdName
+lib/openssl/crypto/objects/obj_lib.c
+lib/openssl/crypto/rsa/rsa_ameth.c
+OpenSSL RSA method
+dmp1
+dmq1
+iqmp
+lib/openssl/crypto/rsa/rsa_eay.c
+Openssl LK: Removed rand dependency in rsa_eay.c
+Eric Young's PKCS#1 RSA
+lib/openssl/crypto/rsa/rsa_lib.c
+lib/openssl/crypto/rsa/rsa_none.c
+lib/openssl/crypto/rsa/rsa_pk1.c
+Openssl LK: Removing rand dependency in rsa_pk1.c
+lib/openssl/crypto/rsa/rsa_sign.c
+lib/openssl/crypto/rsa/rsa_x931.c
+lib/openssl/crypto/stack/stack.c
+0123456789ABCDEF
+NO X509_NAME
+lib/openssl/crypto/x509/x509_obj.c
+AUTHORITY_KEYID
+serial
+%*sCPS: %s
+%*sUser Notice:
+%*sOrganization: %s
+%*sNumber%s: 
+%*sExplicit Text: %s
+%*sUnknown Qualifier: 
+%*sPolicy: 
+lib/openssl/crypto/x509v3/v3_cpols.c
+section:
+,name:
+,value:
+ia5org
+policyIdentifier
+userNotice
+explicitText
+organization
+noticeNumbers
+Non Critical
+%*s%s
+%*sNo Qualifiers
+NOTICEREF
+noticenos
+USERNOTICE
+noticeref
+exptext
+POLICYQUALINFO
+pqualid
+d.cpsuri
+d.usernotice
+d.other
+POLICYINFO
+policyid
+qualifiers
+CERTIFICATEPOLICIES
+%*s%s:
+<EMPTY>
+%*sFull Name:
+%*sRelative Name:
+Reasons
+%*sCRL Issuer:
+%*sOnly User Certificates
+%*sOnly CA Certificates
+%*sIndirect CRL
+Only Some Reasons
+%*sOnly Attribute Certificates
+%*s<EMPTY>
+lib/openssl/crypto/x509v3/v3_crld.c
+fullname
+relativename
+CRLissuer
+onlyuser
+onlyCA
+onlyAA
+indirectCRL
+onlysomereasons
+ISSUING_DIST_POINT
+distpoint
+onlyattr
+CRL_DIST_POINTS
+CRLDistributionPoints
+DIST_POINT_NAME
+name.fullname
+name.relativename
+Unused
+unused
+Key Compromise
+keyCompromise
+CA Compromise
+CACompromise
+Affiliation Changed
+affiliationChanged
+Superseded
+superseded
+Cessation Of Operation
+cessationOfOperation
+Certificate Hold
+certificateHold
+Privilege Withdrawn
+privilegeWithdrawn
+AA Compromise
+AACompromise
+GENERAL_NAMES
+GeneralNames
+GENERAL_NAME
+d.otherName
+d.rfc822Name
+d.dNSName
+d.x400Address
+d.directoryName
+d.ediPartyName
+d.uniformResourceIdentifier
+d.iPAddress
+d.registeredID
+EDIPARTYNAME
+nameAssigner
+partyName
+OTHERNAME
+type_id
+permitted
+excluded
+lib/openssl/crypto/x509v3/v3_ncons.c
+%*s%s:
+%d.%d.%d.%d/%d.%d.%d.%d
+IP Address:<invalid>
+Permitted
+Excluded
+NAME_CONSTRAINTS
+permittedSubtrees
+excludedSubtrees
+GENERAL_SUBTREE
+base
+minimum
+maximum
+lib/openssl/crypto/rand/md_rand.c
+....................
+You need to read the OpenSSL FAQ, http://www.openssl.org/support/faq.html
+incorrect header check
+unknown compression method
+invalid window size
+invalid block type
+invalid stored block lengths
+too many length or distance symbols
+invalid code lengths set
+invalid bit length repeat
+invalid code -- missing end-of-block
+invalid literal/lengths set
+invalid distances set
+invalid literal/length code
+invalid distance code
+invalid distance too far back
+incorrect data check
+1.2.8
+xwwf
+[[333
+hEDDD
+xVEDD
+gVUU
+xwwww
+NN3;"r
+&3>P8BR`gnw
+&3>P8BR`gnw
+gffU
+gfff
+xfff
+xwgf
+xwww
+"%Uw
+2RUP
+WUUUU
+}@HVgx
+gfVUU
+gffVU
+gffff
+xffff
+xwfff
+sharp_wqxga_dualdsi_video
+nt35597_wqxga_dualdsi_video
+nt35597_wqxga_dualdsi_cmd
+nt35597_wqxga_dsc_video
+nt35597_wqxga_dsc_cmd
+sharp_fhd_nt35695_video
+sharp_fhd_nt35695_cmd
+jdi_fhd_r63452_cmd
+jdi_fhd_r63452_pro_cmd
+jdi_qhd_dualdsi_video
+jdi_qhd_dualdsi_cmd
+r69007_wqxga_cmd
+jdi_4k_dualdsi_video_nofbc
+adv7533_1080p_video
+adv7533_720p_video
+truly_fwvga_video
+truly_1080p_video
+truly_1080p_cmd
+lgd_fhd_td4322_cmd
+lgd_fhd_td4722_cmd
+auo_fte716_1080p_video
+sharp_fte716_1080p_video
+jdi_fhd_r63452_xcmd
+sharp_fhd_td4722_xcmd
+xwwff
+xwwwf
+}@HVgx
+NN3;"r
+&3>P8BR`gnw
+&3>P8BR`gnw
+wwww
+xwww
+xVUUD
+VUUU
+",;HQ]@GSajqx
+",;HQ]@GSajqx
+ldoa
+swen
+ldoa
+swen
+ldoa
+swen
+ldoa
+swen
+ldoa
+swen
+ldoa
+swen
+ldoa
+swen
+ldoa
+swen
+ldoa
+swen
+ldoa
+swen
+ldoa
+swen
+ldoa
+swen
+ldoa
+swen
+ldoa
+swen
+test
+swen
+swen
+keystore
+*8FTbipwy{}~
+UFSH
+\14k%
+f,])@
+\P$Jg
+v3p(e"
+=Mt'
+u%6\
+AE7@$
+k!el@o
+xp`P)
+wxj5{P
+N/	"
+TD8g
+K2rz
+;OTWWB^
+lr:>
+NpqI
+F?d l
+@8pr
+X&D$v
+EC~.m
+w+<,
+!A*,"|M'
+|DBR
+vVbm
+w_-(
+9(Yd
+zu0b
+m[7f
+?!vdYO
+%p=xH4
+V|;8<u,l8
+sS#6
+5^64
+(]Y?
+DO&F-(e
+ET-i
+!^oB|
+cqo7$
+'h&-
+6|pS
+TkLY
+j:f00
+>/I 
+bI@PK(
+jueBL
+MJX	@([
+?3Ts
+k8lB
+nIK	
+RQmU
+;SkB=R
+wkY0XO
+3C4vm
+?Km7
+UA5V
+'DyF
+o%|J
+F<B!
+dnHl+W.n
+JCm%
+d|.=
+uPn=Ap
+|ASX
+MC'M
+ZNG}:
+	uQ r
+&,k_
+Z+#f
+cj8^
+G<sY
+yvm}x
+;k&V	
+E5fc
+0f3*
+f80/
+eaBm/O
+Ph@>
+0'8"
+q!B2_
+ppic
+G~E3
+q\.E
+G,V,K7
+xj;<
+gYL\'
+AsC6-t
+}.LR
+q'M	
+7_a&E#
+oxGMl0
+?k:/
+APm'y
+%\RQn	
+8$ )
+jRg(Hu
+6&sr
+U)X3
+5>5W
+ZtMT
+m.)pZ@
+9N`F
+t0(]
+2Geq
+n/-CA
+>=^8F)
+".k6
+FbM#
+s]',\
+\V2'l
+j1D 	
+M?~0
+%D,=
+QU".(
+"$[	
+[:''
+g{YPW3@
+D}j]
+3m*#e
+@PzW
+WICW
+c[;4
+TSQd
+C@}")
+ewM{&
+y.5,
+dbUz
+n ,~
+u~{} j
++,|IJ
+iS{0#Q<
+wekVB7Zm)
+Gv0a
+}17P
+Z3o'
+AjHj^U9
+n90A
+}p6[
+W!XFo
+oE5Z#
+,j l
+^I*2
+A/,;rS%4
+k !2
+kyJXT
+`\|nG
+m$vb
+Kh-"C
+Vi!$
+Bg4"W
+BKdU
+<z$.
+1j%S/
+R%=V
+b>g*
+B oEG
+uBxFGeb
+{W(g%q
+J4:nHv
+B1M*
+lz:\
+jEH0
+kb@4
+`N4	
+j!{d
+~?/S
+Mv:L
+X&)L
+L)Z"5
+O~iw0
+3+Yi
+@xQTc
+W=&,
+.7~4/
+2B9Q
+1?\F
+|=p3
+g`Fz2
+AI%wT"Ag
++kz:
+e+BY
+FX@C
+vv?9
+!#Ne
+.,x4
+j'@I
+Bty=$
+kNQR
+|%|,
+1Plc
+H_y(B^
+lW:~
+6ck}
+{)($
+bOD``LR
+AD$/
+O0Jy
+1F?jM
+"1i(y
+>7 B
+Bf*@
+mo7SE'
+	Mt}
+/0i	Q
+51vi)D0
+>	m@
+y?jK#
+dhA;
+D$,X
+IM0D,Rhi
+,;Wa
+FXXvQJ}'
+ZX+ y
+>'Qg
+3+	"]O((
+1Q16T
+X$g.
+*A|9/+L
+	%t{/
+uoX++
+qp`o
+q5uY
+hd2i
+y7Ek
+9^L	
+(n@.
+>3p!A
+F}SF
+5/N%
+#\=W
+Qf Wr
+}*\Pn
++E.4
+g\%=
+	t&g
+}}`|
+q/[}
+79-X
+bn7Z
+>L^]|B
+"@N6[8
+`.'Y
+6nyS}+
+a-Ri {u<
+DTtGm
+*!4V
+8Hf\
+.v17
+|huv
+X/J"
+Gm:R-AM
+@Qj^
+cRgb
+nd>_
+/Rv0	c
+}EyPW_
+A:bh
+|K@3
+n%REc
+.w5	s
+!rwR
+aJ6[M
+C`JR
+k;O{^4F
+RyQ.{
+-JoY
+lv~u
+^Y9.A
+^Z!:9 
+[yO4>-
+~>s.
+5EAl-
+gZZa;xJ
+rX<T
+lj LC
+f4ZGpc
+9wB,-
+63C~
+5E%L
+&lKj
+_Rw/
+XosPY8h
+zBp%U
+{ "]
+RkgM
+6Nwdjx
+tqwK+
+r;od
+AT7Hr
+ng<R
+>0{)
+VEFN
+::(z
+,J<3
+@'hy
+T]:=
+CgP`
+flae_
+hm>V
+	ft`
+o6" 
++#AP
+!m$b'
+zqhRXz
+|vd0b59@
+>C0[
+ABaF
+U|=\M
+OmM6
+	AhPI5
+(E?P
+CT6R
+q08:n|c@
+t>!N
+.?,C
+9|Av
+H73H
+YTQB
+4zCF
+\HGGY|Z
+LAu3
+1{\,
+m{h	
+W [hi
+?$YU;
+?6JPd
+.s;YX
+`/Pt
+0qHg2,
+8r:\
+z<'M
+)cM[
+`K`Z
+Nky*:M
+7	NU
+Y<12
+g8Hk
+BU	e
+a'*u
+NMAw
+85<gB
+-qqI
+*O6}
+etlK
+WwaRD
+5"G2
+K9ts
+VSui
+Q/2&
+^:\,
+&)})
+!97K
+zn6r
+#+OT|
+rno;
+{Ind
+EX|-
+k,ow
+"~ou
+K)28G
+5wum
+54J7M
+ah=}/
+mhR1
+k&<'
+u'BN~
+zXsf
+/&		h
+%>N~
+eBSWM
+\x~Z|w
+T6Hh
+YdVN4;
+NS.K<
+]Y4V
+V!VE
+;w>L#
+dxy/I
+@n+Z
+UWW#
+,;,G8
+.U0M	
+L&aOjK:
+5!Uv
+-p#H
+(J8"
+,w+%
+W)'+
+d6T.
+]I-F
++5ID
+n6]~J
+mc""
+/k)U
+j\(V
+WMt 
+buA$
+PCNP8o
+4CE'
+k(*lt
+yEZ2
+_L?xkp
+={V&
+0'l9p
+c'xE	
+mWCaE
+Q,DA
+eZnO
+UrEeH
+?\Yu
+qWAZ
+_SL=
+~t8V
+(CLn
+l1|sR
+]XK8;
+/-BC
+P3m"
+EdTH
+7}]E.=
+\Y?:Pz
+`r (
+?|yd
+5tOr
+rERsB
+^~D>]xYC
+n> :
+tQy4
+)[).;Q
+dK+~g
+cp5E
+?@gY
+z[(@
+XRnkS
+~E6*
+^}99
+*\ex#
+z,ah
+Ct}/
+<2tLv
+P[Ng
+E>%<
+rcBI
+f(h2
+R*d8%
+,B@zG)Du
+hLkN
+X{Eg)
+CqPVH}&g
+F:q5
+_oM.
+BIU Q"x
+,vi|
+277 US
+oy7d
+E`g,
+=B,w_
+cs-X?
+2lt]
+EW6P
+&<&.
+l%[Q
+W}|]
+ag7FR
+`V:{s
+-t{F
+R~_V
+z0Ff
+De--LCNe
+cW:$Q8
+	U>u
+>ZQ*
+c`$z
+OdN}9
+g_NF
+kT)Z~
+:uSM
+a.RA1
+I@+|><
+~lN7
+L4o4
+wN$PR
+dUD^^
+Oj[,K5
+/EI&
+bw#O74
+;{g=
+&cVkr
+Fw:y
+AGaf
+T\X(
+D^aBm&
+*j3&w
+ iMn
+fiJm
+4Z`6
+p/|Bmu96
+(r#K
+} yf
+l5"e
+I.L#
+p5j@
+lxN+
+4).TW
+Uur1
+*P!`
+UUQ|
+q=yA/
+dT;:
+(dx_
+Toz;
+T`R_
+1(xaF
+I+,JS
+[9(/\
+rP|l=
+^#K7
+1~e+
+oZO@+<
+LuBq
+*9)|
+?X6}v%
+2<o0
+ b{T
+ln2MN
+?Xb<
+?(tI
+|ZS-
+F!Qa^|
+iNS\:
+5q#k
+#ZgB
+([jq
+10-^
+}9~Y
+p0((
+uvuw
+9rHiN
+*$qr^
+4E{%
+I2.e 
+a7/xBk
+;;P%
+zYjO'6o
+'.,h
+y&oZ
+8G+Pb
+!t~[
+ MuY
+YJC&&
+3u <
+gi1I
+XV>)
+/|s$j
+j4+c
+Tw0Rt
+Cy0Q
+:8AK
+A(.^i
+02`S
+ebk#j
+4su/
+/!(h
+>NU'W_
+cN{!
+cV4H
+=7"+
+fY-=
+#j?rT)`
+^NUe
+v=:v1
+KdP+
+b-6i
+X`\u@.
+]Hrf
+xz9Zs
+ 5-X
+,M)@
+n3=o
+}tcuoK
+6t{;
+J }_Rj&X
+a%3+U*
+3|=;
+@:JB
+Z1lT
+5oxGo
+p]qS
+,Ls]j
+t*.2$K
+i:ewx
+@AuWFp
+u?	&
+o,\s
+-[[?
+y-8L
+(}OE
+[ah0v&
++'x&
+dH54
+Lz){
+Aiw|
+Xz22
+.ilo
+"Tc$F
+0>q3f
+q}kpx
+,me'
+BxJV
+SMH}
+X"$%6
+$tj-V
+3RMK
+TAsAd
+mkAidA
+b(V?b
+x`aY
+q3O]:
+hF\H
+QW/j
+Y'K+
+$FA~
+dM(CVy
+fD^7N
+^dLS
+@}EA
+R(X"
+~ PC
+,g1L
+k+(>)
+/ 8.
+B#fi
+Y[@)
+zAU0~
+:r5+Z
+qZEm
+Gwc0
+v`'<
+'s@X
+Y!z*
+lQ0E
+2a'd
+ttC}
+Mn>;Z
+]KEQ
+Pu{6$
+ ~{Kg
+XedJ>
+x<)K
+'s6]e
+=YP^
+W8&!9K
+Y3I!NxmS!
+#P>To
+G5|)
+Y'cHuh_
+d:y<
+Y	.a
+wJ_dp
+aSf)
+_}c8
+_d5r
+D2@i
+zD,4
+BXbDI
+^_w\
+LgPG
+=xNH
+38{=P
+)BjlP
+v@N.qr
+r<sZ
+>{EYk-
+[@B 
+9RAu\
+k^$:
+\7w#
+K1v]g)
+H5yb.@O7
+K(O}
+7qMT
+&SDb
+@p2b
+JyFuZ
+1 w5
+jb\Ee
+wZ2!
+`Y	Zy
+R#Uw
+8Lxt
+BG6/v
+6_cn
+{1m=
+bGz p
+Z<t	-K
+Eab98\G
+5gLX
+\S\{=s
+A-3=
+QeVt
+;6qS
+*]* 
+6E0j:
+nP,([
+sabo/
+YpWzo
+1(h!
+=4dp,
+2VkA
+cx3)6
+o<`3
+vWK$
+iTCr
+QbkbLD=
+>l'G
+_xp*C
+>"	[
+V0o]X{
+oM<U5[Ov[
+$HJ9t
+:g*%j
+c	|E
+K"2-n*
+.-K%
+C:>C
+#pKE}
+ DWT
+cI22
+aoG%<
+`u6?
+?)+V
+75aN
+R`8C
+Q,cc	
+F<ad5
+@vhs
+=&cO|q%
+\,W(
+/#O	
+eM)c
+D^Rb
+;cck
+ zK#a
+5RXW
+lH8e-g
+JvX7
+\\FB
+-RlC
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
+tX>H
+@Co`
+c,<7g
+\*=6
+LJ5xf
+0Wtb
+(q9g
+y<uX
+^z,A
+/Wu;
+}W]_
+dIiQ
+3oa-|
+P<qU
+:tP'z
+wH?0u
+Rpw'
+^'Ac
+O	H,0
+)xH4
+,ogV
+^pss
+rf,M
+0	}5
+k!L"
+<[+<I
+X4TX
+-M4f
+Am*h
+47mi
+[x#z
+oNmB
+X9#P,
+U^m 
+$VC[
+XoPSte
+7('0?
+8m&:
+fkx>
+Q$zAx
+\Rfu
+!E&"
+uvzs8
+`@Z!
+,Iq'
+:r5+Cc
+,-U&WJK:
+DWeI
+b]:e!Rd
+5w,J
+Y?^e
+>tS&
+4fxMb
+/e(=
+ViSE
+cRHw 
+{_$i
+J}GRw
+&|)C
+]haa9~2
+,2_w
+v"fZ
+7N~UQ5
+"Y4S
+5aE'
+7iR.
+*#@4
+^e)S1
+v2k/w
+x0qx
+DV2jx
+E!Zh
+w9$=
+RLab
+d]hM
+t:R7
+^kOe
+JIG[
+)Ol7
+Sc2:
+WOP$
+[5 )
+QF*4
+#%4.
+j_/z
+knTY
+gI#1%
+e_133*
+VauC
+h~M=
+::@)
+HcLat
+*F+P
+sF#1
+=_p'
+6M<{R
+%Y"9H
+LvWZ
+8$Cm
+MY67jg
+q=w`
+YF4u
+/_)#
+1Ri}2
+jbEI
+!sD|
+#,/m"p
+bGJh
+IuH<
+sp|A
+k}N-R
+^3f-p/up
+rJOx
+BSngA
+L<Q(_
+YJny
+3lQdq
+#k8y*
+:}*b 
+,g8.
+<1R[Qk
+FHk,
+W~=b
+D+f:
+[bf{
+?<t[
+]:tW
+}~q*Qu
+Y^(u
+rGW9;
+t?zg
+rH7n
+Gr	(
+V`3z
+!EPlo
+S~"3s
+Hc&zS
+x9T8
+?cPk{R
+r-;~K
+/\H"k
+Hawz
+Of3O
+&wK3 
+/'EGNc
+<rOkT
+# {"
+ij2r&
+o{u6d
+#\XB
+P0vc
+#}"I
+fQHu]J
+?=w@1
+k84'
+Q@}%
+D8ot
+T9[x
+MC$	
+qy4?
+|1K-
+N!xi
+n|Zza
+IU'P
+q@^Z
+F}]W
+6wOs8a
+)w#3
+RllM
+!Xr!
+Bj_f
+dP}_
+~h3 
+t.E9X
+}E)cg
+pnf9
+ `}m+
+A'}#l
+O|Pt
+Wh>	
+W+W=
+BLy3$
+R[%223V
+nIqG
+Mau`
+!bV_p&
+G3Gv
+>:TqS
+'56^
+Hj' 
+S@`4
+bIT)
+{,&o
+	DrAC
+@bx%2
+\V6Y
+Ps]M
+IB);
+AE;U
+YbI{
+4_xz
+2Z;%
+;[-4
+j3eg
+1x6A
+Wf,lz
+ujSF
+LUp{/
+V/E7
+l)U\
+Ww&;M
+"kY/
+TBv1
+C5`f
+1K?]
+Xh1K
+st13
+f\U}
+<yg#
+NSJE
+~(Pf
+w,'{
+L<kc
+]ST6
+5AJE
+.nsf8S
+oNxq
+'9`_
+x#@u
+(R$#
+U*h|
+~?PA{p
+lv5\
+n7'\
+$}E1
+_lK!
+.~a<
+_7.Dvj
+Dy.c
+-\x3
+Sp-0
+]v{	
+RrL~A
+HoTtJ
+{x^&
+`^im
+Wjzw$
+$I+f
+j4]?
+Weq)
+'CV>h
+/z]8
+SV8]
+iCHC
+%yNX`H
+,I<	
+NlsZ
+Cm=b
+!M#Z
+U)c6:tM
+wwOnS
+V9)=
+iMRX
+fLK=h:
+7H[r|9R
+\$Nb,
+y`g84
+M.MF
+~?(=
+WPzT
+hFe=
+y_IN
+K$*p"
+]X@h
+uRx>eRx
+x9>V
+BjsG
+aYu_U
+0L0z
+vJ/t
+Qp^!
+*8?hg?`
+h3JjF
+C&d+K
+-\`y
+~%Zj
+8~0e^
+:GHVca
+)&Mc
+1?:9
+htr$0
+L?Yi
+)D73
+HO0EC@
+~jBA
+!6U0
+k>Bn
+B_0&l
+qNBz2
+G9F4
+#o\6S
+D@]Q
+X(Bp
+#r6O
+=JVl
+ym~V
+-]$F0
+K-~L
+n'W=
+mdYd
+NOd2I
+9hF{
+P	wfR
+tC4L<
+~/^R
+(#px2
+-M-;
+9`H8x-
+,	r$GMc
+\mP8
+`n^.1
+K4ae
+YO9#
+_4L7p0
+Yhu>8^@
+V?rS
+zd7kum
+|#^4
+tq_>iy/
+Mqt3
+t}%gA
+W*>KD.6U
+ +(N/
+av<_
+QnA6~
+VlEK
+"{Ly
+KgRz
+><gV]
+:n${
+m7,	oC
+`xI:
+U`	o
+^|ya
+m($3
+n<kG
+#H+z
+lz}qQ
+Qx@hZV
+]oAQ
+vrbh
+|&;h
+|<GAr
+*(-e
+d|Wb
+0jr/~
+K[{h
+2sZ(
+rGg~bdx*D
+yu>X
+6{>c0
+_}4k
+?/l?
+%9C%
+S\O0
+MRxO
+< J+W
+x$:G
+gqN.U
+Ehux<
+#L1!
+gko2|2xQ
+]TTo
+&".u
+Z7xW
+TYF^
+H%N2
+HV$v>
+D^.JT
+M[\W
+i*1.|
+8i(9@
+9lo@N
+Ovq;
+oW&I
+Cbo;
+	:L.
+(wyOK2r
+/7{F
+2M#=
+(qD&>	BNHN
+w#UhZ
+Z?:W&
+jjVv
+} Y=
+jkyU
+.Zb~}
+s]q{
+/KBw
+SRmIgec
+Ozr_f69vn
+i|1{/
+woym
+]c*I
+?;`Qf
+HRTI
+ 1tMk
+,g0_
+fy#W
+Mt]k
+wV *
+.xpJR
+`Q$4
+jz'm
+QaNr'X
+HT<%
+Z\NFZ?
+VM#p
+Y} '
+gL#U<
+sH;U
+>CVYv
+9'hY$0tG
+a`KX
+}U(IALa	
+k>O0
+9pJKEH
+Pe:C
+&lD,
+!B_d&
+I]ljO=AD
+aPJe
+R>s7]
+;C)Si;n
+N	M'
+dL6z
+LC,aia
+;~d/
+5`/:
+oxIOxR
+E	)^
+C}Y	
+),m"
+|Zr=
+%~P"c
+E]_I
+8%zq
+gFrv
++t1k
+%\P8
+lMnf
+`I, 
+GhJi
+WTK}
+d1|a
+l"H|e
+zYnC
+E6>:7H
+>AOol_`
+K!UA
+XjV;
+mxv*
+(}!i
+&!HOn@{
+=-v<
+Jb	y
+}I#T
+A|rq9b
+X{70
+	p*9
+*"'K?w
+\}:)
+>w5ot!
+QHKL
+$v{v
+~9|S
+{7>`
++v~\
+y>2EX, 
+e|dV2
+X5kC
+cTSi
+ ryd#
+msW%Ec
+uXb+
+h@?.
+%tth
+}h&/
+o}I)/
+S+]O`
+Uj?)
+]Fw&
+O5y9
+@hr2
+l qfH
+0o/t3g
+7zQd
+WG*z
+MQ<"t2
+c(X=
+-|<pA
+T sn
+|_FY
+tXN_
+I-9.
+NjQ}$
+IH}9
+PhIy
+1.)r
+"F}v
+\++_/
+@AN^
+!'kT
+7hRU
+{j5%
+}c!N
+/M91
+2x,Y'd
+)E0E
+D/W%
+qr:u
+/tKOb
+b,Ub
+oRhZ1K}
+K&]j
+ht@0`L
+w?;4
+}(+_S-
+uk@&)
+6i5<
+]\TK65$
+[8H1
+"|pn
+%he^9e
+L'e$
+9wm9
+xu/:
+WXu+
+ m-J
+qu@TO
+)gA#J
+s85P
+.keQ
+slMH
+dN_4
+!!k$V
+g$fe
+iuC!
+kruw
+P^<,
+2J7y
+ oT@"Z
+AYO,_P3
+-Oba
+V.^!
+~r}c
+FR:7
+pyEx
+_b')
+v/	}
+G,)c#
+:qn(
+]{E@!
+LO1QfK
+%xbg
+z97fa=]
+:;q%9
+Fa~zcXq
+%2VL5"
+_w1?x*ph
+MS9Y
+yr\ 
+JS~gJ
+^-hA
+Dh6+
++!V6
+MPnKO
+3TOS
+ ~eD,
+E`":;
+ON\6
+*rq}&0
+d@%6s
+Blz{n/
+,D,=
+'2P{4<0
+E1FWK
+8:cR
+AGTJ
+!j;[
+RL7?}
+BMD 
+fw8b
+rsl]G
+%^!~
+W3q+
+bZD:
+J|"K
+DOa'
+@@qo
+v:EJ
+]LK4
+q3S|H
+(7>9x^c
+YC#,
+EFPn)
+\Tw<aB
+< aB
+bi:2>Zz
+^>?8p
+q;P6+
+5&1}
+i<kW@
+	qB?
+IKNE
+p$1"
+h< 0
+\GdBBA
+-GU}S
+Juh^
+zSbb
+Q*uKE
+jVT-
+E3P|
+?F{y
+Vr&E
+:tPQ
+_2 p
+V7)V
+"f ;
+T\O	
+#bb)
+y+[Z<}
+U]t-
+ti)/I3}Q
+P`]`
+c!yT
+Y@qPdJ:
+1~bm
+6eK~
+CN@qo
+XJ:H
+l#c$
+%t:V
+4_vY
+WGH:
+lOs'`SL.
+bE$3Q
+TE}W 
+x](fu
+Lj2z
+1Sm>
+b"Mxj
+/D|J	8
+m @(
+(mP8
+Qo}a
+s;m_
+	1oX
+-}jO
+}'d9
+G;Am
+Xd7a6{
+:+A5\
+vGN 
+0-'>
+<c%a
+g8f[
+/0`G
+r&[<QO]=+
+gh#y
+RD[@
+.<h.;
+22myP
+`}",
+f(	E<
+X2u9
+H"80
+kTId^
+SM<W
+8HS+
+^rZ@c
+jp)^A)xe
+G3	m
+E4n\e%
+0' `^
+"82b&St;iS&x&
+>%~0 
+R=YfnW5{*
+nt%u
+8HRf
+V:{x
+D=>u
+	d:2&
+kDWnX
+|q]:
+H4Wu
+InvX
+>1|'
+*Z,./X
+iPbb`
+yqkm
+L6DUD
+5/Xd
+c,q=
+4K_T_z@:G&2
++ZY~
+*BFme\
+f7/ 
+CJ=<t
+y*G e
+zZR:
+Ydpu
+h!g}b
+{S:^\=
+s`t-
+3A:[n
+bO@t
+Q<)p
+"NhN
+v01*
+QpP]]
+k1E7
+)GfR9
+mm<O
+MPP"
+J7 h
+V=0y
+0v% 
+Ok"e
+/5)}
+oS2f
+zi|CN
+I[;V
+57dVo
+NN+d
+	)L<!@,BHfn
+=p4m
+XEZm)0[(
+$.r5
+t!}V
+1)/Z
+H<`y
+ACvnn
+!$0wv
+4MgRm8{
+fi4L
+"6jV&
+)j;-
+u!4J
+@-~V
+#FHy
+/ .*
+'\`v
+/8$r~
+"m=v
+?qe~m
+Q8{}
++g8K
+qB;N
+\y1y
+LmrB
+y^aVe
+i8*?cTW
+	/!9R
+Z \~g
+z	[C
+	fvT
+zz3L0|'
+tW )
+:aIH
+TEM-5
+O_tO
+R$Akv
+eUDU
+mz9k@
+50$>
+lXOG
+Whj6
+}Ug%
+J*d$o
++x+%
+v}c-8
+,#h@
+k8`8
+4:3W#6
+;+Q]
+4Qjx
+%F{2t!-
+p)2m
+/l`0
+(}7D
+	]NP'E
+F9el
+62lP
+c3xeK
+xlkMd;
+hK Z9G
+E# 2kx
+cLHZ1MSy
+^!f.
+B5qq
+-/!#
+/bV^
+sZK[
+vk-"
+j=vH44
+2jw[
+Y2@v
+Q#R/
+[]GojE
+\^ai
+VZ'0
+at=~b
+F7zh\T
+G9qZ
+' r<
+/hxO
+<\;N(1
+U!!t
+r4ty
+mhaS
+;faT
+7Q~C
+g;uh
+KUw&v
+j}dHa
+N3ZK
+!]$s
+A8?S
+ZjkU{d>J
+iW_M
+zSAe
+L*P=d
+J{90
+l]gx#
+hf\d
+a.)<
+({7<R
+	\H$[
+dp^lMn^G
+E~;D
+\%@G
+];f1
+m-1K
+HPJ^
+n/yB6
+'[,j
+)C)_
+moe$E*;9
+i$q7
+$6@c
+,9^\
+[=~\"1
+% ]m
+kY1#
+IWX%j
+"d	lGX
+4e/	
+P\=V
+4.5l5R
+p7OUC
+r#3j
+0	9)
+_	pSd
+2 h[U
+jJmuC
+Cm[>
+>V-P
+euup
+(	(ke
+4t<z/hOv
+MXg%C
+b9Zh
+eb;[
+}J6F
+(@HJ
+G9=*
+^,V$M&
+>K4)l
+&8I#Q(_
+ hG3
+\;Ui?@
+u;S:
+Uk(I
+e}98
+31o;
+XT{r
+)&xC
+tsS#
+IGpg
+sD8G0
+_[]y
+q5ok
+(5[q[
+aI(1
+VHJQ
+m{#Ll
+*)(z
+z/azJ
+&/@*
+{R] y
+_MqA
+TM>K
+gBA!
+]]MF
+%'j)
+9<%2
+in0Pc'5,;
+*MnN=
+q.@>
+Y2~7
+P37J
+B?vJ,
+;"3S
+j&OR
+&iq8I
+CwJ}
+Dcm 
+KQS 
+Jqf9
+dcJ1
+at|/
+qjKh>B
+ZIRF8u
+`3i1
+l"7'
+Tpe'
+5	V8
+T;~tX
+v( ]r
+;!"x
+08J(
+Tv*J
+Jb{G
+5!		
+^3Hsr7b
+YpIU
+mbgz|b7t
+M\Q1J
+$dcR
+K^n]0
+mQ79 p
+I"O&n<
+@'{o$l(
+v]G=
+]ZzP
+Z}!k
+O}DU
+=sh`
+Q_~og
+n8ru
+vsf,
+T%%U
+Eb<{]~Nc
+pd*>
+YQbK
+"}7H3
+VO88
+.G~:?^2
+\~a#
+<r?W
+>ra7
+c5J0
+ksFUe%
+N}N3
+857_2
+Vo05
+`AfH
+;&br
+0{a@
+738PU<z!0|&<
+o@'I
+s@tt=
+9Vn0
+C&jW
+tEN8_/
+\>-5
+q5%=
+`"U?y
+~d%5w|
+#T4Ev
+WQ+<
+GTk\
+3)<e
+/4eF
+x^`9
+ 7F~
+2)xx
+Mt>3bE)K
+fstp
+'		OQl-
+$vjr
+\Xe\_I
+t,R>~V
+g^S|V~
+jp3E
+B?AH	y
+s5$V
+tLd>5
+%iJ3
+ @bQ
+OD%r%
+Bw;|
+A7/"SB
+[#Th
+JE&&
+YT#Nk
+I.<g
+V"u(j
+pEg@
+J5DHw
+9o77E
+6C@e
+@[Qn
+^d,7
++gC2
+?],l:
+?IX7^
+9h8pz^
+EVH|
+nTH:I
+RCEW
+^'u~
+v//v
+ntZ!Z?
+*8Uu
+noM~
+OT]8
+*ktR1+
+	2M2
+&)pb@z
+W**eP
+0z70A
+f6iCP
+}8@V
+K1+&
+?$0Ug\D
+ac_Sf
+p)FE
+}Y+7
+m%:|
+ooRT
+o.+p
+WB`K
+h,<g
+8ZZ*>A@
+E'DZq
+c7Np
+M(YDr
+Z!_Z
+Q-ay
+!,%n
+`F`1
+hRiJ
+(1[k
+!\/C
+2#`{
+$;#w
+Ff1j$
+9!|X
+E1d,
+-"dv
+N7>,6
+#,0p_`
+)	=d
+;nx!
+F^*u/x
+d <8.\7<
+oi4B
+hE*]
+G? ~
+Z&|	
+W6XF
+vlSWul
+A#sw
+"8'U
+cJ"f
+<NXh
+PoL 
+SMdJ
+dKvg
+S8W_
+^c~	
+:=kH
+uJdB
+j 9k#c
+).9*
+-2Df
+!q\S
+1bE]
+F[ae=
+Rwh1,t*
+i6TuL+VR0
+gqv$
+3Q7$
+	grC
+s=O6U
+d>XE
+Bz2=h
+z`ES
+'5t2
+w`TN
+mNhE
+Y,p `	f
+p}X~_x:uU
+2)CVd
+(D|B
+Wq]).
+wlh0
+fUtF
+~ULn'
+WtCV|Np\
+O1vEP
+l~KU
+ZV(\!c
+*IB@
+>88A
++!fO~-
+.Kk@
+&j2Gr
+Eomhz+
+DdF:
+$_.@
+&Y7u
+D/m_
+yyfm
+~A("!
+7<-&
+L%q;
+gPS6
+^C6i>
+_gKm
+%c@=Dc)
+n4} 
+17u1
+]E,c0
+>rCQ
+aFk:
+Ha/PL
+qm4J
+*;P\%
+xYeh
+dr^,
+a5cb
+zTKA}>
+b3@nz7
+|| t
+rVtPD
+obV:es,
+|qCp
+{T>P'j
+15-.
+cqv%
+1S,$
+<=3*
+a.9P
+H&V$
+X		l
+[q3*
+'6:n
+(d]@
+!j.X
+1X3=
+o6^l
+}j_HD
+7}`#
+Ex?O
+vLI<
+X/Q6
+w9S0
+)ZXj
+E-i3
+4n::
+P>|k
+xTA7
+zjx*)^>
+u0Opj7
+x;DNr
+=Zdt
+YeKL
+B{)\u
+<d	"
+il(X8
+DCmX#
+o~\>
+txw8
+ZlHN
+7Pz4
+F<e~
+$] I
+,gk)
+(~x	;r
+mh1L
+T6KB
+l&9S
+Zn^K+
+bFcsb
+X(.MVc
+9qS.
+R|z	dM ~
+1"CO
+DS[C
+Oo8n?
+(M}='|
+tjsn3~
+PS}}
+2OGX
+49Y}
+.(+,	
+'Mw8!
+x7Z#<2
+Lu$!
+h]#[
+ul-O$
+Nruscx
+l=g 
++xD%
+n**z
+~^ad
+~'$4
+g@+X
+2%6 9
+T<h!
+mZ4h5
+Fa{I
+o*(i
+,vE5vQ
+7, f
+4ylCi
+c)+F(7
+eF}C$
+ZqFsD
+4+(Z
+U$cWW
+*,vS
+(H`J
+z~bA
+Tl$`
+Ra.+#9
+-pu7
+Voy>
+fcO-
+wzQJ
+>4-q=
+7GI	
+JT84J
+,M['5
+0)9#
+Q16r
+fuV*;
+J	@Y
+d,kII
+!1X 
+gl98
+p-fY
+>^3D
+m?K|&{0
+(2D@
+qse&r
+}`	p
+f:)w#
+VB1iM3M
+^	Rn
+8-'	
+UH!&
+;'Q9u
+Pl[;#*
+R<K(
+%xkH
+&1?[
+<rY"2[
++f(F
+T^{c
+W8KM
+@P-q
+`aB[
+Fx*+
+WGCq
+Lc%`
+$`xvh
+#|9sg
+/%~<
+Dyv{;
+=|Wo
+~GOpu
+bmQP
+P|yj!
+<F%t
+[T=N
+g<V|x
+8v1*
+#7AS
+~88&
+')<+	8
+d}7.b
+)j\U
+3H$Rg
+W\ 7
+p0!i
+|PLMi
+pY*m
+lKWb)?|M
+,z-,)
+h]-:`
+dX!,
+k:Zl#
+%P+o
+eaEs
+=bqC
+ \S#e
+-t>|EK
+mq='
+K97~
+3E_-J
+ZdtA
+Gm,7
++Ae+%
+"3;M
+L{rZ
+V= ;
+{	B5
+=:%r
+W)e4
+:PQV
+V(/e
+Y7}5>
+ms| 	d
+YTLj4
+FVPM)
+W&Crx}
+OOV{
+sw-m
+SwUL
+w|7H
+P]]EGqt
+$`4x{=j
+]zv!C
+ CcMV
+9[(<
+S)Ea?
+!T&>
+oalS
+.-d$q'
+^1K>
+'Dj!N
+,?Y;}
+eixM
+TfLW
+Fz+V
+,;t^5
+@GWq
+*U^;5
+g2:	
+]Mf~^
+K2+f
+[Rmj1w
+i"Jt
+F|[40
+#<6cr
+q`!uxN
+J[|x
+	zKV
+gq:m
+qLI	m
+cD$t
+hDrH
+L #^R
+\( N
+<<_=@K
+[;xf
+q55dih
+,+3T<
+!dP5
+!`B@
+#Ok[%>
+/f-n
+iSq#
+U!*\
+4S5,Kt/
+0kE+
+y.'A
+#Fgg
+r=b'
+nwYk
+r'Vrtk	
+C@4L
+j7Z*
+arRd~
+Bx._
+8	])
+7kpx
+ +uF
+kbmW
+k#`NK$
+17h[iV
+qN^/
+g@AP
+a4B.
+moL:4\
+R?"4[
+f	Hn
+<[%QpF
+4GFr+
+7Z\2
+$nlqa4
+QdJ0
+Yuff
+>Qj#y
+ng/]X
+ON Q
+RUQ&2
+_o/=
+K'v*qT
+C;Ta
+.\BA
+Gf'e
+ TlIK
+ZG_g}
+CP~C
+5_h"
+O'I9
+[SbOE
+MAB+
+6ygL
+#Sl\
+ELYPG
+%$	_B
+l\\0
+bTv\_<
+[CHu
+'@ON
+QnAH
+.hs*
+kUMh
+|}tk
+"Jqx
+R-@AQ
+2$H&
+pC|Z
+=/D 
+0buuT
++(v#
++42(l)G
+1A6s
+*H>ogo
+?0#\
+{M\$
+'l[C
+G#|O
+>\,NB
+}	E%
+4S'KBck$]
+0F~z@
+!I?s
+\r+mv
+bahx
+LoJ@
+ItEUG*
+`-z$
+<O%M
+7*3^ e
+9!F_0
+GM 3
+)K)\
+Z]N%$
+WY7-
+^dtc
+GO0:
+p<Uf\
+ p@W'q
+M'Qm
+'}7`
+j^p!;Z
+zAX7*
+(NrE
+bd|@
+ +fkm
+BHvu
+_9K-
+yHnv
+kJwc
+M9W/
+x:fqQ<
+6C~_
+b{Ih
+[2ta05
+%V2[
+-5Sn
+$:}g
+E3p1
+omRwJSG
+jpq}pe
+^sLJ
+)ZY*
+#j>8(`
+79rbf
+.Tyk
+<1hr;+>>|^
+h#{/t)a
+s;,Di
+<njO)
+&}$4O
+RaD2>
+Bgm*P>	
+s;$E
+91^W
+xViF	8
+,p?l
+UKw<
+2MKN
+w-kC
+PxIBXM
+f9Lj
+	{E[aH=;7q
+YCOm;
+<z+M
+9T{M-
+<v:g
+{fYQ7
+b_D*
+LV@f
+Rq17
+yYpU
+suU;_*
+IGAU
+[s<t
+pnCS
+s-L4
+O .O
+,ckK*Q
+?s>K
+4tT]
+QY57
+H5/;D
+>.ApP
+8W-w
+m<0<
+{".P
+e	Tz
+Evaa
+IIj6(
+Bf/v/
+Uc`F
+q^&f
+go-Q
+mmuz
+N8{;R
+&FP]
+\O"cF
+~Hq$
+qJA	:
+C0@]N
+ kxW&
+6uLlf
+EIY'
+Qp6&l
+{ N]0
+ial5W
++pW&
+lSSs
+}[(t
+ldQy
+!T475
+j]W:
+Vaft
+yVl+
+zNl.
+	_M.
+enkws
+o'U(
+~_X&9
+>VWA
+<c&e
+z=Ro'
+@"o'
+j}<hb
+V:|$
+B-cZ\#E
+k"2H
+xc<.
+Ogf-,{
+Y]oBg
+(eJJ
+, )N,
+sTr"
+N3P6
+9PK)
+Y Xe="
+=Leg
+w"P+f:
+pqB`VC
+\n7E
+7:jX
+vLJUm)"=
+<Z\ES
+<2Sq
+D^[)
+^uI5Z5
+X12}
+aMsa<
+a$fL
+?O>-
+h!Ol
+1~UB?
+|S7F
+`"!ue
+qtB+
+e7zK
+ui8'c
+^H7xR*
+#:;%
+x~U/
+$z.~o
+Utj"d[
+GA#O
+`+%wj0Q
+>V"[
+BIm*C(
+62[9v
+dL3s(
+|;o	
+>8mSd~l	
+X+bj
+0@#f
+aVWh$I
+[qjO
+n`Zm
+1H?ao>
+:?,>
+~.2us
+P~OJ	U
+eV-2
+S5w$
+U'a4
+%o)`
+oJZs;
+gYrV
+shqA
+-9PEU
+Wuzx
+x]G,
+VU@uE7
+xh$vn
++Xnq
+1oT#$
+9($'
+&hFR,
+F>*M
+_N,E
+H!"J
+ep!y
+L~mH
+L>kfE{
+}Tw^
+lGU{
+/?;b_e
+Kkf7
+Qwik
+2	T(
+B{hv
+ne"q*"
+%V!H
+Jz\b1
+&VUX
+#,=L
+1cz*]Y-
+43&b
+ZT*;
+[oVf
+T(U`
+WX\|
+yR^GfW
+qW(?
+PL=?b
+3KM-
+""m<"
+xrH.W
+	Qr,
+g:Nd
+VVZTv
+dA.N
+Za'X
+1skY
+r2\|o
+C9\UE
+CQh^g
+-8K&
+	L-`
+L5:^
+=<n^
+Cxgu0
+w-37
+'u\x
+K2n+X=Q
+e-"T
+f1	kyX
+W3V5ktO
+`89L
+?zR^
+:<Pz>
+B+;,
+E{~l
+=2'"%
+6F]~
+hW2wh
+)99^v@'
+zP+ i`r
+2JtQ
+lGcl
+xF	2
+.5-h
+e.T!
+fVf'
+~Y-ltIS
+3$/U
+=[Oi
+6,pPc
+y',p
+|IT*
+	8RB{X
+\p%)
+U] ;
+\s/n
+Fn:A
+f3 {
+J">%
+R<j&
+"t\-
+XlMu
+<^&"
+WjtP
+"x]Bs
+I(Y6
+^|]fpjSL
+5RXW
+lH8e-g
+JvX7
+\\FB
+-RlC
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
++)6_k
+B+=83
+W%Vw
+2~m0
+.)_r
+bx}fs<
+MEM'
+#g0%g
+tDRE
+kbo)uA1
+AqE#
+"01w
+v ZF
+VZuAR
+^)a_'
+7bb]
+lTL0
+fN4pme
+h2cDm_P[v
+#=K03a
+<I&C
+ \C9
+{EF7
+8U:C
+H{	Z
+Q)NTy
+pj	G
+bH5uRU
+Xg.$
+8JzNv
+{J%Ld
+3zm]
+"@e	
+8+;z
+T1b<`
+@}u^ Q
+'E[y/
+P;1m
+`#n8
+HsGn[
+<'0Q
+(i=kq
+Ybl?
+fp:,m
+l~!a
+ZE)+
+PEl 
+K?zz
+W*I<
+`c8O99
+s	Y#
+SCi_%
+L]1p?O4
+BDpm
+&}gd
+	;0|
++Rn8
+_B1B
+Tz{*(
+NN#e
+d4GW
+ZFRc
+;t{ 
+91ND.
+2cS]
+<%eNQ
+p 5/
+PTX-
+Lvk)
+<{M/
+gNIJT
+Tm;0z
+X}y~q
++1gJ
+4>H\
+_vyL
+wB^;
+5Zp&<
+vvEEg
+u{ zz(
+f:}\
+,lHF
+oP3CJ
+Km-M:
+}vi(
+)`>}
+l#]s
+W_k:
+t)gy!g
+V6SR
+HNS+
+Qx	X
+bl!VV
+z`pK`
+w*Dm
+*$we
+jJN_
+_^=]
+nJz!
+ycmq
+[h>y^
+mVuN
+\MA6
+gJ*nK
+N8N3
+HS31
+2j>v
+:$1"%
+sd`~
+d6-J
+[A}-
+H``^%(
+fbb$
+SNxk
+TM^,
+|ZO	>`	
+2m%.
+w4}'
+Z'9s=} I9
+A"u8
+_fT+
+SCa@
+i|jH
+18Qhn
+oO`C'
+{~IY
+X5NG
+Eqen=
++0)`
+n-i^r
+Jq4O
+%)bA
+ruCL
+3`l]
+OHr%
+.XXI
+'b>*
+~f*.
+b-Xg
+|\kV
+u,qw
+EbSt
+ssH,
+03e=
+"`Z9
+$7{9
+MC(ird
+[?za
+ZEEz
+3<zep
+V /e
+#G'O
+:sp}
+grCq{
+-];~
+fEdT#
+wQn?
+'QR?
+R,*.
+0Q~br$
+}?gJ
+m@.:0
+xoB"}
+Td	v :L
+C_2%'9
+ RVC	
+$`(j
+/7*o
+?6>\
+@Ixm
+u\P!
+!t ^+
+sacD~W7
+IiPJ
+V*MH
+wFYN
+'@YxL
+<\ePu{
+R=I1
+; ;m
+F5,)
+\/+D
+hd4V
+C)gZ
+wA4S
+A%Ot=
+!3yzp
+C20E<
+`xTy
+.u	S
+ZntD
+#S{_
+iBI6
+y'L!
+SjV%(Y
+"_<W
+qM8tq
+9&lUg
+E'CT
++Ftz
+]`Dp
+;hqo
+1R<n
+]IS5E8
+`]U>
+zA#7z
+3hF@,
+."pP"
+.	f8
++/mY
+	U=4
+r0E1
+p,Lb
+E{K`
+w:>Z
+Zh\Rz
+K oA
+'8|L
+2=,1w
+MOHs
+@5a	
+|3Yk
+dC?l
+ED1J
+#rUG
+6,Ya
+Kf5q
+!@QN
+.tL*
+$r&Q
+?K{S
+eEb~	V
+jiQ%~<!
+D.0l
+|W9E
++0fuN
+r;5A	o
+ B[&
+)Rk.
+Dzv!
+;"MC
+d9A>
+xv{"3
+>WZF
+\ddz9
+7_?U
+=9,&
+QB:G%C
+nZ<u
+Hy\v^
+'82S
+?f53H
+zF?/6i
+ym*f
+44<%
+T$wlQ
+%T$Qx
+TW;w
++ARv
+?<51
+i{	o
+>Q[8
+#a`@E)
+ !Ba
+ansd
+I%t'
+dK7a
+e!G"
+	3Fk
+?3ncbe
+WxL&
+[>:G
+97_o
+(;bvY+
+LFs|)
+{M>,
+BOnT
+:*}9
+>ffl9
+wvu^
+Zw~u
+qsV8
+=OZD
+Pmnc
+	u~O
+U/*'
+d{Kp
+j@t1
+)k\n
+eJ_9
+InT,,
+>&Dh
++ ^[9f
+)}`wYKr
+QMy%
+45, 
+EZEn
+>;U.K
+!Wl9
+uEGXW
+r+F#
+f ^!
+*FnB
+fl'Y
+1:/u%#
+Rl8'
+S*5C
+UOum
+\\FB
+-RlC
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
+G.=o
+E5"'
+7QLDV
+R<6*A
+o^%L
+mSRk
+@@Gb
+G"sf
+6Z%]
+1ur%''.
+#MeQ
+^Q*"
+e.T!
+fVf'
+~Y-ltIS
+3$/U
+=[Oi
+6,pPc
+y',p
+|IT*
+	8RB{X
+\p%)
+U] ;
+\s/n
+Fn:A
+f3 {
+J">%
+R<j&
+"t\-
+XlMu
+<^&"
+WjtP
+"x]Bs
+I(Y6
+^|]fpjSL
+5RXW
+lH8e-g
+JvX7
+\\FB
+-RlC
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
+mR+>
+41q.}<-%
+u+Gb
+`V%P
+qedH,J&
+bY8xXDf!
+J?6-"|T
+WDpt
+XD?Q
+toN#K
+!Zx0
+X[*Y
+C5u^
+c#Ea
+>zB0
+US]&
++UArk?s
++o||
+?;}^
+k.g5
+5Z$d^
+&2nh
+odxW+
+4c.A
+'	E^c
+f1w1u
+~*Pt
+tPu0
+Wx2Z
+2ggw
+RMqkA
+^qSM
+=>Pg
+UUJI
+~@ Md-
+_}[T
+{PiF^w
+R]3Lq
+MJd"z
+Uwd*
+a0?O;
+swGe
+T|45
+F$&?
+'$*o
+0+J|)
+7kuD
+({nX
+F@`Z
+^$C_
+w>}r
+tf1l%
+DoQ+
+b#l%
+h7;C
+@"i*
+4V!tQ
+V*GX
+-RlC
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
+VS{`
+[C9wCS7X
+u>cdh
+nfZM`Jm
+2E1O
+W\Bt
+p!+vT
+Ri^s
+:CM|
+]."SdA
+#2IZ
+p!gJkH	$
+]*ys6c
+p, h
+G;<B
+l/JP^
+ QD-3
+/^Br
+QZq	
+gh8V
+XJ|E
+r%qQ
+KN>]]
+WQ m
+n]OE
+kqi1
+P_TQ
+f0M2
+Mzv8
+D)_W:[p
+NYK*
+$0`[
+NT[p
+PGpO>
+,rq%zW"
+qw)'Q`$1X
+`*z6c
+4z29
+i:XP
+M~}T
+dvCb
++d3=
++1gh
+qZ@2
+Zlx_8h
+`~Th
+,S-w	
+i#6X
+8K(,
+}APb
+%Wt@
+AgS[
+Ioo?`
+fpR'9z
+Mv%	
+Z',"#c
+%OO}
+w|)~r
+=Ca5@;#
+;	e	
+qHqt
+ =b}
+52V#
+SV*{
+(B2&
+VK&-
+4x|v
+3L3!
+"G.*
+b<!r
+(^fM
+o>%:
+aqs"
+DNU`4MmS
+80%b
+K_R	
+4#z=
+UNOk4b
+oMx	
+/We{
+Hyi=x
+]Bs4}
+q5q.&Pc2,
+dbP^
+BqWx
+'f|(
+;@H=#
+heQ=K
+!t5`
+kAo0c
+bN^)
+"fuu$
+u>[q
+/IOS
+76YG
+UKbT
+b<dxO,
+'c?0
+jZxf
+<7um
+N.{2
+#gQc=
+3i=?
+yo)`;
+\1t*7
+^r4!Y
+\>pI$
+6&}Z
+p^2C
+Wcd)
+`aci
+Qn/\$
+C* 9~
+~G;r\
+8F*u
+!:E}=i
+]3do0v
+:t?F@
+rA&\
+}aNm3SO
+vz'f
+U%L)
+WjtP
+"x]Bs
+I(Y6
+^|]fpjSL
+5RXW
+lH8e-g
+JvX7
+\\FB
+-RlC
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
+1z53C
+sLoh
+2{A0
+tAi,?>
+v9 1Cd=
+aY }
+:G/.
+LG!.
+cyEU
+ruY1tM
+=u>P
+B2(v
+NoXN
+l8s`.
+,i8e
+9q2=>
+Z6=e
+9k[_E
+||#v
+	bJx4
+JDfa
+<*b"
+\;QA
+;zJe
+**p8
+vV_r
+w]`{
+-Y%}
+;\O\
+lITS
+T1!b\?
+sQko
++b!~
+jl`+G
+z2"d
+a6zo
+]yA4
+Wj]X
+}rvTL
+4OLz
+;0xZ
+V7I/k
+W;yI
+Q8{iLF
+mg>w
+@Z.Y
+^Pj/
+1>{o
+0*Y~lJ<
+>#Nk
+s;OHcAC
+;L-r<
+vdg 
+Aj`m
+[~?x
+jHXe
+)[R6
+LW2\4
+.]JR
+8jZ\6
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
+k6ng
+6qOgh
+b+Ev"
+3,j.SGl
+}U]Y5
+P]v8tb
+.neo
+::'C
+T,8j
+k)wZ@-
+rE:'
+HFJd
+Xna_
+Ao>%
+88 *
+T_H0
+A%u`
+R:KN-
+KuK]
+@E?q
+C#X(SJ
+b.rEl
+q>/D
++ik_u
+/$@d
+-O)"
+TU*6
+XDLw
+74:q
+Z[mR{
+VP27
+s\=-C(
+T6 Y
+y)1n
+aj	,!
+8[Bg
+2\X9!
+E]d@
+ahqE(
+YAA$y-vl
+:#]-A'
+gmqN@
+i a;
+~w=*
+JlL $
+cXp=
+B[)3
+3ZWX
+"x]Bs
+I(Y6
+^|]fpjSL
+5RXW
+lH8e-g
+JvX7
+\\FB
+-RlC
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
++!Q?
+3&G4SG-
+]TLe
+"'Yn
+_g#YU
+$Ix)Tl
+gt~VW
+{:2`
+qk-}
+'M[p
+2b~<J
+;2au
+9`2R	 
+#6Fqh
+ZQ/c
+BI*[
+g$72
+Pxvf
+XbauO
+8aJc
+#Q^$
+X4&$
+M7*3k
+'ly	
+`YM|
+vU@&
+b[\J
+vA~f
+&`P5,K
+wAN'
+$N/ney8
+<!gdp
+ Jz"cB
+:t!:
+	Fw 
+Te@*k
+wkwK
+<VcqI
+^\d;
+Ae;p
+ohYO7
+`X^(
+w!+RG
+m,n(
+SHMB
+Lc%w>
+AR5{v
+(0nF"(
+<F1m
+'~[Z
+djx!
+SneI1
+CE9rK
+5Yck
+n*|3x
+; =v
+vYE0 
+b*(a*
+B8))
+o^|]fpjSL
+5RXW
+lH8e-g
+JvX7
+\\FB
+-RlC
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
+Fn:A
+f3 {
+J">%
+R<j&
+"t\-
+XlMu
+<^&"
+WjtP
+"x]Bs
+I(Y6
+^|]fpjSL
+5RXW
+lH8e-g
+JvX7
+\\FB
+-RlC
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
+G.=o
+E5"'
+7QLDV
+R<6*A
+o^%L
+mSRk
+@@Gb
+G"sf
+6Z%]
+1ur%''.
+#MeQ
+^Q*"
+e.T!
+fVf'
+~Y-ltIS
+3$/U
+=[Oi
+6,pPc
+y',p
+|IT*
+	8RB{X
+\p%)
+U] ;
+\s/n
+Fn:A
+f3 {
+J">%
+R<j&
+"t\-
+XlMu
+<^&"
+WjtP
+"x]Bs
+I(Y6
+^|]fpjSL
+5RXW
+lH8e-g
+JvX7
+\\FB
+-RlC
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
+UFSC
+UFSH
+\14k%
+f,])@
+\P$Jg
+v3p(e"
+=Mt'
+5]W-F
+u%6\
+AE7@$
+k!el@o
+xp`P)
+wxj5{P
+N/	"
+TD8g
+K2rz
+;OTWWB^
+lr:>
+$fml
+@8pr
+6S6~g
+EC~.m
+w+<,
+!A*,"|M'
+|DBR
+vVbm
+w_-(
+9(Yd
+zu0b
+m[7f
+?!vdYO
+%p=xH4
+V|;8<u,l8
+sS#6
+5^64
+(]Y?
+DO&F-(e
+ET-i
+!^oB|
+cqo7$
+'h&-
+6|pS
+TkLY
+j:f00
+>/I 
+bI@PK(
+jueBL
+MJX	@([
+?3Ts
+k8lB
+nIK	
+/|xN
+;SkB=R
+$'L}
+3C4vm
+QOUi
+?Km7
+UA5V
+'DyF
+o%|J
+F<B!
+dnHl+W.n
+pu@H9
+"4=p
+JCm%
+uPn=Ap
+|ASX
+MC'M
+ZNG}:
+	uQ r
+&,k_
+Z+#f
+cj8^
+G<sY
+yvm}x
+;k&V	
+E5fc
+0f3*
+f80/
+eaBm/O
+Ph@>
+0'8"
+c1s)V7
+q!B2_
+ppic
+q\.E
+G,V,K7
+xj;<
+gYL\'
+AsC6-t
+}.LR
+q'M	
+7_a&E#
+oxGMl0
+?k:/
+APm'y
+%\RQn	
+8$ )
+jRg(Hu
+6&sr
+U)X3
+5>5W
+ZtMT
+m.)pZ@
+9N`F
+t0(]
+2Geq
+n/-CA
+>=^8F)
+".k6
+FbM#
+s]',\
+\V2'l
+j1D 	
+M?~0
+%D,=
+QU".(
+"$[	
+[:''
+g{YPW3@
+D}j]
+3m*#e
+@PzW
+WICW
+c[;4
+TSQd
+C@}")
+ewM{&
+y.5,
+dbUz
+n ,~
+u~{} j
++,|IJ
+iS{0#Q<
+wekVB7Zm)
+Gv0a
+}17P
+Z3o'
+AjHj^U9
+6GyDC+
+~TJp
+MU6/!{
+/R)"
+n90A
+}p6[
+W!XFo
+oE5Z#
+,j l
+^I*2
+A/,;rS%4
+k !2
+kyJXT
+`\|nG
+m$vb
+Kh-"C
+$.by<
+Bg4"W
+BKdU
+<z$.
+DwB--
+ya\G
+b>g*
+B oEG
+uBxFGeb
+{W(g%q
+J4:nHv
+B1M*
+jEH0
+kb@4
+`N4	
+`~}f#k
+!o`L<l,
+y!;+
+ToBs
+S	BjJuzO
+O~iw0
+3+Yi
+@xQTc
+W^{3
+w* o
+.7~4/
+n~~s
+2B9Q
+1?\F
+s|EI
+|=p3
+g`Fz2
+AI%wT"Ag
++kz:
+e+BY
+FX@C
+vv?9
+!#Ne
+dw)f
+Bty=$
+kNQR
+|%|,
+1Plc
+&~,m
+H_y(B^
+lW:~
+6ck}
+{)($
+bOD``LR
+AD$/
+O0Jy
+1F?jM
+"1i(y
+>7 B
+Bf*@
+mo7SE'
+*\A;-[
+	Mt}
+/0i	Q
+51vi)D0
+y?jK#
+	v|mN
+XK89
+dhA;
+H+ap
+$GFa~
+X.J(w
+S?"m
+cCrR
+ZQ/?
+A/1h
+_*z,
+UC54,
+I0C9=:}
+2dk?
+Wl@k
+vJf8
+Y_kQ
+Jz\b1
+P6P/;_t
+~1e$
+='v	
+DP5i
+)IbS
+K?-F
+	Pqu
+=%}{<
+W&EW
+I77fY
+(T!Y
+o't8
+}rF9:
+V2	Mq!1
+	r_Z
+9lk"g
+53|A
+f.;|o
+w=P3
+e$'5
+D-qR)}
+D{[2T
+J2\j
+6<=Q%
+NI0Y
+\?$n
+mG]J
+Hp@K\
+2L)7
+/qKN
+-5.Io|
+`As&
+rsj3>
+mQO\)
+#YU7bH
+_\GY
+_=7!
+ixn*
+i$M(\
+IU|Z
+]E8]
+!Qpp
+inIwx
+b\-*
+cX&I
+ZwWe
+CNhAlt;
+YtIJ
+A =3
+vcCl!
+=h`?
+hM:d]!R
+vkP_w
+Qg!s
+-7<.
+[s|L
+s{B	v\
++nlC
+5^<E
+ksgt
+Dfe&
+=_{:`-
+~J|O\
+Lw>&K 
+2>Eg
+kP;C
+O+w>4
+J~V'g
+(gy42t
+x$;K
+.XWL
+%nmn
+I(X4
+]V)y@
+ ;&vl
+:E)	^
+VnEc
+Wh&|G
+Rw4O
+-#/P
+-,7(G
+2Ji#
+Nl;a
+[w+ 
+_#'Qpo
+2Xhr
+o&Uf
+~u\8AT
+W{W7
+bWp]
+ssH+
+A^43
+5#`wd
+cNReLJ
+1'>:
+{pO[
+jhicc
+PmoM
+b+Y!
+ ~jb
+0[:v/h
+$b0,
+;bAc
+O/;e%
+?'Uf
+@J^WB
+"R1>
+;a'@Hf
+v D}Me
+/]2t
+&dIl
+)epWI
+6w8>
+r:I%~
+(SE(
+T+Ac
+\?Rf
+\c}[=R
+M<{?
+>UV'
+	,k4
+Cm# g
+h R\
+SJ)b
+hj+5.8y6<
+EV%(
+`&"X
+epB,a
+_,M	F
+H3Hb
+C.$N
+yr:M!
+eL;"je
+K04@
+al>O
+7<GLd
+6q{or
+ H& 
+a8Lh
+x4U~
+Oa$\
+qOYb
+'VD7
+i we"
+:]eM
+<k|U
+QB199yt
+oKxTW
+o78#
+aU2b\
+0SV}[
+}.*A
+)5 +u
+(}x>8
+n+KL
+v$aZ
+8}%]
+A;?8
+ZyY4Vu
+~cH?uK
+_?xn
+yoCF
+f,5V
+k!Zcw
+c#>%
+CHhC!
+VuhB
+y6TN
+%a!k
+hCi)
+Y;|J
+pNBR
+,!j9b
+_Vfi
+Thv"
+>q&	
+&5lK
+K:&65-XZ)
+z+=p	
+ghPV
+mj[F!*W
+V:J<
+gtv1
+DW(7zP
+C+mv
+~V=ywh
+Um,C
+!6wto
+Kas.q
+}cJVh*w
+ihPz
+~eq&
+{K+G
+?9r`>
+yscsb
+H=ga
+>S+$*
+1^n+
+#XY:
+ZxR/
+9sm	'
+ &jY
+,9ZV
+Drf>s
+g)UDP
+?E+(
+y5aL/a
+#_wn
+fs$H/
+h[$NF
+A#+Oe
+.z\wML
+q7h.
+F~?p
+.hbsn_
+[bBs
+_9dr
+9_c\
+ub5I1
+5a7s
+jGGR
+R^>[
+]mE	
+8f'M
++lAM
+_Su7
+Krd.
+"`h5-*
+f }B
+[f 6
+.*&'
+^HDd#
+wtXFV
+;`b8
+J'*&
+'I2.
+-62	|
+"ys[eM
+cGG(
+wFiQ
+Km (FO
+Ov.]
+,7	!jvc
+*5];
+td]B
+{d?I
+u{ox
+_gcJ
+|c4@j
+&-Wn
+	Z0p
+MH5(
+(",y
+dqv5a
+V>o"
+D[aJ
+YH!p
+zY5~
+{`CxW
+cJN=$
+L*sy
+{w8A
+QJaR
+IKaW*C
+eUYa
+X$;N
+T\(qF
+6Au~
+z!b*\.
+0#!*
+>bG+
+1ag$ov
+"e_:
+qh&:9
+~`uUCE
+11H[
+tp|j
+qFHk
+#]@m
+v\$.QN%
+h}^1>
+kI8k4
+~=dV1
+GEtasz
+@uob
+#JwGY?`
+WRJJB
+];]z
+ FU+vh<
+3Ai76{#j
+fH~A
+!JO/
+C_G7
+/8	}&e
+0\$F
+~j7Y
+I`R~
+Xafo
+(IBo:
+wLab
+&I@Jx
++5 J
+dsy-
+E	Z`T
+aoES
+%Ny2
+nz	p
+/&=8
+9_`p*
+\U>^
+kw=}cb
+*|dk
+FuTwI K
+|eD&
+AynHP
+gQl_
+f^jxx
+<@F[
+XS]d
+)(eI[[8+
+C	rt
+bb+S
+OQ!vT~S
+	M|t6
+}h+(h	
+.	0V8
+Y\*b
+1gBvw
+Hc)f
+t,D-
+*T2$
++Mid8
+Fm{16
+Vq$85lT
+(ifB
+tZ'%1
+ZUZO
+6zFz{
+,6,8
+*O2o|
+zC1t
+_9Yh
+9c+n
+aEno
+eY O	
+$JE-
+R`N	K_
+/>f'0C
+wha#C
+Sonf
+/PY)Ws
+:|,S2
+WC .
+I^^q
+i$ek
+"ERFn
+uFP'/V
+D.F~
+l%Cj
+#Slk&
+x8cDRx
+BrGP
+~i2<
+3Ho"
+8{5Z
+;@'=
++1_`Ny
+Ajg-U}
+W.#+
+*R5P
+K+j4jGSl*
+ET4}#R
+<(TeS\+u@
+"MPd
+!N~i
+&x-JT
+_)Fo
+PxJI
+5e-`
+Wcl#
+ToyV
+vNB-
+7Y^=9
+>%CK
+8Uvrvqo
+tw8p
+Y8?}
+b[N]a
+Ys z
+J*l10
+PKo5
+sDU9!m
+G(/9
+SD]|8.
+BdkE]
+<h#)g
+o|Q?YB
+x&#}&
+aZq@
+~oAAZ
+P-K]
+/BNl
+Bh5?,t
+PIv%"
++ Ky8
+yBe"
+hwu#
+"E&B
+g>S"
+OZd3w
+;6t&
+QN\"
+9 .26
+ohFyg
+Y8dMX
+Q7J-]^
+}Tta1oA
+)B&	c-
+jjBO =
+/OhG
+Ys?qk
+iplx
+mqJP
+tujG
+Vv0bQ
+tY1y
+F}gY
+I\Ke
+a1g~~
+jcA'!+
+]s)c
+c]RJ
+(cwS
+#mf9
+!tpS
+((0;,
+mII:
+dZx(
+yLO\{
+~q9Q
+*]* 
+Ybk,"S
+0pB*
+NWi~
+jSwI
+E3+3
+"[L@
+Y0^9
+KV.?
+GL@:]L
+*q-%m
+Qi'g
+3@Zy
+`*Ls
+3hXh`
+jNN]
+?F'-
+M:y{^
+hqZ[
+fuF&
+qab'
+?l<p
+a};FC
+!?BT
+Il2;O
+35`b
+LGPR-
+Vz4w
+"E*c
+#$,m
+D*c%"
+[RQ$
+ DM=
+asg-z
+hB#R
+3EgX
+|PETN
+rE-$
+pGB^B
+ETB^X#
+y[Lm9
+\\FB
+-RlC
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
+tX>H
+i/Y2
+.('>s
+T/]w
+@Co`
+$bMo
+y<uX
+r<>a
+P-vKG0LJ
+^z,A
+/Wu;
+w?PB
+}W]_
+dIiQ
+3oa-|
+P<qU
+dA]q ss
+wH?0
+`,ks
+Oa%my
+!W76$
+R4V>	v
+ftrm
+k!L"
+X4TX
+;<]	
+/^I	R.
+Il:W
+=zO7f*e
+$VC[
+}*u}^
+V;lG
+8Y)I
+}g%Vj
+uvzs8
+`@Z!4
+AVe|T
+~dcd
+t`1*
+FViQ
+,-U&WJ
+&7YNh
+M%DWeI
+(\vK
+s3HH
+:WMo
+s\':
+YCMO+
+P;n[~C
+JlAC
+sw&#
+qXQA
+52Jy
+tt;[m
+7v2q
+]7:#]
+wtH#
+{gmc@g
+9yQj;
+6c~v\n
+f0$r
+&Hv7
+	Jk&
+qWe{,d+
+NeG'
+%fJ- 
+]eaH[
+uK+p
+/nJ}
+FUog
+5 $F
+fV7K
+0cC^
+CroJC
+'Cube
+ScR<
+K`ULZ)
+NtVY
+@oOV?
+k3[k
+,n)TAw
+_\]i
+L6++
+|}~^
+^5Z`9V	
+n"6Z'
+"hH0
+z[B	
+@5#/
+|SBp
+:>c.1I
+]yci[
+&#@6
+^Etp1b
+{nqq
+HD5QL
+\f18
+]#{1
+PX;1
+#Ez\
+g&<i
+?uOkb
+-sfy
+xFl+x
+"prp+
+b@As
+8=5U
+(^]Y
+bEsD
+;) l
+ip_rU
+Fa(^
+C}&)/
+uDsK
+X[QO
+mueJ
+oq|J
+t-IP
+A	wAiM
+|[TF
+~8%;o8
+6k)_
+aE=csO
+e4&:y
+I7q^
+hjBjB
+R&6KY
+w[A	
+{Tz4h
++aq#M
+9d7FZ
+I6<#
+`k<g
+Wku6
+I57f
+Pm^/
+Bs#&
+o9D2
+7Qt4
+##+De
+65ea
+S!,-<Sfp
+4T2Y
+=KaV
+,t+g,?m
+'$(0
+^SSq
+G/Uox}
+qvZ!
+bl<]
+c>E(
+\jY]N
+[I7t
+,BON
+40xh
+UBfk
+qT	Fs
+?Bu	
+S{#.v
+aQS$
+4:Gj
+7O?I
+cII.
+	K D3
+cXJ*
+<e@U
+'I[^
+AAW&
+-RPS
+d(wq(
+Bv6\
+RR3b
+t\+^j
+s|dV
+Zsht
+m@F1
+eXh<
+.=z2
+@B(8
+Hlxv
+RZ%.D
+qh 8y
+h${l
+4_-U
+IY8D
+HFe&
+CaPk_
+iuex
+!c[m
+Wg;v
+!?=&
+	$:1e
+uQZ0
+{z8)
+OcbQ
+B9V{
+mUc}
+$:0d%
+YTxL1t
+ K`Sl
+\d%mFi
+gU*o
+:L[*d
+\'@m}A
+7o$t
+fx^Yf
+U-PG
+5(=p
+7ZM$v/U
+u*l`j%
+^/Ci
+q>'=
+qr>y
+Rc|b
+hvfS8
+i*uB
+)Abt_H
+QDp@
+uBLt
+aY?J
+ h,(
+6)`9O
+_jn\
+J >6
+*aAJvE7U
+uc)V`
+%~r~<
+5fJP
+0SuZ=@
+:$ju
+<	xJ.R
+M7o%
+)}L.
+0rzh
+B[<_
+'E	y
+h-t)
+,!{iL
+>MtB
+Ma	W
+51tS
+G4(V
+`IZCS
+R0AM	
+D0%kgo
+\/92
+"M^h
+t`0y{(
+iE&{0
+$1K	
+V{uA
+Wd%J
+D%/e*:
+MEx$
+{%6H
+D*3H5n.p
+G>Pt
+'3ft
+: )\
+1 !#
+d`Xo
+U0sN
+nNJ#y0_
+FlQ&
+]cF<
+SU;\
+1VCTr
+Uh<`
+D}R[ 
+rx_az
+`EO*
+53'3
+vmWV`
+|+5;
+L=5D
+Cqb(
+Pl"j
+r&ZA
+[`v"
+Xmw;
+L4%d5
+h jF
+R;mk0O
+F8zI<
+oS#V
+aP$!&
+XX;"
+TQ1c
+/b3)
+PsG_
+I;~R
+vW$[
+KK&\
+])i_
+g1tP
+=R]\
+Z5e^2
+'\:?
+q|F%
+)rjr
+VQVX
+3U9D]
+K33u
+:W2QA:5
+)~y!eqn
+=zo8
+	.]%
+JIM2
+EKk&=m
+R W;O{
+@jFB
+f!C]
+,dR;
+&B.8
+@yWH
+Gh{u
+1g~W@J
+f/Ge
+D27d=|~
+GaO\
+hA. 
+BzU|
+AIk3
+-&3x
+rloZ
+`_ :
+``O^
+*vr&
+aeAZe
+S\z5
+NtUj
+ODqx
+7ad#
+Cq<"
+QEjPZ5
+q5Wf
+Z5OJN
+f6{V
+"x&(h
+MBEOz
+ysW1
+C7)|
+98ZX	
+O$M8Ru6
+p}%t
+'*"2
+}h(2
+[djA
+"'uZ
+%yj	
+:U3IL
+%3q6h
+5)7	Bt
+4- R
+@(UR
+;DIF
+Lj"X
+{19k
+7?vgM
+6XKg
+YB '
+is{]\
+I\j|1
+++RI
+T85x
+G9+}
+|6:5n(
+<z*v
+3<tt
+DKxx
+"r'jb
+cq(o+
+3}>#
+5Dqwj"ym
+m/|J&T
+GCy>
+CPAS
+|r.<
+>Q((
+J\P<
+}|vi
+eD\PM
+BNNh^
+V#;HQ
+@p/*
+/ABu0{W
+ ~gp
+09#=1
+in  +
+}-#J
+?Nk#x)
+g}V*
+GT-Z
+kx)5
+ajSr
+*c2Z
+#^YG
+c$-\
+/v-1
+a0#(RG
+O_mQ
+b.&]
+-b3q
+EkY[
+6eI^UC
+h>'Q[Z
+74Za
+zgPa
+Ud+-
+/="A[
+5QjG
+T$c*
+>k|U
+Q6Nr/
+t<	O00
+whOG
+|69=
+}:r7h
+p*Alo
+1!DJ
+LJx!%
+Gx`|d
+]D]K
+yV[.DW
+$h;s
+UZS]
+ P~KT
+MCz\
+&Bqv
+tS-$)
+@u^~zn:
+{>ae
+~cRl
+(Tfk
+]vh{
+eDJM
+	GsLc
+)8s6
+?F1JH~F
+=H8rR
+/7s2
+XOx'
+[	'ZW
+Gy#y0_
+NB\5*{6c
+,R+4_
+s9&.
+AvzT@y
+Z`lD)
+96*=
+<G%:&u
+;#h(
+{l-A
+PdRy(0
+ aqZ"
+(l4E
+#07F
+Fl]4
+fPlcg[[7
+6qm'
+CY(Y
+.S7b
+E>Nl
+#K(}
+n+U6p
+btdz-
+wIlS
+q<T2
+-v%c
+QiCe
+"D`h7a
+Y_K 
+%yU/
+}U[|
+J_yQl
+rQIy
+;7Sr
+Z/k]T
+F6	+
+zGp3
+F9u"g
+Xw7B
+2p7Bg
+I34z
+2Kf$
+'wt9d
+.68p
+LS Pw
+b+q{x
+By|5
+{;:7|!
+YjU<?
+qWDz
+ra.kwblz
+"0,X
+$pR~.
+2<oa\
+oF*b
+!zUo
+~2Wh-
+bEp7
+}iWHt
+3<3h
+Lpi"
+;Yly
+u*iv
+<DiI@q
+&:.1
+GmE0
+NZM]t-
+wD<V
+ d7P:
+}C L
+cB?cP
+	VyBN.
+qcItv_k
+(*o(
+ME*9
+?)eW
+,_]&
+i}C*
+;|>EZ
+5'oa
+2'f (U
++Wr_T
+P#L(~}
+WGae
+*'"s
+TZ[$
+gfcU
+y,s?
+~"OB
+E6%)
+f5iX,
+E'>Q
+gZz/
+QDBy
+|eO9
+rblhk
+"ru{
+]2dk
+=~X,
+;GQ7m
+8]lzp
+K:%`m
+(,I2
+/9i4x
+p5Vx
+" KEe
+I!}B
+T(a"
+2IUg
+3jaL
+<N!z~V:
+TX{tu
+k0uP
+sM{-
+%M+`4;
+3!G?
+L`8&
+8<(c
+i-dpT
+GQ};
+|_S1
+_icul
+ko/	
+QTgy7
+^0OF5
+qSdZl
+xPN-
+9gyRw
+"XX|
+TJ,lT
+O_:m:
+a%K'
+Rb=7
+U*jxM
+Znf"
+ljoj
+GXC9
+AG'/
+>^Jc
+n "5
+{l\;
+iXf-
+lvX'*R
+7 }Tw
+cY>?
+":9\W
+i<A~>
+732}
+Z;<4
+KkOVx;
+|CHD9n
+k=B\5*
+|nR.
+@8`g
+[O~H
+E#Ic
+ID%B
+A(#m
+ZqxTu
+d\*W
+@<&6
+	bx:
+6-\X
+Ag'v
+!8nGr,
+rcmT
+n{;$
+3UO6
+UC>M
+.^J8
+/smu
+zKG$PH
+abIs@p
+slpI
+/!1#h8
+fyz-
+^/>c
+P1pPm.
+#c9N
+Fw:S
+o>t'
+N./X
+;bPW
+ixQCZX6
+N`#l
+iqW/
+7Pf}:/
+/XZ?(
+ <|6
+oy~P%K0-
+RBg%n^
+I	K9Db
+|R9u
+Bk_q
+" m~#
+pTDfk?
+fJ*$
+i}B}?d
+gq1s?
+RRck
+V=u$
+544Z
+|{S(
+)Z^'
+2CV@h
+}=pTmS\Bx&L.
+1!# 
+$>'J3^
+X%G8
+}/>/
+;$VpO
+	X^	
+0=RXHs
+.auARUX
+K)2f
+26Or
+zj0f
+vuw2
+;Fet
+d2nz
+#Pt.wc
+tnvEM
+CD>o
+{<F+
+p#!S?
+$~~Go2g
+	Cev2`p
+@11"	
+%X% G
+sK'2
+:dI~
+<@$-
+[~:C
+[bPrW{
+1'RU
+V2pu
+d/ X
+y:+m
+Nu{}1% 
+9`}%
+!\]=k
+^d%5
+);s#:
+dM"\E
+@TZnf
++[N*
+nRj;{*
+&59F
+r{cG
+50	mS
+$47 +8A
+.r<VX
+ivP%
+x%7e
+Htmo
+~T%.
+[o>".
+6/k\
+7"',
+\tPW
+8(%C
+`|?\)
+$9{0
+mi!{hx
+i?xbBZ
+{p&-1'
+[ar!
+=2%(
+ZI87
+ZGdz
+A|oO'vs
+<Upqj
+uq,#D
+-q!Z
+8J8;
+yeWz
+L@;~'
+t4wF
+]b.FN
+XLa*Q
+-Q(O
+CT`"4
+=>I6w`x
+dQU.
+mpor!
+"hGjU
+zN	w
+iil!
+:T}}
+uYh0
+(e&y
+2c>w
+U;'O
+Qk2a
+5TU?*
+^Xu[
+!HtH
+	@!>g
+5s.6
+L*z8GF0L
+	v<	
+P*'c7
+c#RX
+G*M_
+$z/E
+p).I
+U7WV
+Y\,G
+$;>|
+HE~DWt+ l
+qoED
+HiES
+y;z9
+]mkU
+K`x#
+v'5b
+uJD;
+0f3:
+/*5g
+6z:veL
+@a&|
+U3t%9&j
+!ZTKBL
+,P-Oyp
+a-.#riq
+%;W$\
+_] }SN
+MVAfJ+v
+e'I0=mL
+m<:i
+G#tE
+WiS/
+\Pyh
+LpL+
+PZm}
+a8! ~8M
+ls%h'
+qDe'
+STrX@}
+|M@|
+jvgf
+fK'7
+KY)h
+tW_0
+7gOL
+\zSKt
+IOGMf	
+G	b9
+pJSQ
+d`2c#
+*Jt,
+5-n?p?
+zasH|
+a/~:{F
+.<%D
+oD1(
+b@t2
+9&%c
+d>+x&
+^:xf/
+c+Yl
+L0-!MDxN=7
+{C:)
+WJ<fX
+X|fgn
+GNv,
+18{W1U
+-is$~
+[d<m
+cYypj
+G}kh
+A9gDK
+Bs{H
+.KjR
+srzU
+;t#.
+IQnO
+[5ld
+#2q	
+H	BM
+=#^"=
+'86r
+wd8T
+Q1J'
+,n=y
+QGS)
+AM2.
+@Bt)y)
+Bf@M\}|n
+eO^<
+f(A'
+<T!did
+QA`<
+3vy3
+D[,x
+,%{L
+w[{| (
+~i>N
+jN$d
+DlMB
+>:\M3_B
+b\g'SH
+fIC||
+4H%A
+^1Wc
+[3pa-
+V<WL
+3YcA
+'8l6
+y,H	5
+M9s-[
+/IJX
+6U!9
+,V2$Q
+cH"p
+W5wR
+sF1=LbO:
+HPm)
+`(n	
+x&#xsN
+>$'{
+[^#h
+LTG2 P
+MlQhra
+,ZG7
+TUTP
+jM"Q
+ndM5`
+LXZ9
+lu<r
+8Wmi
+VL(Ss
+dEP-
+b'F6f'
+^Lat
+r-`A
+be)I
+6-BtM
+pIM!
+}}H R
+E]o$
+<:-#
+7p^2x
+Ta52U7
+Vzw|
+3"DN
+N	DlD
+zbu%
+.q/u
+eP_6[=C
+SWD"`
+(OhI#
+T}7sN
+uE]'
+E&'C
+Wn&a
+Z"!#
+jXV?7
+^8!C
+tbG|
+v!EVn%[	M
+kR*T$
+yAWg
+8dC&?
+W{bA
+e+nc.
+7	9;
+%@|B
+fe%Dl5
+BR{G
+NQji
+1"\H
+M[n=
+o=(_
+S'4l
+Lr2b*
+,*-d
+00hT
+iPPz
+8:ulY
+qk7a7!
+EM!a
+p:Wu
+Oo>4NgG
+@fU 
+(l1s
+_Iu>
+k?3]
+8K]yu
+a(6,
+<?9F	
+OB]>T
+0wF"
+*"AV!HA
+Jb?s
+Ohz"K
+oF>p
+=aQP>.
+Y+OI<
+="|L t
+?n0DjU
+(	6l
+"2Ww
+	'q4
+_t38&
+m_mRh
+;,#r
+W~@3
+=Hi]@
+2EP&a
+Q2j}9G
+8_>J
+#<" 
+>xP8
+!K O
+Zx||
+g~YR
+Az[_
+Wb0f
+ql`:
+])cN~@[
+)[7u
+0&Kd55wi?
+C9a[!
+pW!3s
+_bo<#Z0
+:OvJ"
+nX!1
+$,#k
+BD|a
+(*PaK
+$`5GiR
+?s9,
+fHe)'
+E\%F<
+x-m7A,
+E2U]
+2i{R
+4	e~
+7lg6]$ 
+Ch2+Q
+CQz:; 
+b+OCe(
+$RCZ
+gPZNM
+Ac2A~
+0YoIIs
+!r$B~
+q'QT
+ >]"k
+3"znt
+FEeRyG
+{8@J
+h`:^
+v+p/
+WCb2
+e[N&H
+8 9<
+cA~}
+zw`%
+Va2+=
+ ]X4
+udf'
+V(FgC
+EV`'
+HV[G
+@HW3
+Io3qu
+pNX_
+nGIMZ_
+1Cu~o
+eQuIo
+Y|b&
++la!AS
+(.f1
+;a6q
+*H0R
+o	I%
+X&2P
+;2QX,M
+Axa"
++u0KT
+|hy(j
+5N `
+9N|Q1i
+A\#k
+^yJ|
+"Xs(/	
+tUS	
+:`!p
+nUtY
+:7J7 
+C"`4
+0tq7
+Z%vO
+|TbgV
+Y<- =>ng
+~Vch
+\iz-
+Y0Fx
+KmqX
+y\rv
+5'LE
+35Q7
+(@3E
+,wcdt
+d,*r
+]1JS
+y]7Q
+;Gzz
+z",U
+j'sniE
+s"%.
+R^!7
+*hd`
+ GNLy
+g[Ec
+zmBq
+bB@=
+Q<4{
+6#]&'
+hWD(
+]J/X`
+#$.kH
+gC}u
+W.1A
+S=%-,
+ob1M
+`iJHB
+f`!S
+#S)D
+[|:]~
+D:	VRF
+/ B(
+!HYQ
+~*SE)
+<fy_
+4|e/
+Bp%"
+"Z+n
+%R+y
+X:Aq.
+jA\i
+(vHA8
+lISNq
+Gz0t'@
+=|kF"A
+fudc
+S;bv
+CbrX
+*$+X
+{$UB
+z|E*9
+}_B"
+8a=.
+mO3>:
+\m'hc
+C"L(
+$XV2-
+5J%G
+6s@]
+vgda
+A	N(
+r.J4%
+;!jue
+-9(xOr`
+Vkl]
+\"vz
+IP|pBXR;bd
+k<LN&
+W<:7e3
+gc{X
+kd;h^
+jJ/J
+5yoGE
+ku,[
+`sb(\
+}#w2
+K)Bm
+6E|[Q
+d2Kr
+Fy=#&
+Dj@$y
+Kkq+
+dm\e
+HsXN
+My(8f`G
+q,aY
+DY7G
+dzXi
+-AyI
+'?s+
+QBOy@
+z*X)
+\zM(F
+:8xOc
+w-$ZgO
+Z'7Z
+|Kk6PR
+3&w=
+< VLr
+ZMEN
+T$Qy
+oJl{]Q
+QUk	d
+wiV3rd
+.=Ci<
+9~ghD
+7t1lexJ
+F:rMpq2
+IcsF
+]yB$
+KN-_
+N7dR
+zRKV
+miHKF>
+xU.o
+S4Qj-
+Umh6
+?\Bi
+Evji{
+]k&#0
+\N<`
+_	fpu<
+Z%"f
+wiMj
+'GD(
+ema/,
+7@1S
++	`W
+}DsCu
+q3N$>
+DcS.
+9'Dm
+TzG=
+mJoC
+)Ayu
+cT'V\j
+O	&8
+*68j
+~BbR#/
+UwHo$
+fm/}
+oSg(
+QR|M
+Dqq>i
+DWS_v
+P"=<
+Cgs6
+\N6u
+LL3nj
+&,Cx(
+"d[3
+c~vxV{&
+&4|u
+J>go
+<W7Q
++[Id
+Hl(Gq
+W&wE
++TWQ
+pC^:
+,SMa
+Jc$Z
+ON3T
+B4SJnZ
+zk!1
+I{!Y|
+(IN~z`A
+;hMX{
+a@s5H
+02C9
+@6n}
+[)>?
+,V	!
+tl877
+'V3Ho
+.RdM
+Li+'v
+rY4W
+UENQ
+^Vj7Qg\\
+7#yl[
+z>){
+=3|L
+wS'k
+MQN1
+lZ^W
+|F$d
+ceXg
+)$?aP
+VM8'
+C+^/G3	]
+'cZR
+3&pc
+`.M4Mrb
+K4C$V
+_b,j
+(-J_
+,@BGd.
+Z>Teg
+MG$[
+p3#,
+8vrS6
+9Cl;
+XIP8
+=MilN
++eod
+/q2.
+3<k!H!2
+-Owm
+hX>UE
+NM*iX
+3S4%M
+M`mk
+>CxU
+^p?/
+]/{o,
+ ~ML
+G]-q
+\uoW
+xJ2_
+!`.R
+Yg4KU
+|K.q
+tIWQF
+b ke
+z{{I2
+06V<
+(Qxfs
+L{Y\i
+Lh&V~
+;[%w
+vfUa
+F9w,
+NAn4
+#`v?
+R8lv9 wW
+uWVq
+P\F0
+<F*A
+ f3eC
+4\6h
+T`(7T
+)a9,
+2vZ1
+h6=e
+GsA5
+'~dw
+\`C@
+0Qkm_
+)tQ6
+ezuZH
+=gHS
+^.HII
+W	6)
+G['|g
+v28A
+4}$5
+I>cK
+Axd_*?
+^=9U
+i/XP
+E5l^
+A0xf+
+5`Sx&C
+ly.U
+\*<>
+NC::0oj
+7W9~NK
+%@6)swzML
+n5_$
+1Q*}1'
+:zp]
+w8ub
+=	0e
+T::^
+7OI<
+PVG*
+$0yQK
+,X,WR
+k<WN
+>V|s"
+[5lYl
+#}@dN
+g[!Q
+	!yi
+{(8 '
+V>62
+=rexa
+Fqj-*
+W/1i
+I<GGK
+	 2	hgP
+A0Q~
+V5Q=
+=QkpF
+3G*<9q'
+%5)x
+)j6qH}rj
+-J3@
+Z{e1
+4>p~'
+kQu,
+OxQ!
+YQy'
+g~8{
+HT@^
+jP4#
+u99&
+?5ll/
+AP[w
+yCtd
+k4pt4
+JG{p
+m0tt
+G]:\
+N1FA<
+)E}Kx
+*zHb&
+_i8/
+#$#g
+|&%+
+YOV1*$+b%)
+@@. 
++>kt
+(.w3M)
+akjr
+d$tvM
+Z[Cs
+M\hB"
+)vIa
+3]Dh
+6H0T
+=HLo
+=x?f
+ucQHO
+7rp54
+d3V4P
+0PlL
+10,'9
+gsR4
+>Po:
+}"l@SDS
+Iz!;
+s49M
+{dB]L
+1bF;
+kWA[
+aY^q g
+.2']>
+d1f8
+x;	C
+n5F2
+GPOW
+@oB0w
+6-u4
+uRR@J
+7fm/
+*s	(Z
+Gkp%a/j
+~KyT
+?UId
+d@hk
+0NL+
+X"u/VC
+l53Ly;
+c<66cM
+>dkH
+}Oy<
+xYT"
+b}t,
+jQXn
+eV\\
+(lf5c)
+#LP!
+wq8K
+041D5c
+r\DX
+3RNs
+i_,W2fqJX
+mmt=w7
+c],zQj
+efWA
+M	BP
+9WJjo
+3.h>
+WYDO
+IV^R%`	gXzD
+R24Ft
+5>"Em
+%<;|
+6]@ v
+A}C!
+OPEh]
+nO&j
+luj,
+NJ?e
+`v`L
+`Vp{
+;o[/*
+^f/Z
+P\$T-
+Y=j6<
+p^ka
+*f"=
+26/#
+|*"z
+ `Pe
+4S95K
+p,YX
+"N*1dIz
+i =Ir8
+P$)n
+/cEwK
+\;O`
+-eWgW
+ARV9
+%k0a
+[ky[
+u85g
+H]~F.
+Z+[B
+Szc|/9
+vAU%
+>	#K
+Y-)^u
+"gR:
+hj>O
+|6@z
++;eW
+~CMR
+CKnY
+K!Iqu
+wYr.
+Fh;9J
+yUr4^s
+lVkk
+v.2r
+s^m9
+`jbfb
+>|S8)
+lfL7NG|
+7ym]
+<RIO
+Vioo
+|}cY
+r>Ta
+sG#K.
+^a!	
+lJP7&
+:|{c
+,E0=
+c\^!R
+BQ'XM
+`Unz
+"i9gW5
+NZmf
+P lS
+q-S,
+XsR0
+=O2%
+uH5o<h
+EvJ-
+@&UV
+0h Z%
+'vb%
+bU]d74
+N=Ut\%Q
+/v;0
+=G%K
+[o.TK<
+{5"(
+?85a
+';:B
+0>#f
+p3NY
+;U4(v^@:
+v[f[S(oh
++Y|~p
+"@3n:
+%Ln-
+/a.9
+B\th
+@lYa
+Ogty
+?	}&
+7e	o
+oh	;
+,qv3
+0t**
+GZ>@
+ E|M
+Z-_dL;
+	Y0?Fj6
+xJ~-t
+4m0e
+fZv~
+cHch
+;z+g]&
+MJ&-
+F~b\v
+C7gYh
+z<4\
+LA5+
+yv\@
+mv|t
+9Ml9b/
+} &1	
+;EqW
+:Uil
+524>q
+(v$}2:
+BY-g
+v%::
+lw_]
+zp,PWX
+P&/e
+8mZ@%
+F"Wq
+]AkL2IRh
+i06j
+m	_c
+=ta2
+6j%t
+GFtE*|
+j;pY
+2fO]
+<@Q"~)
+|*Kp
+yoQG^,
+IdU0
+c^i9%
+s4pp
+KL.(6
+1Op?
+fW]6
+7Fl`
+`Y08
+4m!$
+aT)O
+XorZ
+,ZNVp
+{_&!i
+D4	C{
+@c{j@
+Cl|P
+Ax#V
+J)={W
+)0+;
+gGq%
+~- -
+)0tdJ
+m#|9
+#vj$
+d7	3^
+2~2n
+vCuh
+d>8X.
+:-+y
+79'p
+-mXG
+{B['
+!jzo
++fi	
+ti&{R
+[5r%D
+q(v V6.(
+yIA#Or$>
+L-!b
+WjM;
+kZ9opZ
+6I|N8kg
+_0|h
+:mV'+
+8cRq
+}b0.!f
+bkV7
+}H^k
+7a~ct
+#b}81
+VZYb
+M*aW
+a76:
+SVX	N
+pV\#`8
+X?;A
+(XI'A
+wGx9
+V_UZ
+8u)s
+K) O
+XjTX
+;['j
+~hBC
+-YM&
+!_\	
+95l]
+D_#\
+4F7x
+vyO"
+uXX~
+r:6p
+_.!\
+L5X,
+nwjW
+{.{iw'W
+HHg	
+u2f2
+17z7
+&".~
+FM@K
+HGo'u
+nT]j9k
+F}Ep
+q$|8dR
+c{_:
+b2:	"
+}rK	&
+zg. t
+~;4;O
+'z)(t
+7r*B
+,R>u
+Qd'6
+}t|X
+kKOg
+hp{3
+'=78
+JEed3
+'^x0/#
+]\m:
+$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
+G.=o
+E5"'
+7QLDV
+R<6*A
+o^%L
+mSRk
+@@Gb
+G"sf
+6Z%]
+1ur%''.
+#MeQ
+^Q*"
+e.T!
+fVf'
+~Y-ltIS
+3$/U
+=[Oi
+6,pPc
+y',p
+|IT*
+	8RB{X
+\p%)
+U] ;
+\s/n
+Fn:A
+f3 {
+J">%
+R<j&
+"t\-
+XlMu
+<^&"
+WjtP
+"x]Bs
+I(Y6
+^|]fpjSL
+5RXW
+lH8e-g
+JvX7
+\\FB
+-RlC
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
+B+=83
+W%Vw
+1"D'
+Q+?h
+S0,G/Q
+[XAD36g
+*7?<
+2u~5
+&,;J
+E'$t
+D0K0Ath7
+s	}7
+ii&2
+e\^5
+ " n
+;V&%R
+OFfC
+lTL0
+fN4pme
+h2cDm_P[v
+`5pmNl
+#=K03a
+<I&C
+ \C9
+{EF7
+8U:C
+H{	Z
+Q)NTy
+C4j}O
+pj	G
+bH5uRU
+Xg.$
+8JzNv
+{J%Ld
+3zm]
+8+;z
+T1b<`
+@}u^ Q
+'E[y/
+P;1m
+`#n8
+HsGn[
+D'<>
+(i=kq
+Ybl?
+fp:,m
+q3<q
+T&;/$m
+Xh2Sp
+\t6C!y
+l~!a
+ZE)+
+F+V	
+/^;qk
+GP[$
+`c8O
+nOJW
+"V_*l'
+<^<`.
+r""[/
+ej$Zg
+){mdN_
+]v=.d
+k*l+
+XglGI
+@AEx
+xoSc
+Ze"F]h
+9Y~z
+sf[Zx
+f0]y
+h6Oi
+~l{U
+e1'q
+FRCI}P
+Sb a
+-1Hk
+TY%9
+2e3@
+N#wC
+%"-(;
+H`+$
+>Pt9
+L/DK
+sD~/
+@z[18
+)n#y4
+njPb
+C1uEG
+ 6t0
+Btv3]5
+.rx'
+i-xuk
+;Iu(V
+"at>
+?<gg
+7ERT
+Y_]\grz}
+B9qW
+[:'tg
+a0c^
+M;\2
+='X)m
+r+QH6a
+,	/S
+n}kDY
+`=b=
+o_.;
+i[/c
+Lp>N}
+JRpx-
+czEj
+_vR/
+&9:D
+CvDM,
+lIKj
+}>):
+Zffm
+!F4ii/
+uU^YD
+RU=l
+uG.HGJ)
+]9]Ib
+PwjC
+iFA{*6
+}"4y
+4P;c
+@M-z
+te&|u1
+{>nS
+b$T4
+{IG7 
+95lU
+KcXj	M
+SmrE
+#Qa)
+a}sR%
+oJm\
+ve<5
+yUPqT
+7<LduN
+dk%)
+5paO
+}pCO
+E$x5
+{Lnj
+YH<j6Q8
+D;aS
+Ii7 
+2Gz}
+biLt,
+4iT2P
+!\/6
+'Zye
+J|<H
+Cu	*w\
+F)ss
+cAmJv4
+M{~s
+MMw||
+Qr4:~`
+@w8XV
+sF?N
++D]DB
+X)$D\a
+@?1*
+4tAw
+6+dG|!u
+Bo6"
+	@04y}
+9%i&8
+2:E@0B
+(cG>p
+V-ArB
+P8+f
+t]lS
+Qua&
+iVH`B
+~AVK
+}ho	n
+hD$i
+%BvenX1
+VG%F
+UY	#
+mt	>
+"W)C
+TSfB!
+9TMX
+||-g
+?QN;j4
+x"*~
+NF@^
+1C7z
+y	Uu#
+n9F'
+X}X9s1e
+Xc/*
++c)w4j
+`@mX
+ei9,
+* *@v
+_)'h
+l'#p
+lm@scX
+ac1t;
+[sG=
+> r_
+Umk"
+mX'm
+MR~E
+GzWdfq
+GdSBS
+zO?4a"Xupg
+xP5I
+FLe(
+.Z{S
+O2:	
+t0~{KI
+H,UE	
+DhtO&
+t o|
+i&4R
+3Pn1
+2^D;
+;*[&p
+dU#pj
+7\EL
+e('Q
+JWhO
+CO~h
+o,HH
+#j_I6ZGK
+Y3<-
+fKHV
+XQ/LC
+Z@F@F
+?fpK7
+N()+n7U
+ljO8D/
+Zl=3s
+k!U|S
+mhWg
+KB4a
+"ARV
+T&<]
+2T@m
+Cw`f
+sHuR9
+[=%XK
+v>.O
+k2!3c}
+lmJ8
+L;b5<
+-1Gu
+(-)/Z`
+?Qb)
+lv1;LF
+#~ay
+r\@_
+Q&?l
+4=cY
+JqJ2U
+yy3@X
+1ssW
+[UV.
+NM96
+[AaD
++uc=
+7n7'JM
+f`#3M
+@,gW
+}tv9
+<pEl
+\g((
+\6GH
+!VRH 
+ZA=&
+J6A|
+D\hj
+$5"-E;;
+?zS[
+Tv:+
+L32iT
+D|5D
+9llo
+quq"
+T}B%O
+pi}cUh
+k?OC.'_
+Yu}Kkp7*
+0w-Ze
+{0E1
+|HySj
+PNjO
+3y=%
+)tft
+(M]K
+az!(
+Z]%"H
+1w5X
+p86#
+C*|w
+IF<|
+_xv'
+hHEN
+CUq%3vb
+CAikP
+"j,h
+Lbx/"
+Phd\
+V-VH
+_*AU(.VlK
+QG0{
+kYB<*
+XS_c
+i* '
+x>&@
+Z0Yk
+!RxY`
+c[EY6}
+or?.
+hIt&
+!84b
+MBdIl
+JvX7
+\\FB
+-RlC
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
+G.=o
+E5"'
+7QLDV
+R<6*A
+o^%L
+mSRk
+@@Gb
+G"sf
+6Z%]
+1ur%''.
+#MeQ
+^Q*"
+e.T!
+fVf'
+~Y-ltIS
+3$/U
+=[Oi
+6,pPc
+y',p
+|IT*
+	8RB{X
+\p%)
+U] ;
+\s/n
+Fn:A
+f3 {
+J">%
+R<j&
+"t\-
+XlMu
+<^&"
+WjtP
+"x]Bs
+I(Y6
+^|]fpjSL
+5RXW
+lH8e-g
+JvX7
+\\FB
+-RlC
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
+mR+>
+}EA:l
+fZn,
+ZLz+#-
+G&|P
+)E,.#m
+}<]U=
+I!fv
+,]Bb|[~%.
+S[`K
+]!rS
+K^s}
+m;Eg
+7?eJ
+kg 6Z
+tt*p
+B3(P
+p9WP
+/d'M
+Y~iQ
+"b	o
+])R,
+iOD\O
+=4g!
+;,V{
+9N^j
+0G?aVv
+O:r<
+x/E}
+]u17;
+n%>uDz
+/|)>
+iy]ArJ
+)w%"
+\9~	
+n;&c
+H}S`}
+s| 1
+g&PF
+-%Un
+(Z2U
+Mxyk
+D\RNa
+oist@
+F.+p
+Eul.
+YDE*
+)y;l
+t<KuY>E
+n?dT=x
+4w^	
+A&%S/
+t,et_T
+axjO
+H351l
+P2kJ*7
+j	eC
+J2=\
+K"wL
+^>m?&	I]>u6f
+aX20 
+~(WP
+-RlC
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
+VS{`
+ndjlrDHF
+}Q0p
++S827
+=-z&
+kjG;r
+Q+.]
+<Y"G0
+\*[2t
+|k=C
+'[)x
+!f7.\
+rd39T*
+a6DH
+PrFbD
+\52po
+LDXp
+&8Qu{
+p>>0
+MFYY
+)SF*
+}NmNY
+$w#Q8i{
+tA[xk
+^ SA
+F7sL
+C#dg
+p=%+Ts
+rp^>
+H~>%
+/tSy
+)>2V
+;[H#
+pKpP
+989Xg
+l60m
+il+J8^=
+/bhz$
+k4bQ
+l9,,
+Dr)W
+}5=b
+-NwC
+pMFu
+ 8L^
+1^)I
+Mf#=
+xZ;[
+` 6!s
+'Py	
+.er4Q
+ j0R
+l}4O
+(oW3
+BcruY
+wIQd
+m~d"
+sKq=
+,Au)
+Kw!%
+dD;u
+?\4l`'
+]HoR
+j RmM
+-Z2insz
+M8I,Y8@
+Vp|h
+kSRC
+	sh5
+y'nna
+q7VM
+x&9I
+?_{:B
+oso]R
+"	hp
+3Ca/}
+%\? 
+R/cN
+hQ'>v
+AswVJ|
+o/Z#
+wMcdf	
+	!eM
+p6B5}
+dE%@"
+KZYa
+eH&Dw
+r{:iz:
+w,xH
+r>|Nc
+)]\$q
+".d\7
+i"\C*	
+7;!X@
+q]Lz
+aqs"
+DNU`4MmS
+80%b
+|wD6m
+4#z=
+UNOk4b
+&pio
+/We{
+Hyi=x
+]Bs4}
+q5q.&Pc2,
+dbP^
+c#8P
+GDO9
+9pB*V
+'f|(H
+_ #7'9
+;@H=#
+heQ=K
+!t5`
+kAo0c
+bN^)
+[*Kx
+u>[q
+VV{0
+/IOS
+76YG
+b<dxO,
+_{v,vV
+!Av`!^|]
+'c?0
+jZxf
+s r/
+N.{2
+)2nE
+#gQc=
+3i=?
+@d3q
+yo)`;
+\1t*7z
+^r4!Y
+?uIX
+6&}Z
+bT~q
+p^2C
+`aci
+Qn/\$
+C* 9~
+!:E}=i
+]3do0v
+:t?F@
+rA&\
+}aNm3SO
+@6?>
+WjtP
+"x]Bs
+I(Y6
+^|]fpjSL
+5RXW
+lH8e-g
+JvX7
+\\FB
+-RlC
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
+sLoh
+Trwq
+2{A0
+tAi,?>
+$A52
+v9 1Cd=
+aY }
+AQ]b
+/Fe0 a
+d1b4
+[lJb
+g!jJ
+P#9"H
+.J+|
+waV}
+ML,(
+h~\t
+s,^jr
+CmNY
+d6J/Z
+UD<{
+`Z?@
+f+R	
+cPkt'+
+(L8:
+_{yw
+bw4_
+>ZJ`
+,Qkb
+=Tv 
+CQPU9
+6p^UfCA
+,oY}
+{,Uz%c;}t
+zQn8T{
+IXp?
+Nj8W
+9Qey
+6-SD
+zRqb
+l7"&_A
+@226r
+	V0r=W
+stZ#
+O$'3VY
+SFt*2Ir^
+R;Rj
+$Tu;
+:J,'
+&#o,sK
+iWPE9
+Z/!?v-
+-$'#
+^fM:T)
+V!GOu
+-,0p_,
+^#9)w
+giT.
+%na1
+yXwW
+JIUv
+(S	M,C
+\ga~xg
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
+k6ng
+6qOgh
+,c>	
+3,j.SGl
+Roqy
+E6\N$
+T,8j
+k)wZ@-
+T51]
+rE:'
+HFJd
+Ao>%
+88 *
+T_H0
+A%u`
+R:KN-
+@E?q
+C#X(SJ
+b.rEl
+q>/D
++ik_u
+/$@d
+-O)"
+TU*6
+XDLw
+tCkH;
+>52L
+6#NZ
+m]HqD
+J8mV
+96L#
+B.'@L4
+>1E6Z
+6loS+
+@GzH
+`B..
+szk];-
+n`j&v
+}qjS
+aCCT
+qJ6k
+z}?d
+d`^a
+wKXu7
+`m3$&
+D)tu
+,P0<4
+"x]Bs
+I(Y6
+^|]fpjSL
+5RXW
+lH8e-g
+JvX7
+\\FB
+-RlC
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
++!Q?
+){V^P
+3&G4SG-
+)rJZdO
+]e'B
+]TLe
+"'Yn
+_g#YU
+$Ix)Tl
+gt~VW
+{:2`
+'M[p
+2b~<S
+b?IO
+;2au
+9`2R	 
+#6Fqh
+ZQ/c
+BI*[
+g$72
+Pxvf
+XbauO
+8aJc
+#Q^$
+SI5l
+'ly	
+`YM|
+vU@&
+b[\J
+xC;0
+#;wW
+ygDf
+sO]g
+ci!'
+}mU,
+&`P5,K
+N/ney8
+<!gdp
+ Jz"cB
+<vb|
+:t!:
+IPuH
+	Fw 
+Te@*k
+<VcqI
+^\d;
+Ae;p
+ohYO7
+z\_'N
+`X^(
+&?Zx
+*"eL
+m,n(
+(wXpM 
+Lc%w>
+rhdy
+/k{mM|ZH
+Y:"5
+*_Jx
+Z" P
+|(:/
+)/0F"(
+<F1m
+'~[Z
+A#@)
+djx!
+SneI1
+}^}y|
+n*|3x
+oD-_
+nuWu
+b*(a*
+FwxjT@
+4cteY
+R,UF$
+>^|]fpjSL
+5RXW
+lH8e-g
+JvX7
+\\FB
+-RlC
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
+Fn:A
+f3 {
+J">%
+R<j&
+"t\-
+XlMu
+<^&"
+WjtP
+"x]Bs
+I(Y6
+^|]fpjSL
+5RXW
+lH8e-g
+JvX7
+\\FB
+-RlC
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
+G.=o
+E5"'
+7QLDV
+R<6*A
+o^%L
+mSRk
+@@Gb
+G"sf
+6Z%]
+1ur%''.
+#MeQ
+^Q*"
+e.T!
+fVf'
+~Y-ltIS
+3$/U
+=[Oi
+6,pPc
+y',p
+|IT*
+	8RB{X
+\p%)
+U] ;
+\s/n
+Fn:A
+f3 {
+J">%
+R<j&
+"t\-
+XlMu
+<^&"
+WjtP
+"x]Bs
+I(Y6
+^|]fpjSL
+5RXW
+lH8e-g
+JvX7
+\\FB
+-RlC
+` ,v
+	$jUHp
+Y8Z#h
+AJU$
+wg9s
+"-QZ8QVK
+?Y/A5:1
+P-Gp
+%dx_
+q]Lz
+aqs"
+UFSC
+SAMSUNG
+KLUBG4G1CE-B0B1
+0102
+0800
+SAMSUNG
+KLUBG4G1CE-B0B1
+0400
+0800
+SAMSUNG
+KLUBG4G1CE-B0B1
+0700
+0800
+SAMSUNG
+KLUCG4J1CB-B0B1
+0102
+0800
+SAMSUNG
+KLUCG4J1CB-B0B1
+0400
+0800
+SAMSUNG
+KLUCG4J1CB-B0B1
+0700
+0800
+TOSHIBA
+THGBF7T0L8LBATA
+0300
+0400
+w2H ^m
+}+&A
+U0;"jfEZ
+V-<l"
+LBI[
+6~/i
+d]`k
+Mgubt
+RQO0
+Z	y.tn
+X!27%
+*z+9
+va~_
+hpur"
+{vLiR#'w
+_'{/
+b;O3"%
+$[vU{
+MDg1+VDs
+unNP
+nqj7h
+a[ w
+c9{"
+z=V]5
+8~2%u
+ODK8
+eEy7
+T^ex
+FoM`l
+A6*x8
+W\%6
+>K])^oN
+J'0w
+@;>_,
+v>QQ
+@eeQ
+iR$$
+lPAH
+z-U'
+dA?#
+%jkeJm6
+rC|L
+>zVE
+[_V]
+&_u,
+'d^P
+F)G;
+wLV0
+Pi	K
+>%bR?I
+Q}u0
+j\)H
+fQnR
+fQnR
+cM	!
+jv>P.AD
+*v.P
+VD+	Qc3
+d:tS7
+O1_Eic
++YXD1
+zgPXn
+HszT
+.QJ= 
+k*AF
+QJ: 
+K*BY
+#LsB
+b$*V
+zK*EGF
++LsC
+NOy(
+b$:V
+zJ"EGF
+i>Hr
+/,M<
+6W\`s
+nc8s
+<w[C
+Hwv?
+U22S
+w,[s
+(kL&W
+/}[M
+7+e R
+ZFc	.
+SPKH
+rL)d
+@9S*
+[F9a4
+IugM
+tUA\
+nAY0
+)dgC
+B_oD
+nJZ0
+nK[1
+jK[0
+kOZ1
+hN[0
+iOZ2
+hN[3
+iOZ2
+!wCw
+J~9~
+0c<t
+co5R
+H)C(
+3Hg=
+J!m rG
+_:O|
+b@4Z
+d8V,
+2GH.
+K<l0|U
+}$en
+}f'J
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+^\2"FT
+O];+?
+XEGI
+tsH}UoV%
+5Z0I
+pxGct
+XfL*
+g2aI
+":X`
+qXk0#a*
+[M2g6
+={.pG|g
+Bs5#wh
+\49y
+V5YHB8
+q.4h
+gNy 
+8^w&
+]#t5
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C7-0
+C_-5
+K6V<
+};zy
+&~!A
+Hq#(
+~pCX_
+SE,N
+GXL%
+3q-!
+5R1vn"
+4fGA
+y<NT
+36G\t5
+tgFA
+}<OU
+37F]u5
+ufG@
+|=NT
+26GYt4
+vbFA
+}<MP
+37DXu5
+wcG@
+|=LQ
+26EYt4
+vbFA
+}?MP
+34DXu6
+wcG@
+|>LQ
+25EYt7
+vbFA
+}?MP
+g4DYu6
+vbG@7
+}^NP
+k]e|
+7GYfW
+aTQ#r%
+WR#n
+fS$y
+#:c}
+g\<j
+Y=-m
+"oub
+Jf}-+U4
+X<,J
+X<,J
+X<,J
+X<,J
+X<,J
+X<,J
+X<,J
+fxk^
+g)Yu
+lVqn
+cJ<<
+i@akT
+gQ.(>
+b){S
+yI\\a3
+)TDh8
+HCG4A
+3~f$e
+q{_&
+on2d
+Q&M] J
+L$(h
+H/{^
+C"Bc:
+ zA}
+l,F3q
+$7~La
+jzhegR
+,fEK
+YM)9!
+''>~
+SO5SP
+#4;2]
+]Y|48
+L/qo
+v1v5{#R
+(\o	
+2	8"
+CS*XG
+)TdH
+Y9(^
+#F@_
+9HQRQ
+bM7pf
+;U[^
+T`?Q
+gN(v
+M=T:
+.YNB
+=bp'i
+0dNu
+="JW
+\zCAZ
+9K4^#
+s{:`
+[iC/
+!dm9
+0y\O}
+Wr0t
+	:a@'~
+(34mi
+T37d
+f7C[
+?Nd:
+?,W-
+3w%`
+B_Oy
+j29o
+MgC]
+{xc-
+AD3{
+[X| 
+5R2C[
+e]u0
+u|@<
+2oET
+ya#f
+lI0[
+y_~|
+MjIm1
+?rM$
+}_Nm
+B_`=_he
+*T\p
+WmrZ8
+(O~D#
+{%<OX
+v /G|
+^VF|
+	 Mg{T
+b:ng"S
+W$.YB
+	!k^
+]@^1*6
+&/	&
+v]kY
+n"N&x
+3?{@
+6U{H
+"]>'F(PdX
+A4u@
+A}vLp
+?	lw*W
+#-2	
+64#dc
+9_9i
+mdz:
+HP{egCm
+8)k"
+BAbs
+vsC[q
+l9G3VS
+zWX(
+z?*G
+41eh
+(w\dH
+F('^L
+b|4Z'
+5PP"
+G[-y
+aO`I
+:lt)
+h?6H
+K!4Thh
+V{!v`
+b)@g%
+PZ622
+\j|w
+&H4!
+%;ddF
+|4aB
+NE.k	
+wnqFV
+NuWX
+lv7P&YC
+nR*o]D
+{^t)
+<hB8
++ae/
+XA$h
+(;SK
+Fe!i
+r+R"
+)JB;C@
+c%d`'kDW:
+m<Qws
+va:KNJ
+.)ga
+tp|ePv
+`or2
+C19AY	!
+tbqx
+sP2J
+39`:b
+0~Y#
+6%Vj[
+`'HG
+<\A;
+g73uty
+Z{Wh
+n@c)
+t.rnq
+^e6$,
+]wj#ZA
+MTn3<
+G6Jj-
+n)Ky
+e*l)
+$L,T+[<>
+2!Rq
+uS l
+"VX-qk
+)!S{
+|j,|
+d1=5
+i!H.
+wk<1.
+Vzq-
+LYs!Cm
+V5dYI
+/wYS
+b2Ek
+fhD:
+Do0m
+cvxW@
+m`m+G+;
+/fma
+n=j{
+"}@n!
+#szW
+zs(+&
+$WY	
+W6us
+Wz?	
+d\oP+
+.nvh}
+u>"B
+$\Q]
+lgPM@
+1;^-F':J
+=~6j
+Dm*\
+cZV^i
+%hC&
+^UF|
+=O	'!'j
+1@kE
+Y&K-
+VhiUl
+1~ '
+Pry 
+UYoj
+{ 8R
+z9#p
+Wb;Ph
+X>+t
+G]~=
+o?0T
+Di>f2
+ShSC
+(,nC
+m0@Zl
+v_om
+ PNL
+/zVcdEM
+HdNz
+D^.r
+g9y-1
+jw	ZP
+y(4w
+FO`(BL
+D	qM
+Eef1
+M}E]
+KLO$
+C&nm
+C,PTk
+2z,H
+~'T>
+9QcJ
+k?EW
+"-9B
+"21.
+-||/
+#,Q{z
+7?Nx
+cFs;
+}p@	
+m`F8+
+Xk~]
+vglf-4
+^A3,s
+S	v~
+y}6gC
+9K>G
+?N\nr
+@C8R
+.Rg*
+b-!L
+`NN]
+r<TG&p
+(}c	
+.,=/
+lWfx?2
+1.YD
+omQ=
+nBH!i
+="qV
+lNloh
+r'r(
+UyuR)
+=kC0fGB
+xz(D
+Mc.v
+y)kB
+Ba4D
+,)9&
+'TSI
+Y:nvU
+S*k1
+_?*(
+{<?}E
+Lxvor
+Ugv^
+L VR"
+{)V|^@
+]osG
+>o-"
+Ovn$
+7j+9
+{R\C
+BNj[
+Szhc
++.fd
+u-pI}
+8WhF
+.3"{
+UN~w
+|l+:ce)-
+Y;|e	
+&^FS;|
+%H^6
+G*	uB
+t/NP
+]O6E&
+M"nW
+;VXMIzE
+@&dm
+yK (
+F`cNL6c
+tB4YC
+@.}o"
+_`cK6
+i/Tb
+92{N*
+\F	i
+nVAt#
+{K%=
+ck	^kn
+&Qll
+B`MO
+#OKB7
+}dN}'R
+b/3q
+vt)w
+gE(Kx:u)
+BC<_]
+wnjgLk
+#uze
+6-VAW
+@:{5
+aB91
+0{/`
+t}-q
+dW?DU
+?MF%
+pae9
+dM=Z
+{x^3
+o}_I
+:/.'
+N&<!
+hFiyjn
+R'cB
+	rv2F&4
+fXL?6i
+d=(2
+eWa#
+w?dT
+~A U
+HnD$
+G/u{
+  `b
+50]L}
++d08(O
+R*a:t
+>m09
+Hd`k
+o.,@
+JuNA
+HTz#* M
+Jgij
+F]_/
+d:^j]d
+oZ L
+;)W<
+sB^H
+hYAf`
+fatbA6
+d-U\f,
+!'R+_
+}rR`O
+v9fp
+E"eq
+kAKw	LPm
+at2]2e
+FNsUr~
+DN~E
+zl!T
+Hwm0[
+My),
+lgb(-"k
+&_v/|
+t#N%m=
+"B<w
+TLM*
+?[d<:
+{qN~,
+p2fO
+_8yT
+MG}:d,fR<
+!#N6$
+]C}3
+D;FU
+=]s3i
+KkY-
+,Zr^_
+[VKM
+4Ow|
+<P5z
+SaDE
+nz C
+*\g1
+Rl[@
+U	`E
+&&	;
+hu8y
+.zp[
+,cNV5d
+Sw\OU6T
+-oDf|o
+$Jx3l3
+>g)Q
+n_U|
+ZdTV`
+tHEW
+8}MY3
+Etnh
+-{0U
+F`C^A
+)J>~5()
+)#:[
+A5Q$
+mx!<H
+'q-Y
+AD&;6
+U/];
+(,tXl
+-BG\
+D9dh
+($5t
+\`r/}
+(I7O
+S6za
+THa(
+=!&IZ
+F_$Y
+DgcR
+h<vv
+ngI%
+oh?#
+l+[}
+Hk!)
+:C%OA
+kjN1n
+yp^.
+`3-m
+.W_)(
+#}OkA
+M>@?
+kV6x
+s,MI
+	a?K
+}AqN
+2j+\
+xXhQQ
+jLRG
+Ltu&H
+=.vCK$F
+4,6(Q
+"}UQ
+*!\j
+HB,~
+AD681
+Xi4B
+c;!`
+cG)s
+B<'AQ
+W~Z@f
+(	~bs
+)Y}k>,
+H+-c
+@.-)4L
+NARQ
+{LG{
+^]$fN
+E #$
+5g>\T
+~brh
+.^e&
+5(%d
+7[q7"
+Jh|"
+YP\3
+Rl5|
+[<n~
+i9S6V
+-]h(
+luCk
+n_AT
+AxzVu
+1lcEs
+%6\CS
+~H@*,A2
+Lf[w
+~.rL
+dZ\$
+[=zW
+MO)R
+p~-W
+yf%?
+Of:q
+a0t	Y
+3E:%R%
+tMeF4
+=}OQ
+g[;K|
+(?+o/
+?`E3
+'p=KE
+5Jk]
+SzNe
+::3$Q
+E&%k
+^aSii#
+GCC'
+cz/I
+a0a^
+2;a[_
+zO-'
+]3;3?
+$!AsH
+(D^3
+o#Uq
+Qk	e
+-BN>
+WJQCz
+9+e*
+3/K)
+{v;a
+cF$X
+(GuG
+	~ZE
+sXo&:
+\	tE
+6J0Yr
+(TgJ
+fT@<?^
+rnWA)e
+0'fn
+Z2 e-
+58?M;
+foF5
+] H[
+.(W.N'
+];OW
+=htx
+arwv
+so<Y
+fJ;`
+=v(v
+{OIB
+\gh4
+&;G	
+)33h
+Lg$2
+@qAt
+-G2Z
+.a}.
+l-qZk
+Ea!(
+sR5E
+FKY{{
+/d"W
+2t~s
+M5	6
+;T(y8r
+dcl3
+/9v!g
+j*O0
+nq`Nn
+DY?D"J
+,S,V
+1D+&
+kJWV
+E6 	
+!~;U|
+R;` [Y
+>c^+
+/)H.n~j
+m*z*
+r+ki
+2	a)
+DjS^6
+k~4O
+|O5S
+jzIT
+g2'PTjN
+a"CK
+g9#CEA+s
+7:Hi
+X2Q$
+b!%P
+[H&\
+\c4L
+]Ln'{
+hj'M
+@d~TNic
+wcly
+o&O%
+v/9Ti6&
+?g/<<
+O"<d
+lDnB
+)&vy8
+"`R"
+us:D
+*yPv
+d(UB
+{X{i
+[o 3
+Z1;~
+M&!h
+{]O>
+`ra[
+xJ*`#
+u3_T
+I%4C<
+5ItB
+:%iGX
+m$lp
+E:\0A
+G. ?
+|?GNrXBH$
+Apa\
+(^}7
+KKjys
+30}!
+qJnN
+'e4I?
+xF$'
+e3?$
+<ZhqT
+j(wXQ
+c[/b<!.
+iT_|
+=[(r
+'zPGJ:Y
+&spH
+C,=c
+" ,82
+%b}r
+1X|l.
+ zr%
+@0l>5^
+,?Fs<S
+0k|_
+:&zk
+)?	/f;c
+5@1;
+rcp&|
+uy*@
+"]E[
+]{Fr
+q's4
+L&HF
+q+jO4
+Zt@l~
+\a>US
+;SzvP
+kC]g
+Fe@{
+*KU+J
+"5x3C
+D)r>v
+}^fs
+MP29c
++X vx
+HmIK
+y<!R/J
+Pm;e
+h0DmNk
+TTV:
+L QOM
+_2kR
+(xwf^
+F9Da
+,5h.
+x-cu/
+IJI 8
+lhE5
+NvY?
+7QbwO
+j4=L
+mf}y
+/4'M&
+g"@](M
+/V>Iv
+:}e?
+6[A$v3
+qi83
+I9}t
+Us[5
+-cbqXk
+O<GZ
+-ErM
+Y{`r
+rn&8p
+o?1g
+0wa0
+IGhmgtE
+yq7K|\
+%FB[
+EAtBu
+G#;C-
+/J?O
+pPs?
+8=aj
+.e?m
+4{1g
+y5rA
+XT;M
++^]*@
+Q56L`
+y	DY
+^v%;
+(~/=
+H6'Jw
+))[ 
+fUEY
+Q+Z!
+.<sF
+5sr$
+Y	g+
+:\^v
+uP,;B
+o,tC
+%2|X
+cw	N/
+JuQN;
+tQDu
+NFjv
+M|}X
+tQDu
+NFjv
+M|}X
+tQ4u
+tQ4v
+>^}j
+Q*S*
+C;0,
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ
+^vNQ'
+N$b8
+q`i.
+N7Nr
+[};t
+)#\~jH
+S4a"
+nIO,
+\:[I
+:FB	B
+Z*m/
+;<.u7>
+"2~r
+n`1(E)
+>}h:;q#
+5arh~
+GrY]m
+(n~H
+KF|6
+Y/1i
+n.(#
+!/t:
+%D4/
+}i"D
+|#pL
+g^],
+^1Q9
+H$Z/
+~:od
+4HEj
+G#P%
+H,'h
+{?j4~
+	&TL
+J&i]
+XRC7E
+NdqJ.z
+@lh-
+Y^X_
+'YvR
+"$)-%
+c78M
+r|b6{%
+!|2D+
+J<<n
+[X)z
+m%*s
+69n$
+i\An
+;;UE9
+XZdh'
+XXvR
+	x9)Q
+fJ,R
+T.0?
+K8u=
+$oKZ5
+~Quet%
+Zn(Vj
+|~z/
+MY[vTN %n
+\<A(
+`/+Z
+;4%\f
+o|t:
+[Qa.
+If]:!
+o"'n
+nxN7
+ixo,}
+GJ|'
+|;c'
+F	Yka
+\T	;:
+U69Z_
+8kI(
+4odpu`
+#3$M
+	2>;M
+V>{S
+eCsZ
+I.~[
+Z?*h>`
+{*Ie
+<p;.Q
+4 U~}
+EK aP5'j
+NF\0
+&5X[
+!cNu1q
+>%]9C
+`MR!
+$3xe
+y[0g
+#2tvq
+MjIj
+G5V1
+d#ye_
+pY|Wh
+L,{'RY#
+i]&4
+R@5Z\)2
+,:#C
+$&S"
+UP%7
+;45n
+V})Z
+{e$o=
+RhZPy
+PBsK@p
+>N:,
++4;;
+j98f
+nw_0
+W$6d++(
+3W\Km
+YpY\:
+#E%6
+ch$L
+m+OH
+4z?CO
+TB7!
+mh~j
+Ff0&j
+%niP
+ymoQO}
+[oY5
+6CT=
+:'B-
+4GiY
+5'D=
+0/NB
+4y,&
+k,o}
+FP1(
+!mUBYX	
+GS5'
+he*V}E&P
+FtE$
+yg}H2
+52r%
+Mss'
+#+~w
+cnw"(f
+G]%X"
+v0mn
+dVd=
+y"gVk
+Uh@8
+Y<ugm
+&8@6
+W[ P
+^`:b1
+L)N`
+3u:]
+=>su
+?iFM
+mg5L
+	xfdF
+tVU+o-L
+rJVej
+WPat
+n	!=
+U8f9
+Sy*4
+1d7]
+	i-Fk}
+}n=|!
+Gr+|i
+a0V)
+pK	_
+'$C4S
+k-FW
+(&~"
+ -/{
+eK0/
+;NqaP}b
+o(,p
+3SvA
+4RBx$P2m2:&
+0!v\
+vo0L
+Ebg.
+ds+9
+i/Vk!
+?"Qb
+DvBH
+N{N^
+:@2/
+vub}
+vBeLr\
+x;`QG
+A!EE|
+A.o]K
+16rp
+dm~U$f
+'fPlO
+ctsU
+?Zl'
+&|eb[4UY
+hU	)
+dAjW
+KejH
+CE:|H
+{meD
+9u]y
+7inL
+t$OTXOq
+",]3
+0P)(t
+'Zy_
+7!%t
+{"G`WU
+lp2r
+5DK^
+r_0)
+[s`^c
+MP@v
+^\D|
+@}win
+{`Z;
+/N7@
+Xfnc
+h?	g
+Bw\N
+n}i,
+->iN
+BU{#lBk
+O8G?
+I#VJ
+`6"{, 
+L=>j
+BF'#
+y;,(
+#{ -
+JKW"
+?66T
+"`gy_
+^9,R3K]
+^o)/6
+bD/	D%
+2p~<
+v.p.}V
+mikUYB
+v0t/
+Zo,$
+j(gm
+KC'0
+\J3h%
+z{M'(&m
+h+$u
+|SaB
+\f0G
+?S\:@
+qU/p
+	|N{l['x
+v+[I
+E+_j
+j&py
+]\2z#1
+K(!CB
+]w$7
+Eu+	
+XD2/u
+Xo?q
+n<qE
+tZRTG
+iE{&a
+piAm
+ROvbt[V
+K#eG
+"s9G
+|r06
+%a_!<
+1[RO
+l2Ad
+Wh^|p
+.D=;d2
+KM'5
+#-]q
+z3QK9j
+4_V;1-
+!L9Ax
+	k45n
+>l|1
+, t\
+} nm2
+_i/?
+dRh:
+W2Pd
+]_^z
+txZS+
+7-;{
+b7N{
+CXOB
+Eyda
+NQU%+
+J""2
+pXGSfF
+PNl,
+Ikhs
+ZPPLt[
+3%ad
+L+0O
+DycV
+yfCG
+ccrY
+m+II
+VX\?
+?djd0n,
+^w@_
+L!&M
+{7wRP
+;7Z0
+ 2/)
+	+TO
+"&		
+}NDw
+-edI
+obvi
+^R$3
+kIS6
+2g39
+Fk ]G([c
+@"SaYF
+E0R6H
+y3B}{
+M.xUO
+gP,H
+V<d*:
+*Cn]
+bpj:bA
+*@\,
+BXlY
+Y1oJ
+umDm
+5+h9
+zZ"$
+hd6n
++sS8y
+Sk2O
+	=@~
+G57i"
+zEHL]q
+qd{L
+xNzQG
+yPL6
+?:	;
+8&lL
+$:XK
+-\YB
+$:XK
+-\YB
+$:XK
+-\YB
+$:XK
+-\YB
+$:XK
+-\YB
+$:XK
+-\YB
+$:XK
+-\YB
+$:XK
+-\YB
+$:XK
+-\YB
+$:XK
+-\YB
+$:XK
+-\YB
+$:XK
+-\YB
+$:XK
+-\YB
+$:XK
+-\YB
+$:XK
+-\YB
+$:XK
+-\YB
+$:XK
+-\YB
+$:XK
+-\YB
+$:XK
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+oOky
+]\YB
+T}(K
+D_s9
+yZ#k
+'ElI
+*\<<
+GI.Q
+_BU*
+Xjbx
+[v{']
+kbkAS*
+h xS.
+$]cG
+qmv|'
+GQc;[
+;^02
+MXBw
+Wl-/
+"TuJY*="J
+fJLYq9
+V"?r
+D*]A
+'PT4
+n%ez
+5vox
+(\t%
+(g3!
+Wl5Uz
+bev2
+r{Kd
+oo`x
+	(S|
+&x9Z
+^\i)
+lUg55
+C[F	
+ss-~
+W"y{
+WkP;
+]:1L
+o5PD
+#K>fn
+.zHVP 
+4dtR
+Qz'T
+Tg:\
+=N;s
+q/uO
+=U.{
+7 +- M
+);	@fh6
+r6xU
+$N$KL
+!?^#*NjY
+^	;v
+F|Ok
+,!y*
+B]yo1
+-|^u&
+i 5A
+Ok5M
+-*;Q
+fTus.
+9rv~
+mQh4\^0
+$b~+j
+!"2ejr
+	vX2
+~@Jv
+1_7{
+M'n1
+eT8w=p
+v<j)
+qk=D
+ivpG
+8M`6v&@'
+lDhZZ
+:R#Ew~
+h^6n
+6X^=d
+^C~p9
+;K^$2
+oLX6
+k0p4
+)CQ6
+=v(<
+<()g
+9?{/CT=
+K{eQWR
+7llnGkYP
+?uWi$
+6Q:7
+fGKy6
+tCVn
+!Gs&B
+&}_"
+Miv%
+M8ahQB
+WZ`_%
+Duw2r
+79!F
+Z[WU
+4iHW 
+o7D/
+ 5OL
+x5("|
+Q!K%
+/-C^
+8/OO
+j'_r
+/'ZK
+#u|w
+g{MC
+Oz	g
+-2	v
+*Uu<48B
+.sNx
+D5N_
+c{3F
+|$UFY
+fYfH8
+U>yE:
+yp gF
+]3g}?
+*a]h
+8qGR
+@b<!
+&&ky
+f:sR
+EB{V
+v9uD
+7CN)
+ GM{"
+S-<N
+*"TO
+RW)p
+@BQI.S3
+r4YB
+gEFq
+m,2^t
+7kK(T
+123}
+X_)t
+O2}Yg
++-Y.%
+W*<'yt#
+*7`^
+8h~AL@
+|{t;
+_2!-w
+ {Y$
+o89(
+?$R<&
+t^E%
+gN}j
+d4 %
+M980
+2qIG
+1W7H'
+d$h,
+'UTmU
+@'@aRQ:o
+0hZZ@
+L;$dX
+-](0
+\hcv
+KmUW
+=U hW
+@|Lu
+HJy7
+^9{b
+rU\p
+!wXg
+ag&$
+Z+J`OpUY
+>&a&
+:Ggu
+<F=|Vx
+C	*WJ
+PA?O
+[FKm
+@j"/w
+]kz!
+V8r?
+,OWy
+w%dy
+Jk=?
+_|OM
+*n`O
+,	1e
+5+ x
+,*J!
+p$,{
++U	_
+Zz12
+&R-_
+h@MN
+A#f$R
+N/3c
+%b\S]
+ "(iZf
+Yhc1
+'|XO4
+ {#D
+;[4"
+2H>0
+y=<b
+q?y_
+\MwdJX
+=ke]SIM
+fEZ@.z
+oWQ9
+MT#@o
+0UfHw`
+h NmI
+V5\'
+)~^+
+x'[b
+`tP'
+WTP8
+p-Ll
+a>@CQ
+_f(H
+D $7|}D
+.g;J
+:r=m
+-DiA
+'Tm@
+Qwpv4&,
+=43e
+!~g!c
+0-!e2)IJ
+%)e.
+1PuY
+de$\
+4G]Z@
+^po{;
+rUT}
+mOWgK
+c^;xe
+];!Gv
+s]&Q55
+Y^,8tW
+)7>`~
+*CCaq
+8,4r
+k|D'
+|\e2
+=#=.Y
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+b!Li
+E`k(5
+Ks9y,
+6r\ G
+(b1u:
+;Lk;
+1>	t
+96k_gp
+&IN@
+Zzz6
+&pbf
+fjnY
+P$zxb'
+8 $g
+8CG1
+rA1F
+\aR4
+c0qJ
+ u=>
+_fSP
+[|[b
+f X3
+TCG-d
+X?=K
+PsY^
+I}'j
+!Jj&
+9VRuy[
+Lnkn
+#x-F
+[$L\
+wDW'
+H~>#
+j4ag
+&5(C
+]^0bA
+5saD
+tU{m
+>C'(
+G/d;Y
+P(=J
+Bver
+1;[g
+9L$=
+S-$,
+&uIy=
+8ne@
+:\Fr-
+#kr6
+sR18
+m~M1.!
+s2i`
+b@sZ
+pYkXxZ
+ prR
+M)&Qx
+.A tq
+';Gb/
+Q}OW-
+j3k	^
++N3M
+@?QN
+J^Jrg
+bV0eS
+=u1pD
+5;$1
+rBni
+kos`m'
+,B{	x
++qe%
+k({%
+3d6rA9k`
+\,PUM
+:aKLhC
+[&kx:hX
+Ar?<
+:MoQe
+B\B`"
+\DVvS
+4TQ:gK
+G9'eTr8
+n4uT
+_OP<g
+_Q?Y
+=CJ>g&
+;|dg: 
+gj<=
+s&x1Dg"
+BzRdE?=!
+M:ze
+ffA tcC
+@n|\
+Y?Gj
+fjeV
+MN}H'
+Oc4I
+{aaf
+K5_|
+0w]m
+Hv~wL
+vg9E
+1].#
+fge7K[)
+<EiI
+3L[V
++3K'7
+,A[<
+U[aGu
+4q7z
+zZ5%@b
+_bJU
+PdiC
+b.[l
+KX]u(
+:mQT
+L&eW
+Iodufk
+i3##_+
+	=UO
+Sk?q
+srA60z
+MrLk_W_
+^]e1
+hkB/T
+6eR*
+^{I~.
+z*qP
+fk{>
+]%'R
+?Q\v
+L[l<
+!UJs
+5<5$
+(V,/E
+Lv$?
+0xkK"
+^XQ\
+1Oj(C
+4" 9+
+S^SgN
+'\Ie
+dAjOtO
+S]E0
+2/;}
+	G"|U
+QW!u$q
+T@[hdK
+W4P*V
+$K~u#
+S,}LI
+Z?=8
+(u-`
+	_$i\
+(`I`
+S) " 
+_I)l
+L"c<
+$Paj
+#/p?
+SrgS
+u#xx
+{v-$Y
+G9rb
+3:mY{E
+sN@z
+G1.wa
+f3ag 
+QM!yRd
+sDmi}
+Ls<}+%
+h.HJ5
+[e_P
+K=9>
+yfwO
+0j1C
+$pn3
+Y8HEc5
+uH:]
+EG2Byf
+Z!9>
+Oo5x]
+n	co
+so7n
+j`%X
+ 8y(m
+ 1B_|
+0,u&
+>z}I,
+SiB*
+Jdod
+ <<1_
+7NDP.
+'D)!
+u?kN
+F!xs
+qfbE
+}2'sQX
+C?8 
+lLM*p
+gJGV
+jZ /
+=?[-l
+irf,gg
+S^@d
+yODM
+iz!pJ4{
+{d3I
+hf%P
+972jY(
+&r<l
+iOlx
+dlBcs
+XF+"d
+c4vA
+RJd1
+CmXP$.
+B0at
+Djgz#
+AQP2
+u2)'
+j_4D
+VKSQ
+%bM6-
+q p-
+lN47
+y$|D
+#Z.>
+4|Bk
+M<&l
+pV_xJv@_+T&
+o4L=
+&6n2
+5-qJR
+?#bE
+2:WC
+c:@7
+ll]4
+pGfL
+MQ0j
+GN:,_
+9h>m
+EjJP
+E[}-
+Snc*
+Z-%y
+JVHk
+\Zub
+c)Na
+)"dQH
+q7T]
+G{LF
+~+>`
+)}=K
+tliB
+zZW$r
+dae#
+XH-Pd
+wGvp
+MYVT
+mD)d
+#1bvhJi
+6;~'
+@p0`9}
+6x@T]
+\DAQ
+.WzA
+fE=m
+)M<:
+TNF{
+9hB}2yq0
+8 j)
+J*_*
+dZr2
+D9=^
+M/*#hc
+o"An
+`6Ci
+{PYBK
+kosz
+`'c=
+Z;,6%
+k`[F1
+qSAu1
+SWS6
+Gv<M
+_{{h
+	&Ff
+uGP5
+L~Ea
+ljv,
+&+,X
+"To5
+?8p}H
+-q=^
+myL!<
+U*_ 
+s8-n
+shh>
+[x$!
+l:m}
+b<Rw
+S.4@
+brE1
+qU7/
+(pfck83
+XuK=\V
+<Nm!
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+[w&S*s
+Kw$J
+B_$B
+[?t6
+BOBw
+:=J{e
+]QwA
+@chG
+vy8k)
+|Fthy@
+@&2ZDE
+k a0
+tjP7
+ioz{NV
+?V6{
+|`A:
+	XWI
+*ci|l
++P`6
+``4%
+38wm
+3/sx
+JL=%E
+F:#	
+Z9Ee
+`juh
+Qdd$
+_	h~
+>.n?Z
+x-i$
+ZR$N^
+!;]V
+@Xvr"h
+vGi]
+0t7K
+uyYh&
+g~z|J
+}} _3
+%V_+
+|9@V
+]HMx@fA
+j2{JSA
+1{6k=
+=-=,
+`o_w
+N?}BAu
+ms[^
+e^t&
+41JW
+9H]>
+haT5
+K>gB
+KZDk!X
+&A6_)#
+k85ZG
+nD2j
+[oxwg
+cewC
+[<R!A
+Q*$ 
+k``%
+gIzW
+J36h
+2=9w
+;j9s
++90@Y
+y+taL
+)xpW
+F`'3B
+N7=zsCe
+j	s&F
+GMfU
+qx{"^
+'-Scz
+qMQ# 
+f[pRA
+YFU2
+u?$Zo
+r)A&
+k0+i
+@SHt
+[}sN
+EE*!?
+uauV
+qV\m
+X'`p
+hs7}
+%XdQ
+NT:_#
+u5@ef
+Zn*;
+"1,;u
+B6KJf
+0WA'
+(8}Es&
+at1k
+SQ8B
+2HH*on
+WX49W
+BPc0$
+	x=~~
+RGLq
+zuwPuL
+LGXfD
+nj#b
+X%nnLAL
+Giks
+phoW
+=pD^*
++k"Q
+W.Z{
+Z;uK;
+e)Di
+F\EM
+	O2x1
+tG=%
+%nkF
+s0>=_
+C.C].
+vr  s
+e=Z90U
+heC:
+PP@X
+<'|7
+\3`z#
+AT^H
+$b2 
+OD(U
+&	7!
+AR8Gv
+vFVR
+	.GX
+:[Y	
+sVTc
+y,$V4
+y,$V4
+y,$V4
+y,$V4
+y,$V4
+y,$V4
+y,$V4
+y,$V4
+y<4B
+9EOAIw
+WSWV
+!n9O
+TR	n
+6qcb
+xd2*^wW
+gMbf
+Uu.&
+3Nz[
+OX<X
+6.m;
+h'KlI
+ws`n
+ ?tl	>
+Xm8O
+o4zH
+ql`v
+A<[|
+B|$5
+pGu=
+YZ?V
+Wp,Zf?F
+xq`R4
+haL%
+9OO#S
+.u88`
+Znj@b
+1QB8R
+Z dx
+`iMw;
+K(KR\
+GL'jm
+(=?U'
+5	)q#h=[:i
+,@muE
+Zaj0
+MZ.Z`
+R^^q7
+\EB9
+!GZ.}|
+?{y!
+|==$k
+j#Lw
+#Gf,
+`,{e
+9yUHf1
+k^AG
+[\Er
+0tBQ	Nb
+~y",3
+J=b+
+W3>[
+0bAJ
+IS;=@
+Lz=C
+d)]2
+O,~k=wQ
+N-i$
+Pv$9
+cR>b$
+cafw!K
+}f""iO
+KYfu
+c`6]
+1E"?p6
+f]H	
+]1*"
++7rVs
+|MIZ
+:hT\7
+<pZ/
+C}Yf3
+W{N0
+Xpyd
+cBtY?
+#{t*W
+%o?F
+? -[
+*]e8
+]Brx
+2HLb
+KXr1l
+p D)GP
+q7AK
+{PQK
+M|u4
+L~zN
+w~]H
+qQko
+VCN]
+%E4o
+^Z;.F
+l(hM
+4}$[
+g(FU
+X\](
+S$:8
+`~n`
+:~;(+
+j`.u:*j
+2U;i
+d`fl
+Y~J{m
+:&:f
+cb a
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+dIQz
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+j?_{
+BVrc6
+EIsR$m
+HgF9O
+)f|7t<
+GN]id/j
+'f'|
+|Dw@O
+Mu,Z0X
+L$0J
+Va1v
+Bq?-fPO:
+npJ1
+aAi)
+ msi
+7$/,N
+Rs	Y
+2"|a
+rIPU
+_"1&I
++P;i
+w0@br
+A"?:
+-yS1
+j5I.v
+`FK/Q
+pT#X
+m3qV
+l1Md
+)v\\i
+|g-.
+=$-K
+{s(.
+~V~>
+J3U@5
+zMq+x&
+s<"J
+7Pc-E
+"	~ 
+2d;/
+1hK9&}
+	G}k
+=`cQ
+WB>bf<
+}[ki	b|
+Y+ud
+/,vf
+",%t
+{IX0
+vFSm
+-Qy@
+LuY?
+$TL?
+/0'r
+"jKn
+9Er\
+tc2A
+uwX1
+`L#p
+P&Jv
+E!sr
+b<\F
+rX=x
+E[[	yH
+ B@?
+Toq\
+UB}N
+MAW%
+0jLp
+ysE6
+ok".
+!DN_u/
+ac"i*
+wq?x4$
+|#HK
+Og"x"
+_\G+H
+8Cjg
+?f(9@
+KD8d
+D+sv[
+I};fyZ
+VCX6
+-`6P
+ZN`M
+ffY|<
+v/?G
+|[N?
+bQ!t
+$!UV4
+Z<,P
+AMPN
+Ni's
+Y>7mYa
+&UH1
+~EI0
+}peXjJ=
+>\@M
+>W#+
+cDZ!Nh
+6o}R
+%c&6I
+i o/`
+4qkm
+~"$m%
+]4eD
+.$]U
+qMB&
+f>Mv
+$v>vN
+.dq/{
+g9v*)O
+A}H2
+2A@g
+m,ReZ
+BQ"Ya
+i<2ql
+QVCt
+}L{0!
+%I.?
+*FO%
+CtV4
+7f_;
+v,cen
+[Yn;
+LdT>
+	T<y
+2X@a
+*+'L
+'F;L
+SfOG
+Lga|T
+QJ!1
+@?;|
+~	{?
+Xf.(9
+1#	dl
+9"]E8
+W#f]
+y+r.$
+ViQ/
+:iL8V
+;lt6RM
+	1/a
+ q|_
+wmu+
+N	!C
+&@Ig
+]{U"
+?@4-
+^+d3
+/md;M
+smZ(
++VC%
+CpX2
+u'n 
+U7Kc"
+ur0W
+? @3
+ANwe
+5<O(
+;E?]
+dDKb
+JVVEJ]
+	>;_
+]	d@
+#riyN*
+Pbm w
+[N`~
+Um)Q2
+`m">
+O/Db*
+$QY]
+FF3)":
+rH:;
+(gl|
+k3]`Z
+'1p0
+;8KB
+sa]S
+AT#,Z
+g@~b
+/PW4
+	6t}
+@.61
+di}:]
+!Y'5@
+Gh&<
+vq1{
+4>@K
+$b"e
+R]r;V
+?JEnw
+@:6j
+I`C7
+@6]:o
+z/bc(@
+F ;c
+>0't
+[- ]
+!WR&	k
+As~{^
+QXxi
+Wvys{4n
+wyG4
+GrBN
+k|',	
+-,wj
+bmvN
+MK>ah
+K"NI
+HZl.t!0
+|v;6
+v7Rn
+7	9.
+Nz3ek\
+b,)6
+V`\L
+iA1n
+K{(!
+xIhhkA
+xL@~w
+9qh$
+Tb715x
+&I&2
+hn.x
+E=!V
+u,|$
+ 5!f
+I^[0
+""~g
+s~Aj
+]US4
+3OEt
+?+hd[
+gl&F	
+Zvd?
+Qm(.
+`LH~
+?`)1
+MR+M>%
+]EFa
+YN&'
+^'Xn@
+T	Y<~k
+.Exkm1
+KXM(
+idR9[
+a:((
+tfAc
+aP(H f
+05e_
+$)qN%
+cvjh
+XUI3
+mrmUgK
+;~-w
+Xb]D
+s2,[
+[\tT
+jEiG
+:*KZbJ
+|F<E)U
+(q<tS
+Jej:
+h,]$
+9T5't
+AT~N
+:Q}6
+ve-nr
+n)4}l
+OQA-/
+<0Mz
+&\*O
+wRpo
+K(MS
+q?#9#?Eg<
+Z2@#
+Ey_vq
+mt%^
+=]ON
+%T<'
+eN.bjI
+~eZ`
+ PoF%l=2
+Wz>K
+P#).
+-++q
+hQWH
+%,PRS
+exwwg
+h@yk
+k2+g1
+	4'Ve
+tY9<8bg
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+xyigb
+nkp`
+v}k\@B
+9C% "G
+rXAv
+A.;a
+5o]K
+e\\%>
+@)sK
+pSD<
+<& W}\`
+N[o!I
+GUg]
+b*6V
+t's!
+hGb<
+1crO
+k*)$
+aPk[
+]`Ng
+^Dxw
+[IHk3NL
+~6y~
+D,Er
+{J%m
+Q?QP*v
+k$tC)_=
+5eI?E
+pl#6z
+?Vx1M8T#S
+(h!D
+@plm
+lPLN
+v&[t
+U8_l
+M<1{
+|BC 
+/	/nI
+=;@,
+X9Uy
+v[eY
+]Kbg
+rlwo}
+*IB&
+dC>8T
+zC7X
+b	/\$6h
+,'O-C<6)Q
+1!4B
+:M$z
+*-$AF
+q24j
+o&R3
+G.oA
+q&\B
+F_Xnm
+R@kG
+2(8D
+^r]EB
+pUzi
+#!q7:
+';LVYU
+vB3,
+d0~f
+&Vbm
+.*>pp
+tg3	
+8Om2
+`4F`
+f0,f
+lm0L
+p%k?
+)g;	
+W3;<Ob
+*p}n9_
+08`=4
+$#pp
+	47"
+?W4b
+}vH9
+eAJ 
+SBz8
+Z7u=
+%pkMr#
+^0e)b
+gEN"
+Uf|(=<z8
+EMbTM:
+W	(9
+:wW\g3(
+ddYq
+^bU)I-
+-/>*
+7QRO'TiB
+f>$z)
+v\0"
+6t[>@
+'/6G
+1Wc&F
+|g	V
+}.KG
+`	-E
+dYNO
+#$k[j	
+~LAQ
+>yB@3
+nJHM
+t=/*
+3}5^
+1Dg/z
+z$X?=`
+R(~ 8
+1Wz%
+K26-Y
+;?bxE
+;AO-
+VVNg
+vtY[
+Kg8v
+9,M_s
+UK|fQ>
+0Vw@
+L5CZ
+mMJ7
+j(PY
+W!4*?
+i^MF
+~{e9
+#$A|E
+"xq0
+8x&/
+4L{t
+*%d)
+ovX":
+-v|e
+[(9)pz]
+N%(}g
+T>e4;
+y)C6
+a$ix
+Zp{$
+L5b#l
+uvJc
+FI+yo
+XC,x
+3wW]
+wl#F
+rhGATb6
+ab9bN3
+@cn3$34
+I^Ph
+l?nU
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+[PVw
+jm*?
+1,nx
+F%:^
+dSbN
+r{#.
+8_X#
+rKw:
+w:Vu#
+*HnT\
+(BD]
+os.U
+^&}8
+!}~iq
+<E5n
+eJ,z&a
+[Sqf
+`p\fU
+u[g~u
+1EAE^Q
+Wr,d7=
+2(s8
+L $d
+PcT1
+#}s\$E
+CZ@uu
+;Q'|H
+,}N7L
+1I='
+d>7k=
+e@ISo
+PmtNr
+TlJ!
+W+TB
+!<n?(
+9;$Y
+V#yo
+?Q=B
+fU4"
+;O~o!l
+l!u(
+}-qsL?
+me{ 7
+	Hr{
+HRYw
+b?]U8fae
+)00Bj
+82HR
+xars
+VjSQ
+096FL
+"nWG4?xX
+^t%inn
+OthU
+U.9x{
+ D,m
+ plIe
+c) 2)
+(F~IZR C
+%IkHX
+01Cj
+M2*y
+ )L2%
+T3\v
+[y9ua
+lM":2
+m{jL}w
+5~-x
+<i6u
+<P9oy
+@II{%
+Q#7>
+-1$W
+%9)P
+	Dr|W
+}N]/
+-,706
+0y+Y
+bQ^m
+Y?f[
+~5z 
+U/{%=
+hQTx
+,wHHMu
++8g[_4
+cS(8Ok*
+CWP5
+F=*q
+o+PR
+n10[
+ -+I@;d\
+TIbM\
+3nVB
+~{aa
+dX^"
+!&voJc
+u@6u-
+={p41
++[.<v
+)GM	w
+FFVD
+ybq.
+BE0J
+m/JH
+Lk8X5
+|$YiQv
+&O/	
+2>;/
+?SLN
+	S}~
+\"6AcA
+:0tW2
+Owa'
+lS{x
+"<2(
+XJ:=
+vh$v9
+2qi7
+oX	T
+(;za
+}>6u
+O!Vj
+i#]P
+o1f1
+[$qs
+g<]_	
+A+I"
+hoU"
+BzU<
+U;|M
+N*'|
+! +V
+ZTY&
+R21E/
+}	i&
+@BVV
+fzm?
+(!p.
+1xi+
+,Bm[X
+:]$&
+w%c0
+4Qj!
+2|tE
+]1_/
+[@`M
+N50y
+3>Yw
+j%['
+]?l(
+f*4T
+AD-R
+Wm @nC
+.*hv 
+VBM"
+UhBp
+0b/kl
+b(wqQV
+y2B:
+'l4'
++!ys
+trXF
+Z.aIJB:
+`*z6TN
+{jG	
+VC<S
+mv+$1
+.#&~[
+/w'*
+.#&~[
+/w'*
+.#&~[
+/w'*
+.#&~[
+/w'*
+.#&~[
+/w'*
+.#&~[
+/w'*
+.#&~[
+/w'*
+I6WE
+FE!8
+"|-V
+D5/!H
+K|Q&.
+%INj
+*|GQ>Ipp
+	DYt
+0E4O 
+:)sn
+IWS1]
+l''G
+?7ON
+UI4<
+R:?l
+Wg3wfu:
+cvpya
+3596
+pM@a)2
+Pzy90
+ARDF}
+NZ90
+%a{$
+ht:jB
+}6e	Ag8
+$|mx
+qUF|l<
+72XK
+DoF/
+I-\{
+[T0F4
+O>U}VP
+SkV1	
+[Nqa
+qohE
+F,.x
+{BF.
+oaWl
+9Cl`y
+XX$1
+-IC4
+l*VV
+@y2-
+fzU\
+4j'L
+UFHZ
+1Pd"
+>lNK
+r7l;
+YX)N
+LwdN
+i!!x
+Ar3p4+
+E_QL
+}"ht'[
+bU!o
+)F *+
+A[c&
+6/xR
+75p6
+~-&E
+f@#i
+m#Wt
+Tz^O
+swSC
+!R9$
+^I+eJ0
+x8(&
+vIao
+PF6_,
+`-?S{
+;Y|U
+HFQJ
+[qgV
+xSCs\*
+=07`iF
+v]y`S
+m$WV
+:Hi7
+,TZ<
+s	V+
+`<pd
+SV;Q
+,&r>
+^u/)
+4aSu
+.]EI
+(o,V7r
+;6uuA#<
+5=t	
+s~(O
+2u"Y+
+$; =s
+:=i={
+{";_
+`Ys"
+jgYs"
+jgYs"
+jgYs"
+jgYs"
+jgYs"
+jgYs"
+jgYs"
+jgYs"
+kVFJ,l
+=G>Dx{BB
+8v={vAs~c~N
+,YvL3
+)]Gd
+O~KG
+j`O$
+B<%J
+}IML0
+lE#Y
+`7S;i
+wg0pg
+\=o-
+;pq#
+C+} Yq
+!mikBz
+CeJB
+s/DW
+d6=t
+4Zh+
+F<7.
+*?~=6
+45y~$
+-{sv
+-<CX
+]aYcp
+bkT+
+OR"m/
+1EP~Wm
+C!9 
+c22>
+`3E?j},
+c)Un	,b[BH
+Q	tkDk
+E*\%r
+qsHzN{
+6Y}1
+7y%8
+`>yL(
+K8(xvfQ
+E8V*
+]C|hF:
+PXsN
+`um#
+D\_c>2
+R$9E
+7XF)
+CM!?{
+][z)
+7SeI
+wR(l
+.yFc
+	L$M
+BC[bS
+"Qji
+q<6n
+Y>MPb
+d~wfN2CX
+NZ0f
+dV|Fr
+5_f]:
+HoN%
+_WiCX
+_}H~mv
+i\!(
+(mc-S3
+t$"`
+5I,'jc7C_
+*n6k
+RhB*
+aD#9
+/2W=}
+{n`h
+v$Kh><
+/<5F
+3+[6F8
+>zCH2
+4\\A8
+-i47
+=aqH
+E;#<
+U}Tsr,
+)om1
+;z,><Y 
+gTWt
+@m9Zbg4s	
+q$ZH
+E7t8
+'*j>wy
+4_(t
+[m=^q
+_BA(
+8pqt
+b/:k%
+f.MWZ
+?O;,M
+-?92
+T4Y_c
+ ^b~
+1LAX<Q
+XIl_
+ *ho
+m9.e
+QQH9
+PpI9(	
+I?sW
+,@GN
+Deucw
+*7z2
+An3T
+ECpz
+&~<B\
+uP[)v
+M*s>0
+NP,2
+rsYrAR
+W)#}
+ICf9K.
+E?	f
+Y}8,L	
+~3-X
+0xr>{
++<*`
+o<Pab
+eEs*Wd$
+&PUE
+S45Q]
+W4pC
+>=wOJ_(
+^r D
+g\/*[
+ae5f
+Y1JV
+Q+PBIxv
+$e^em
+go9N
+}%U*
+X/_{
+&FK#
+T,=h+	A
+{Yu{a
+^@lM
+xWG1
+Y'[[
+4~rkr
+\+EB
+PKc/
+~pkr
+\+EB
+PKc/
+~pkr
+\+EB
+PKc/
+~pkr
+\+EB
+PKc/
+~pkr
+\+EB
+PKc/
+~pkr
+\+EB
+PKc/
+~pkr
+\+EB
+PKc/
+~pkr
+\+EB
+PKc/
+~pkr
+\+EB
+PKc/
+~pkr
+\+EB
+PKc/
+~pkr
+\+EB
+PKc/
+~pkr
+\+EB
+S:qj
+{9zN
+a	_iY
+*ET\3
+4d+z
+ESp'LQ
+,_lJ}
+mgZgFg
+L2m	
+w=L-
+gt1E
+VnT 
+N&D]=
+0c?o
+umQM
+eI&x
+c~!I
+=>&i
+0[>L
+'~,N_
+~btNq
+Jj&;p
+_on2
+V)F_
+ABQx
+rqJ1
+W4k?
+[&w	
+)o^0o
+_epS
+a0AX
+E2q%F
+}@8sqL
+0Tj*
+,Dwj
+Ap={-
+rs5\t^
+eI?b
+!<3B
+#X?a
+`BpB
+VrZ>J8
+iTkbttM
+!(kO
+!{m)Ep{
+heE,
+5vzV1
+0AUG
+uAKI
+ibi+
+ck,909(
+_XhK:
+ukY3
+Jf-'
+ ;<6S
+By,dh
+?S.Y:
+Sqha]
+6C}+c
+"HqF	
+ERaS
+|8[p0}P#
+~lQQGXr;
+jLVv
+zW/ N
+9=sM
+i("|
+WYt 
+"`c:
+f . D
+m4u;
+<Wj]
+6$~F
+wu2U8
+'{C=
+8c~5
+>HtB
+5	W3
+V+v>\
+;/EX*
+yrjl
+KNJ#
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+5NeJ
+sWel
+AuWW
+sWel
+AuWW
+F1aR
+NzXX
+-I>o
+6<k+
+:%*/ezi
+wLkxhf
+;!2Q
+s6MT
+bh/P
+jd^u;
+$Ey$z&
+xgJ:
+wRY(
+j;&.
+US1M
+@3 <^!
+Z	wO
+5xV&
+NRL^O
+pSxH}
+9~hQ
+n!KC
+2 CK0W
+XNtH>
+Uf$NX
+e~/[`
+WY}aJ
+a2v9
+Imid
+_{W`
+c7:jS
+srTb@N
+u[Pz9u
+T%}k
+[FAo
+Q$e:b
+g,y?
+(n[.
+7b78
+Wqrp
+wUw:)Uz
+AZ?I
+#JzyL
+{5uJ
+E}41
+*qZn
+}CC5
+7F7O\
+m!El-Mf
+?lA'
+Sg.q
+A%f$
+&550}
+@U"EA
++=#;O
+2kWv
+k$h7
+-;t1
+G0> 
+gX /
+& >J
++I"E`
+Rz3b
+s;Q8
+lnB6I
+(SQS
+<dCA9
+:1Oe
+uc(d
+cZx\
+Hme6l2
+*U!2
+L*r>dz
+w?U=/
+e.fv
+\)b?`
+mKsA
+6AN"
+h:y[:0E
+Ryxm
+ijj&xK
+`)^+|2
+blK]
+./xl
+W=05
+=!|\b\
+mS3bW
+~B4KF
+4>|*
+Dp0W&t
+C4'V
+Pmt *
+5]+9
+wu$$&v	k
+U?mN
+o@-~
+8h=b
+oi})@7I0
+B%y{F
+owC[
+TppVqG^[M
+JMcPo
+;2&D
+tFnW8
+SwrY&&
+ZG<x
+G!^D
+.Y#Ld
+!SXI$
+]#02}
+TOU%
+Dk66au
+]CEr
+7eo!
+7d=A
+~u	k
+:Hq-
+e;%6Sk
+}VHPLy
+L< VC
+*d9`
+YY`r@
+`k{f
+RoXg
+mEAh
+pk:3
+:	Pk
+/1)-
+T#jo
+Gyx[
+hi:b
+n\Ma
+4H9[Y
+QL(/=L
+: /S
+XG#d`
+IQOG4
+ikr7`
+)	iF
+u{In
+PUAD>J
+zFEQ
+*Q3L+.B
+-p@M
+qx'XC*I`
+NLubX
+NE'G
+$>Sb!
+w^>N
+&'pv
+!nj<
+Txf m
+S=*x
+2{[)w
+pR]Y
+==x8 
+&gY #(a
+S}J|
+py+ysI_O
+tt-v,
+=7^5
+*F(S
+EPIBz;
+e);Q
+zGRY
+?KFq
+3/w5u
+/vlV
+~1dG
+vvw]
+-`rm
+T;*0
+'d$a
+wI@K
+'EXZg
+G*& g
+]cja=V2
+z%i$2
+"KT\{
+Z%*B
+wpD!e
+dT41
+prE>
+@7+4*
+[z=moU
+lUmv
+Jv$M
+Q#T]?<j
+e1B<
+\d6s
+J$1if
+_V'N
+0n})
+:	;KTT@
+^	;hE
+:oZu4
+|ZFg*v}w
+Ig^:g|N
+FobOZ
+H~9ne
+{*<e
+*UQant
+buj#
+$g@O
+X*LPj&
+<m1TUd
+Ou+c
+_5cb
+$1~oR
+enBM
+D~!\t9
+70,,
+#$*	
+( )j
+3o@q
+'Nfw
+<;5Pq
+wtK;
+Jo) %
+1S=6
+}qyj
+Opo~
+SqVs
+N*L|`H
+j}I7
+,BMS
+LRCA
+OYI=
+qc"s
+0>:pMZo
+k4ky>
+5u4U
+j8#0
+K:)J
+`b_3
+E@9>
+YAG '
+YNI;
+&,>[5jXI
+OQ(o
+	h/z
+b7J#
+v'Zd
+G#Av
+J}+5
+je?i/
+)rr1
+ 'Wy
+]aalC\(
+#l-^r
+s{pPVo
+?10@
+EL6ht
+<?|rDv
+_iqf
+$ x8x
+CzZ=
+Q)jK
+y,PM
+`t=K,
+B3Tr
+o%0&
+Ko:s
+nXs>8kpc
+nxV8
+6hVgH
+|m%"
+V*H5
+5?]S
+'9G@
+Bf\t
+	>A7
+R#o.&
+amCa9
+!4f.
+t?Ol)B
+)v/P
++lkb
+\R\v
+ErX=
+eA,5so
+ZGsv
+sw{?
+_?;d
+\B@Z
+zK1a
+~Nv[P=
+vv''
+C@|y
+rW2~4
+UsDK
+0tqi
+e4C1
+LI?s
+14wr8ZK
+Rz0A
+s@8+
+$.r&
+:[p3
+7j[|
+z- }
+u&S%Z
+%TE,"1
+Yz<Sm[
+	ZmZ
+M>7T
+3cH&
+cHl]
+YEX $A
+v%~3
+.T*dS
+$s,nh
+!stQ
+G\GUz
+`\nl
+vQU0G	{vG
+U.qU
+[Z3xO
+fHTDy
+B4Ql
+e:AM&
+V,1T
+Uk`a
+NF<s
+GCrz
+7%f$
+Pej?
+?j~#
+q<T.
+3*s^[
+)Y+W
+%DB/
+;<,fb\
+2h=r
+U_,o
+|`f=
+h,d_
+]=X4
+-L'.,
+#Nf*
+jm7Rx
+mcf\
+fnUa
+7Go;Xp
+6>Jh
+%YV<|
+!.a>;
+R`v#
+D7I7
+Y$J%
+10[)(2L
+=D=sg.Q
+<~adG3
+M<	m
+oM-@H
+[n&]
+@TkT
+v.l`
+-CcG
+};	Z
+<8t~
+(H%J
+m:ig%
+:1]i
+L`V"1h@
+95zR
+j=cX
+I)*<-
+ng/!L
+ a^Yi
+!0w-
+D7|v
+2nMv
+n!nC@
+LGz"u7~
+&$%0
+%*c[
+C'hc8
+{&JT
+Q)JR
+A{Ljf
+ NDpC
+~lJN
+gK3}
+I.6n
+T=<'
+<N*V
+sy`	p~c
+L?$KD
+n- <
+AozO.
+EDp~
+^B0#
+Z57n^(h
+c8#N
+R[U&
+]<o@
+mOGp
+8E<+
+5B1La
+9E<I
+(zeE
+%,-S
+)\Tn
+ldsL
+j7dE
+k8OT
+FiTJ0
+Y*:[j%
++;	a
+tE2A
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+e[f@
+8lR3
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+LV8[
+	0vE
+&6N[!*N
+W[QByV
+m}P~V
+nx	n
+,y9r^Tp
+K2 !O
+L8f6
+2d1N
+C kT
+m?fL
+n6kyVb
+N7CP
+Hn""1)
+w9(cu
+H-4|p
+dMu<`
+r]Ly~
+DvmI
+gkEo
+2(#K
+|Ybj
+Jj;r
+T Y;
+9-~T
+Iu!sN&
+:!:q5
+j~8An
+DIv_
+4bmd
+yQ]U
+VROJ
+5:}	
+/gm]9
+V=";l
+7u2K
+b5L!
+#7'C
+B0RM
+xa0d
++'Zn
+y_cx$
+B6)m
+[Ff9%
+-yh'
+ov)E
+[T2H
+qOZI'
+l<G{H
+F<E9G6
+;)|]
+R>|F
+/`\(
+<Q=P
+fH]d
+IM*Qj
+z8(]
+g/%q
+@4LM
+%9tq
+wZjy
+W$/rDD
+WB}9<>
+,	G!
+T|vYU
+T7!6
+|4$1YC
+Q=-X
+0NU.v
+DrI\
+F2"_ 
+43[I
+OOsA
+9 9Z=
+F(Tm
+(eCO
+;l`Z0
+Hei-
+D'(4
+[r^%
+Ix=O
+w"0B#k\n
+ASxR
+B#]E
+*`Ue
+MYRVF
+o-qX
+F2$yl
+ _9_K
+SeQ9
+W$z[
+C}Z-
+$Gw_^
+wQ0j
+;hz$
+v6U<
+r ^Rp2
+D<r-
+jF7r
+NNsM
+h3@%T+A
+!f2(
+W|{z}M
+\ S{
+}<$<
++a3\
+8qU)LX
+wcc:
+W]`R"
+x`*7
+p-|8.
+/:Luv&
+QX,W
+j+z)
+pSZ\
+S bZ0
+I#(s
+8y{h
+1Uz?
+wNI#
+6yhu
+=EP<
+-[$y])
+MeAYQ
+W{{,
+ns	R
+ %dW
+^1Ze
+ Xd 
+3RFi
+`aIo
+y<x~
+,lak
+G*a9
+POOJ
+Z[?;jl
+t^QV
+uR;Cu
+<4vB+
+SG9(
+IbO5
+rl8(
+Kt9J'
+{j[rCi
+j$4V
+Q||K
+zLeQ&S
+6\ d
+dv?_[<
+a^cn
+?`8ng
+@<mkh
+{I9u
+-%o9Em
+F43C
+5aA/PA
+<c!Pc
+ht2D<G
+DWZB
+\Wju
+"=}d
+m1	{j
+A(R8
+dd~Q;
+jBMP:
+.Adi
+4{>b
+c(hOQ3a81
+T@!p
+)1bq
+P-J(
+q,rt
+n]}ExS
+wC`3
+wZ+o
+K$t3K
+Aqd2
+iVmB
+_`'Ln
+fFiF
+&e6:
+<'3J
+_:D(
+4cF.z+!0
+R*ed
+Jj0%
+XQb'
+zPsX
+sH0S#
+0Vszl
+YJSDa<
+1&'wD
+;SGN
+\9AXe
+dF&f
+/rrW
+ Q-Ap01
+$5eo
+84tz9
+Z}D9\
+xd;A;
+WdY(0j
+7N12
+@OC\
+{^C$"
+(7/1c
+QBD`
+fbx*
+h!H 
+/qT0r
+-+-d
+M\"!
+9F,9
+C;RJa
+d5Fx
+CZ[*
+InC[
+TKwH
+t,5>w
+$ N:
+i#qYD(U
+m0rO
+K)OG
+?+;ASs
+}<EY
+WZiVz
+z!	2*
+\?d	
+n3=J
+>5lK
+cOVq
+ /m?
+4eW,
+hs1*
+47$=il>
+g+[WZ
+cbV85,
+l98g
+v'H!
+>n e
++UQc
+aZt5
+;K#m
+ZVZ*GEg
+;@W"
+bH=O#
+9Rqnp
+?!&;
+3KsY
+@-k^
+HX->
+<&tf
+'v/C
+=v{F!%
+bR]8
+848X
+x*wz
+xLYD
+fYPGu
+CVks/
+j'Pc-C
+oZ!Rq
+wlut
+n_"E
+t,fh
+\h).'
+IisvU
+&oN?
+_BIdp.
+n6L]
+-(b'
+^JTe	
+$8Bw
+cu=VM
+&A2<
+	V1l8
+G(eC
+9hJ|A
+46;t
+(O88
+m"]K
+X!A(Q
+l/3~
+i~gollo
+=gT")
+2ue`
+<LvJ
+,F7s
+w8H.q
+!v^F
+_cgb
+E2h)
+b~6^
+wAdm#
+*VL.
+npd(
+	HHP
+~I"ah
+y<3R
+8R;{
+NBCDz4#
+RLji
+I?%M
+tpu^X
+*mQ\
+m<qW:o
+=_ub
+BZ605.';$
+^YA,
+~|2_<
+ m]%
+dyi1
+Z9VatQ
+/~#T
+ [u<V
+Z#1K
+M;_*
+x"+C
+_n	I:A
+VFE7H
+O:@|u
+8a\B
+5"}@
+J>j6KG
+@a%I
+<Qy0K)~
+_^	%
+9}4P}
+HjP%
+Pl9H
+N`B#S	
+!a6G"g
+[M"JBw
+"1UwE
+Z'%8
+, BpY<
+m=buR
+sy\W~
+TZ	s5b
+ZA[^
+WM{9P'
+j9X(
+X(O8
+Z'ig
+7YOM
+.N$a
+&[/#~w
+[(D:
+$m]/
+Ep$@
+m\Yk1k
+{a4U
+Vc=FN
+{/	Is
+\4hr
+CHDDi
+)hp{
+d@5;
+7'G-
+3wZZ
+:UD[
+|MTEW
+!^rN
+]7~\N
+t#(}1
+1T(2c
+nlV#
+sO1m
+7(gbE
+xO9vuQ
+F|pu
+"Uzy<
+HI+FK
+00gJ
+l1}I
+G#jW'N8
+CUURj=
+wEn#
+c7"VW3
+.2m&T
+%|A/f9
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+=[f$b
+:}Q3
+cJh-
+A`4%
+=#ju$
+:QuS
+8ZnT
+|ZNs
+:Wu_
+:ylv
+;Ww_
+:ylv
+#I D
+7W{_
+*>|O
+#I F
+7u{}
+*>|O
+rtA]
+#I,F
+7u{}
+h?|O
+twbD
+6,Z\
+Y%V]
+sdre
+VA_H
+%VA_H
+VA_H
+%VA_H
+VA_H
+%VA_H
+VA_H
+%VA_H
+VA_H
+%VA_H
+VA_H
+t>|/
+kZj1
+)dQZC
+VmW-J
+_kZ L
+YU73'
+g<7p
+>:P\
+V'$\
+>-UZ
+V'$\
+EIi"
+22LD
+EM;;3
+j&_Wi
+xg)V
+Q^n5
+z _Wg
+XRv<
+7lnG)Y
+yx&#
+wc6Lf
+RF(s
+BPpJ
+CRtC
+*3}O
+YY':
+j#vnF
+M>)~
+J	8C-
+J	8C-
+J	8C-
+J	8C-
+J	8C-
+J	8C-
+J	8C-
+J	8C-
+system
+partition-size:
+partition-type:
+ext4
+userdata
+partition-size:
+partition-type:
+ext4
+cache
+partition-size:
+partition-type:
+ext4
+config
+ANDROID-BOOT!
+Do you want to work in Xiaomi? Send your resume to bspdebug@xiaomi.com!
+~6u3
+*QbMp
+^TS8H
+A39\
+c,hkD+
+b*^i
+2AO[~
+^{xf
+bL\f
+:#8w
+yQ2f
++j*U;
+x{Gj
+;i2RY
+auVC
+TA,y
+P9}r
+KYL]
+AS~*
+_YGl
+GSmeC
+O;c7
+o<ML
+2h^p
+WC&V
+hyT`h
+dlDo
+Z1Vis/
+EH{$>x
+Hxci
+t8xQG
+~W~2
+P\'r
+rwfb
+															
+									
+									
+						
+									
+						
+						
+$#"  
+(&"%#!
+						
+<;8AD=/8* 1
+%#")'&%#!0-+B@<<:7
+&%!VVQ[bW<R9/S-/e-&e& g$
+d# c# b"
+e# f$ f$ f$!g$#f#"f##h%#g%$h%$h%$h%$h%#h%"f##f##f$"f$"f$!e$"f##g"%f"$e#$d"#e!$b"&`$&_&$a#!\!"W"
+/'%/%%-&%&$"%&"%&$$&$%&$&%#&&$(''*((,+*+)(1.-74331.C?<]ZVUSO))(
+/.*bb\epaBbA=q<?
+.)z/
+P!$1"-&)0#*-#))%&'($'(&'(&((&)''*(',**-++0../-,520=97<95MJFkhcc`\221
+550hhahwcCpDG
+b%!4"*#)-
++, )($%&'$&'%''&('&)''*(',+*.,,1/.0.,530?<9B?:TQLrojkhd9:8
+						
+671TVNMcJ5v9C
+"! #"!&$#'%$,*'630><8KIE^\WZXT;<;
+561AF=5Q4)y0=
+,+(:85CA>MKGJIF<=<!!"
+460-2(
+763:96762874=>=$$$
+570+0%
+#" <<9<<912.330>?>(((
+$' 681-2( B
+%&#CD@AB>12-33/@@?+++
+(+$57138.'J$+
+'(&HJFIKG7:6:<9BCA000
+*/&37.9@3,P)3
+%'&GJFOSNBGBGIGCFC454"""
+,1)8<4HPC8]5<
+)+*KOJW\WSYUZ][JMJ998&&&
+03.WZT|
+%&$&'&.1->A>_b]hke|
+iig=<;(''
+						
+				
+" 362qsm
+7&Q#*3&)+%*(%(($)'&)(&+)',*'.+(/,)2/,31.551795@C>PSNoqltvp
+~@>=)((
+ ""998
+I7f3=H7=?6>;7;;6<:8<;8>=9@=9B>:D@;GC?IE@JICNNHVYRghb
+FBA+))
+"##AA@
+P=l9AN<AD;B@<?@;A?=BA=DB?FB?HC@IEALHDOJEPOITTM[^Wkmf
+NJI,*)
+$$$KJI
+T@o<BO>BE<BB=AA=BA>DB?GDAHEAIDBKFCMJEPLGQPKUUN\_Xkmg
+XSR-+*
+$##RPO
+V?o<AM=AE;AA<@@<BA>CB?FDAGDAHCBJECLIEOKGOOKSTMZ\Vhjd
+_ZY-+*
+U<l9>J:=B8>?:==:?>;@?<CA=DA=E@>GB@HFBKHDKMGOQKVXRce^
+_[Y-+*
+T9j6;F7:?6<<7:;7<<9>=:@>9A>9B=:D?>EC@GEBHJCKNGRTN_`Yzzt
+`[Z,**
+T8i58D58>5:;6895::6;;7=<7><7?;8B=;C@=EB?EGBHKFOQL[\Vwvo
+^YW*('
+T7g56B35<3894673884995;:5<:5=96@;9A>;B@<CC@FHDMOJYYSsrj{xp
+]VT)%$
+T6g43A23;2582562762873984:84;75=97>;9?=:@@>DEBKLGWVQongvsk
+ZTQ&#"
+S6g43A13;1471351451762873974:65<87<:9><:??<CDAJKFVUPmlesph
+YRO%"!
+R6g52A12;0361341341652763864965;87;99=;:>>:BC@IJETTOkkcpmd
+WOM$ 
+P3e3/?//9.04.02.120430541642743955976:97:;7>@=FGBQQLhg_kg_
+SLI#
+O2d1->..7-/2-/1-01/21.33/4306218448559768:6<>;CE?OOIfe\hdZ
+RJH"
+M/b/*<,+5*,/*,/*./,0/,11-21.40/6126327545738<8@B<LLFcaXc^U
+OGE"
+L.c.*=*+5)+/(+.)-.,/.,00-10-2/.3004225433636:7=?:IJCa_U`[Q
+PHE'" !
+K-d,)=(*4)+.'+.)-.+/-+/.,/.-0/.1/.221333343586:<7GGA^]S[WNzsg
+SKG-(%&" 
+H+b*(;&)4').%),'*+(-**-+*-++.,,.,,///111122254795DE?[ZQXSJrl_
+XPL<63720  
+F)_)':%'3%'-#&)$()&*((*)(+)(,*)-++---/./010141572AB<YWOUPGng[
+^VQMFCJFC,)(
+C'\'%8$&1#%+"$'"%&#(&%(&%)&&*''+**+**-,-.0..2/250??:VULRMEibW
+cYUXQMWRO420
+@%]$$6!&.#%'"$&"%%#&%$&&$'&%('&)((())***--+..,22-=<8QOHOKDe_T
+~[SNIB?HC@520
+=#]!#4
+&*"&#!%#"%#"$%"$%$%%$&&%'&&&('()'++',,)10+;95KIBNJCa\R
+yQJD3.*2-)20-!
+88.wyex
+fM{?C
+&("%!"$!!$!!"#!"$""$"#%#%$#$&%%&$(($*)%0-)851EB<IG@[VN
+yrXQKLFAID@?<8#!
+56+mq]pz^Hw<A
+%(!$"""  #  !" !" !# "$!$#"#%$$%#''#)($-+'52.@=6DA;VQJ|um}umme^
+|wTPL$!
+23*fjWisWFu:@
+$' #!!!
+"! !#""#!&&!''#+)%2/+;82@=6RLFyqiyrh
+hd_&# 
+13)dhUfrVEv:>
+ ! !" %# &%#*($/,(74.<93NJDumfvoe
+zwr+(%
+24*ciVdrVEv:=
+!! $" %#")'#-+'51,:61MHBrkcumc
+}/,)
+14+bhUaqTDw9:
+$!!'%"*($0-)73.JG?nh`sja
+.3)]eSZkO=p47
+$# (&#.+'53.HF?lf^sja
++0&XaORdH5i-3
+&%!,*&53.HD?jc\sia|rh
+)/%R]KK_B0f*1
+$# *($42/DA<c^Vnd\kaX
+z<62
+(0&N[HH]@2j+2
+#" ('$31.@>9ZVOd\U_VM}sk
+zsl61-
+'0%HVCCX;0j,1
+&%"10,;94QMFZTLTLDld[
+vojd]0,(
+6D21E+&]"*
+('%/-*?=7ID=LE=_XPke^]XR-)%
+(7%#6
+&%!31,<92GA:VPK_YTUPL*&#
++)#?:4IEALHDIEB&#!
+73.:74;86>;9#!
+.+'*(&)'&300 
++((.+*$!
+?;:A=<)&%
+%! LGGKGF'$#
+($#RNNOKK$!!
+?<;<:9
+$$"$$"
+'-$+6(
+/0- !
+17-9D4*T#4
+!! #  " 
+"$! !
+#$!>?<)*'
+5:0>H8,U$6
+$)!"$"#"!$""$"!#"!#"!#"!$"!"#!!"! " "$!!# '(%FHC.0,
+$%" !
+8=2CM=0V&8
+?+V )1 '*$&%$&##%##&##%##%##%##%###$###"!" "#!"# +,(MMJ330 !
+()&#$"
+:>3KTE5W+=
+B-T#+3$(,%((%'%$(%$(%$(%$(%$(%$(%$'&$&%$%$"&%"&%".-*PNJ651)(%10.''&
+;>6U[M;X0C
+F.Q%,6()/')+&((%*(%*(%+(%+(%*(%+(%+(%*(%*'$+'%*'$0.+QMK8532.,;77,+*			
+	:=6\aUD]9C
+G2S(1:+.1)-/)-,(.,(.,(/,)/,)/,)/,)0,)0,)0+(0+)0,*40.SMK=86A;:NII1/.			
+9;4^cWKeA>
+D6Y*6=-44+42-21-21-11-21.31.41.41.41.41.30-30-52/741TOLA<:NIG`\[321
+581\aULhD7
+A8]*9?-74,83/64034034034044064064064064053052/852974SOLC><VQOkgf321
+*,'INB9V3)z%\
+;/W%0:(01)1/,0/+./+//+//+0/+1/+0/+0/+0/+/-*.-*42/751NJG;74IEBYUT,+*			
+9>3(G$
+7&R!(6#*-&,*)+*'**'**'**'+*',*'+*'+*'+*')(%))&0/,53/HEB40-<96HEC%%$
+ & "#"""
+)'$/-)?=9*'#+)%0-,
+A!|"
+				
+)		)		)		)		)		)		)
+	)		)		)		)		)		)		)		)		)		)		)		)		)		)		)		)	
+)		*
+	)		(
+(		(	
+&		'	
+%		$		$	
+	#		#		#		#		#		#		#		#		#		#		#		#		"		"		"		"		"		"		"		"	
+	#		"	
+	!		!		!		!	
+	!		 	
+11)11)
+11)JRJkZsJRJ
+11)kZsk{skZJ11):
+11)kZJkZs:1J11)
+11):1J11)
+JRJ:1J
+11)JRJ
+11)JRJ
+R{11)
+{skZs
+JRJk{
+{s11)
+JRJk{s11)
+kZJs
+JRJ11)
+11):
+!11)11)
+JRJ11)
+:1J:
+!JRJ
+:1Jk{s
+:1J11)
+11)11)
+!kZs
+11)JRJ
+R{:1J
+11)11)
+single_dsi
+sim-swte
+sim-hwte
+adv7533_1080p_video
+qcom,mdss_dsi_adv7533_1080p60_video
+adv7533_720p_video
+qcom,mdss_dsi_adv7533_720p60_video
+auo_qvga_cmd
+qcom,mdss_dsi_auo_qvga_cmd
+generic_720p_cmd
+qcom,mdss_dsi_generic_720p_cmd
+hx8279a_wsvga_video
+qcom,mdss_dsi_hx8279a_wsvga_video
+hx8379a_wvga_video
+qcom,mdss_dsi_hx8379a_fwvga_video
+hx8379a_truly_fwvga_video
+qcom,mdss_dsi_hx8379a_truly_fwvga_video
+hx8379a_wvga_video
+qcom,mdss_dsi_hx8379a_wvga_video
+hx8379c_fwvga_video
+qcom,mdss_dsi_hx8379c_fwvga_video
+hx8389b_qhd_video
+qcom,mdss_dsi_hx8389b_qhd_video
+hx8394a_720p_video
+qcom,mdss_dsi_hx8394a_720p_video
+hx8394d_720p_video
+qcom,mdss_dsi_hx8394d_720p_video
+hx8394d_qhd_video
+qcom,mdss_dsi_hx8394d_qhd_video
+ili9806e_fwvga_video
+qcom,mdss_dsi_ili9806e_fwvga_video
+innolux_720p_video
+qcom,mdss_dsi_innolux_720p_video
+jdi_4k_dualdsi_video
+qcom,dsi_jdi_4k_video
+jdi_1080p_video
+qcom,mdss_dsi_jdi_1080p_video
+jdi_a216_fhd_video
+qcom,mdss_dsi_jdi_a216_fhd_video
+jdi_fhd_video
+qcom,mdss_dsi_jdi_fhd_video
+jdi_qhd_dualdsi_cmd
+qcom,mdss_dsi_jdi_qhd_dualmipi_cmd
+jdi_qhd_dualdsi_video
+qcom,dsi_jdi_qhd_video
+jdi_4k_dualdsi_video_nofbc
+qcom,dsi_jdi_4k_nofbc_video
+nt35521_720p_video
+qcom,mdss_dsi_nt35521_720p_video
+nt35521_wxga_video
+qcom,mdss_dsi_nt35521_wxga_video
+nt35590_720p_cmd
+qcom,mdss_dsi_nt35590_720p_cmd
+nt35590_720p_video
+qcom,mdss_dsi_nt35590_720p_video
+nt35590_qvga_cmd
+qcom,mdss_dsi_nt35590_qvga_cmd
+nt35596_1080p_video
+qcom,mdss_dsi_nt35596_1080p_skuk_video
+nt35597_wqxga_cmd
+qcom,dsi_nt35597_wqxga_cmd
+nt35597_wqxga_video
+qcom,dsi_nt35597_wqxga_video
+nt35597_wqxga_dualdsi_video
+qcom,mdss_dsi_nt35597_wqxga_video
+otm1283a_720p_video
+qcom,mdss_dsi_otm1283a_720p_video
+otm1906c_1080p_cmd
+qcom,mdss_dsi_otm1906c_1080p_cmd
+otm8018b_fwvga_video
+qcom,mdss_dsi_otm8018b_fwvga_video
+otm8019a_fwvga_video
+qcom,mdss_dsi_otm8019a_fwvga_video
+r61318_hd_video
+qcom,mdss_dsi_r61318_hd_video
+r63417_1080p_video
+qcom,mdss_dsi_r63417_1080p_video
+samsung_wxga_video
+qcom,mdss_dsi_samsung_wxga_video
+sharp_1080p_cmd
+qcom,mdss_dsi_sharp_1080p_cmd
+sharp_4k_dsc_video
+qcom,mdss_dsi_sharp_4k_dsc_video
+sharp_4k_dsc_cmd
+qcom,mdss_dsi_sharp_4k_dsc_cmd
+sharp_qhd_video
+qcom,mdss_dsi_sharp_qhd_video
+sharp_wqxga_dualdsi_video
+qcom,mdss_dsi_sharp_wqxga_video
+ssd2080m_720p_video
+qcom,mdss_dsi_ssd2080m_720p_video
+toshiba_720p_video
+qcom,mdss_dsi_toshiba_720p_video
+truly_1080p_cmd
+qcom,mdss_dsi_truly_1080p_cmd
+truly_1080p_video
+qcom,mdss_dsi_truly_1080p_video
+truly_wvga_cmd
+qcom,mdss_dsi_truly_wvga_cmd
+truly_wvga_video
+qcom,mdss_dsi_truly_wvga_video
+adv16
+qcom,mdss_dsi_adv7533_1080p
+adv4
+qcom,mdss_dsi_adv7533_720p
+nt35950_4k_dsc_cmd
+qcom,mdss_dsi_nt35950_4k_dsc_cmd
+sharp_1080p_cmd
+qcom,mdss_dsi_sharp_1080p_cmd
+sharp_120hz_1080p_cmd
+qcom,mdss_dual_sharp_1080p_120hz_cmd
+mirrorlake1_hdplus_video
+qcom,mdss_dsi_icn9706_720_1440p_video
